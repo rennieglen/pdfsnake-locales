@@ -22,7 +22,10 @@
     "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
     "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
     "questions": "Kami senang menerima pertanyaan dan komentar Anda.",
-    "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "Baca {link}.",
+    "support": "Mendukung",
+    "helpAndTutorials": "bantuan online dan tutorial"
   },
   "choose": {
     "whatNext": "Apa selanjutnya?"

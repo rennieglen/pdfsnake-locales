@@ -22,7 +22,10 @@
     "terms": "使用此网站即表示您同意遵守我们的{link}。",
     "plugIn": "PDF Snake 6 是畅销 Adobe Acrobat 插件 {link} 的新在线版本。",
     "questions": "我们非常愿意听取您的问题和意见。",
-    "copyright": "版权所有 2002-{year} Rennie Glen Software LLC"
+    "copyright": "版权所有 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "阅读{link}。",
+    "support": "支持",
+    "helpAndTutorials": "在线帮助和教程"
   },
   "choose": {
     "whatNext": "下一步是什么？"

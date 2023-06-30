@@ -22,7 +22,10 @@
     "terms": "Usar esta página web significa que está de acuerdo con nuestros {link}.",
     "plugIn": "PDF Snake 6 es una nueva versión online del exitoso Plug-In de Adobe Acrobat {link}.",
     "questions": "Nos encanta escuchar sus preguntas y comentarios.",
-    "copyright": "Derechos de autor 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Derechos de autor 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "Lea la {link}.",
+    "support": "Apoyo",
+    "helpAndTutorials": "ayuda en línea y tutoriales"
   },
   "choose": {
     "whatNext": "¿Qué sigue?"

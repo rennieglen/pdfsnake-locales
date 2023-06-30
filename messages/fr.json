@@ -22,7 +22,10 @@
     "terms": "L'utilisation de ce site web signifie que vous êtes d'accord avec notre {link}.",
     "plugIn": "PDF Snake 6 est une nouvelle version en ligne du plug-in Adobe Acrobat le plus vendu {link}.",
     "questions": "Nous sommes ravis d'entendre vos questions et vos commentaires.",
-    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "Lisez le {link}.",
+    "support": "Soutien",
+    "helpAndTutorials": "aide en ligne et tutoriels"
   },
   "choose": {
     "whatNext": "Et ensuite?"
