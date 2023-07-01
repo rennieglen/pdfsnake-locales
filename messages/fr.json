@@ -25,7 +25,8 @@
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
     "readHelp": "Lisez le {link}.",
     "support": "Soutien",
-    "helpAndTutorials": "aide en ligne et tutoriels"
+    "helpAndTutorials": "aide en ligne et tutoriels",
+    "pricing": "Tarification"
   },
   "choose": {
     "whatNext": "Et ensuite?"

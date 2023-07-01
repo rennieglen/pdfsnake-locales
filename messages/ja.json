@@ -25,7 +25,8 @@
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
     "readHelp": "{link}を読んでください。",
     "support": "サポート",
-    "helpAndTutorials": "オンラインヘルプとチュートリアル"
+    "helpAndTutorials": "オンラインヘルプとチュートリアル",
+    "pricing": "価格設定"
   },
   "choose": {
     "whatNext": "次の操作は？"
