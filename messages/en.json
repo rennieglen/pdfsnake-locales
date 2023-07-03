@@ -29,7 +29,8 @@
     "pricing": "Pricing"
   },
   "choose": {
-    "whatNext": "What next?"
+    "whatNext": "What next?",
+    "trashTip": "Drag and drop tools here to remove them from the toolbox."
   },
   "tools": {
     "booklet": "Booklet",

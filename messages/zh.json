@@ -29,7 +29,8 @@
     "pricing": "价钱"
   },
   "choose": {
-    "whatNext": "下一步是什么？"
+    "whatNext": "下一步是什么？",
+    "trashTip": "将工具拖放到此处可将其从工具箱中删除。"
   },
   "tools": {
     "booklet": "手册",

@@ -29,7 +29,8 @@
     "pricing": "Precios"
   },
   "choose": {
-    "whatNext": "¿Qué sigue?"
+    "whatNext": "¿Qué sigue?",
+    "trashTip": "Arrastre y suelte las herramientas aquí para eliminarlas de la caja de herramientas."
   },
   "tools": {
     "booklet": "Cuadernillo",

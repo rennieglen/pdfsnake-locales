@@ -29,7 +29,8 @@
     "pricing": "Tarification"
   },
   "choose": {
-    "whatNext": "Et ensuite?"
+    "whatNext": "Et ensuite?",
+    "trashTip": "Faites glisser et déposez les outils ici pour les supprimer de la boîte à outils."
   },
   "tools": {
     "booklet": "Livret",

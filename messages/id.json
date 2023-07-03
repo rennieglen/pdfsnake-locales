@@ -29,7 +29,8 @@
     "pricing": "Harga"
   },
   "choose": {
-    "whatNext": "Apa selanjutnya?"
+    "whatNext": "Apa selanjutnya?",
+    "trashTip": "Seret dan lepas alat di sini untuk menghapusnya dari kotak alat."
   },
   "tools": {
     "booklet": "Buklet",

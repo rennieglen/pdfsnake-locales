@@ -29,7 +29,8 @@
     "pricing": "Preços"
   },
   "choose": {
-    "whatNext": "E agora?"
+    "whatNext": "E agora?",
+    "trashTip": "Arraste e solte as ferramentas aqui para removê-las da caixa de ferramentas."
   },
   "tools": {
     "booklet": "Livreto",
