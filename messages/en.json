@@ -45,7 +45,8 @@
     "nupBook": "N-up Book",
     "split": "Split",
     "overlay": "Overlay",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Header or Footer"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -309,7 +310,8 @@
     "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book.",
     "splitHtml": "<b>Split</b> splits a large document into smaller documents.",
     "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another.",
-    "nudgeHtml": "<b>Nudge</b> moves content around the page."
+    "nudgeHtml": "<b>Nudge</b> moves content around the page.",
+    "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -431,6 +433,19 @@
     "help": {
       "move": "The distance to move the contents.",
       "intro": "Nudge moves contents around pages.  It's the perfect tool for fixing registration issues with your scanner, press, or printer."
+    }
+  },
+  "headerFooter": {
+    "template": "Template",
+    "hint": "Edit the template here.",
+    "insertVariable": "Insert variable",
+    "font": "Font",
+    "size": "Size",
+    "location": "Location",
+    "alternate": "Alternate sides for odd and even pages.",
+    "margins": "Margins",
+    "help": {
+      "intro": "The Header or Footer tool adds page numbers, file names, or other text to the bottom or top of pages."
     }
   }
 }
