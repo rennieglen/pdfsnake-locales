@@ -309,7 +309,8 @@
     "nupBookHtml": "<b>N-up Book</b> impose que les pages soient pliées, coupées et reliées dans un livre.",
     "splitHtml": "<b>Diviser</b> divise un gros document en documents plus petits.",
     "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre.",
-    "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page."
+    "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page.",
+    "headerFooterHtml": "<b>En-tête ou pied de page</b> ajoute des numéros de page, des noms de fichiers ou tout autre texte en bas ou en haut des pages."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -421,5 +422,19 @@
       "move": "La distance pour déplacer le contenu.",
       "intro": "Nudge déplace le contenu autour des pages. C'est l'outil parfait pour résoudre les problèmes d'enregistrement avec votre scanner, presse ou imprimante."
     }
+  },
+  "headerFooter": {
+    "alternate": "Côtés alternés pour les pages paires et impaires.",
+    "font": "Police de caractère",
+    "hint": "Modifiez le modèle ici.",
+    "insertVariable": "Insérer une variable",
+    "location": "Emplacement",
+    "margins": "Marges",
+    "size": "Taille",
+    "template": "Modèle",
+    "help": {
+      "intro": "L'outil En-tête ou Pied de page ajoute des numéros de page, des noms de fichiers ou d'autres textes en bas ou en haut des pages."
+    },
+    "edit": "Modifier"
   }
 }

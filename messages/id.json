@@ -309,7 +309,8 @@
     "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku.",
     "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil.",
     "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya.",
-    "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman."
+    "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman.",
+    "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -421,5 +422,19 @@
       "move": "Jarak untuk memindahkan konten.",
       "intro": "Nudge memindahkan konten di sekitar halaman. Ini adalah alat yang sempurna untuk memperbaiki masalah pendaftaran dengan pemindai, mesin cetak, atau printer Anda."
     }
+  },
+  "headerFooter": {
+    "alternate": "Sisi alternatif untuk halaman ganjil dan genap.",
+    "font": "Fon",
+    "hint": "Edit template di sini.",
+    "insertVariable": "Sisipkan variabel",
+    "location": "Lokasi",
+    "margins": "Margin",
+    "size": "Ukuran",
+    "template": "Templat",
+    "help": {
+      "intro": "Alat Header atau Footer menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
+    },
+    "edit": "Sunting"
   }
 }

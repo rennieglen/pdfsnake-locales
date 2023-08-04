@@ -309,7 +309,8 @@
     "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。",
     "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。",
     "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。",
-    "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。"
+    "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。",
+    "headerFooterHtml": "<b>页眉或页脚</b>将页码、文件名或其他文本添加到页面底部或顶部。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -421,5 +422,19 @@
       "move": "移动内容的距离。",
       "intro": "轻推在页面周围移动内容。它是解决您的扫描仪、印刷机或打印机的注册问题的完美工具。"
     }
+  },
+  "headerFooter": {
+    "alternate": "奇数页和偶数页交替面。",
+    "font": "字体",
+    "hint": "在此编辑模板。",
+    "insertVariable": "插入变量",
+    "location": "地点",
+    "margins": "边距",
+    "size": "尺寸",
+    "template": "模板",
+    "help": {
+      "intro": "页眉或页脚工具将页码、文件名或其他文本添加到页面底部或顶部。"
+    },
+    "edit": "编辑"
   }
 }

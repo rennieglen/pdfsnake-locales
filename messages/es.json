@@ -309,7 +309,8 @@
     "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro.",
     "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños.",
     "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro.",
-    "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página."
+    "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página.",
+    "headerFooterHtml": "<b>Encabezado o pie de página</b> agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -432,5 +433,19 @@
       "move": "La distancia para mover el contenido.",
       "intro": "Nudge mueve el contenido por las páginas. Es la herramienta perfecta para solucionar problemas de registro con su escáner, prensa o impresora."
     }
+  },
+  "headerFooter": {
+    "alternate": "Lados alternos para páginas pares e impares.",
+    "font": "Fuente",
+    "hint": "Edite la plantilla aquí.",
+    "insertVariable": "Insertar variable",
+    "location": "Ubicación",
+    "margins": "Márgenes",
+    "size": "Tamaño",
+    "template": "Plantilla",
+    "help": {
+      "intro": "La herramienta Encabezado o Pie de página agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas."
+    },
+    "edit": "Editar"
   }
 }

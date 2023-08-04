@@ -446,6 +446,7 @@
     "margins": "Margins",
     "help": {
       "intro": "The Header or Footer tool adds page numbers, file names, or other text to the bottom or top of pages."
-    }
+    },
+    "edit": "Edit"
   }
 }

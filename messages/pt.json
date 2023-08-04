@@ -309,7 +309,8 @@
     "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro.",
     "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores.",
     "overlayHtml": "<b>Sobreposição</b> sobrepõe o conteúdo de um documento PDF em outro.",
-    "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página."
+    "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página.",
+    "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -432,5 +433,19 @@
       "move": "A distância para mover o conteúdo.",
       "intro": "Nudge move o conteúdo pelas páginas. É a ferramenta perfeita para corrigir problemas de registro com seu scanner, impressora ou impressora."
     }
+  },
+  "headerFooter": {
+    "alternate": "Lados alternativos para páginas ímpares e pares.",
+    "font": "Fonte",
+    "hint": "Edite o modelo aqui.",
+    "insertVariable": "Inserir variável",
+    "location": "Localização",
+    "margins": "Margens",
+    "size": "Tamanho",
+    "template": "Modelo",
+    "help": {
+      "intro": "A ferramenta Cabeçalho ou Rodapé adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
+    },
+    "edit": "Editar"
   }
 }
