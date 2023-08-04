@@ -45,7 +45,8 @@
     "nupBook": "N-up 书",
     "split": "分裂",
     "overlay": "覆盖",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "页眉或页脚"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -435,6 +436,9 @@
     "help": {
       "intro": "页眉或页脚工具将页码、文件名或其他文本添加到页面底部或顶部。"
     },
-    "edit": "编辑"
+    "edit": "编辑",
+    "fileName": "文件名",
+    "pageCount": "页数",
+    "pageNumber": "页码"
   }
 }

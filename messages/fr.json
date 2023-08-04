@@ -45,7 +45,8 @@
     "nupBook": "N-up Livre",
     "split": "Diviser",
     "overlay": "Recouvrir",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "En-tête ou pied de page"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -435,6 +436,9 @@
     "help": {
       "intro": "L'outil En-tête ou Pied de page ajoute des numéros de page, des noms de fichiers ou d'autres textes en bas ou en haut des pages."
     },
-    "edit": "Modifier"
+    "edit": "Modifier",
+    "fileName": "nom de fichier",
+    "pageCount": "nombre de pages",
+    "pageNumber": "numéro de page"
   }
 }

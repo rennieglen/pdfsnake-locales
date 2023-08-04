@@ -45,7 +45,8 @@
     "nupBook": "Buku N-up",
     "split": "Membelah",
     "overlay": "Hamparan",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Header atau Footer"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -435,6 +436,9 @@
     "help": {
       "intro": "Alat Header atau Footer menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
     },
-    "edit": "Sunting"
+    "edit": "Sunting",
+    "fileName": "nama file",
+    "pageCount": "jumlah halaman",
+    "pageNumber": "nomor halaman"
   }
 }

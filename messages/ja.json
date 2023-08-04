@@ -45,7 +45,8 @@
     "nupBook": "Nアップブック",
     "split": "分割",
     "overlay": "かぶせる",
-    "nudge": "ナッジ"
+    "nudge": "ナッジ",
+    "headerFooter": "ヘッダーまたはフッター"
   },
   "pageSize": {
     "paperSize": "用紙サイズ",
@@ -435,6 +436,9 @@
     "help": {
       "intro": "ヘッダーまたはフッター ツールは、ページ番号、ファイル名、またはその他のテキストをページの下部または上部に追加します。"
     },
-    "edit": "編集"
+    "edit": "編集",
+    "fileName": "ファイル名",
+    "pageCount": "ページ数",
+    "pageNumber": "ページ番号"
   }
 }

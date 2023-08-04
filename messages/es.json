@@ -45,7 +45,8 @@
     "nupBook": "Libro N-up",
     "split": "Separar",
     "overlay": "Superponer",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Encabezado o pie de página"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -446,6 +447,9 @@
     "help": {
       "intro": "La herramienta Encabezado o Pie de página agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas."
     },
-    "edit": "Editar"
+    "edit": "Editar",
+    "fileName": "nombre del archivo",
+    "pageCount": "recuento de páginas",
+    "pageNumber": "número de página"
   }
 }

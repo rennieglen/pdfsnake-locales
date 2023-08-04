@@ -45,7 +45,8 @@
     "nupBook": "Livro N-up",
     "split": "Dividir",
     "overlay": "Sobreposição",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Cabeçalho ou Rodapé"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -446,6 +447,9 @@
     "help": {
       "intro": "A ferramenta Cabeçalho ou Rodapé adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
     },
-    "edit": "Editar"
+    "edit": "Editar",
+    "fileName": "nome do arquivo",
+    "pageCount": "contagem de páginas",
+    "pageNumber": "número de página"
   }
 }

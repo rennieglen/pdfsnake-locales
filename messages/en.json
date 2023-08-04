@@ -447,6 +447,9 @@
     "help": {
       "intro": "The Header or Footer tool adds page numbers, file names, or other text to the bottom or top of pages."
     },
-    "edit": "Edit"
+    "edit": "Edit",
+    "fileName": "file name",
+    "pageNumber": "page number",
+    "pageCount": "page count"
   }
 }
