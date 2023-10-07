@@ -76,7 +76,9 @@
     "sequential": "séquentiel",
     "sequentialHelp": "Les pages seront imposées dans le même ordre qu'elles apparaissent dans le document source.",
     "stack": "pile",
-    "stackHelp": "Les pages seront disposées de telle sorte qu'après avoir été imprimées et coupées, les piles résultantes pourront être empilées les unes sur les autres, et l'ordre des pages qui en résultera correspondra à celui du document source."
+    "stackHelp": "Les pages seront disposées de telle sorte qu'après avoir été imprimées et coupées, les piles résultantes pourront être empilées les unes sur les autres, et l'ordre des pages qui en résultera correspondra à celui du document source.",
+    "trueStack": "Véritable pile",
+    "trueStackHelpHtml": "<p> Il y avait un défaut dans les versions 6.152 et antérieures de PDF Snake. \nAvec <b>Ordre des pages = pile</b> et <b>Répéter chaque page > 1</b>, PDF Snake a disposé les pages dans le mauvais ordre. \n</p> <p> Décochez la case <b>Vraie pile</b> pour continuer à organiser les pages dans le même ordre que les versions 6.152 et antérieures de PDF Snake. \n</p> <p> Cochez la case <b>True stack</b> et PDF Snake réorganisera les pages correctement. \n</p> <p> Lorsque <b>Répéter chaque page = 1</b>, l'ancien ordre des pages et le nouvel ordre des pages sont les mêmes, la case à cocher n'a aucun effet, donc PDF Snake la cache. \n</p>"
   },
   "whiteSpace": {
     "whiteSpace": "Espace blanc",
