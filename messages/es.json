@@ -218,7 +218,8 @@
     "play": "Reanudar recálculo automático",
     "recalculatingPaused": "Recalculando en pausa.",
     "clickPlay": "Haga clic en {play} para reanudar.",
-    "clickToPause": "Haga clic en este botón para pausar el recálculo automático."
+    "clickToPause": "Haga clic en este botón para pausar el recálculo automático.",
+    "xray": "radiografía"
   },
   "home": {
     "step": "Etapa {number}: {name}",

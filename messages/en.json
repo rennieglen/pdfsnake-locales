@@ -218,7 +218,8 @@
     "play": "Resume automatic recalculation",
     "recalculatingPaused": "Recalculating paused.",
     "clickPlay": "Click {play} to resume.",
-    "clickToPause": "Click this button to pause automatic recalculation."
+    "clickToPause": "Click this button to pause automatic recalculation.",
+    "xray": "X-ray"
   },
   "home": {
     "step": "Step {number}: {name}",

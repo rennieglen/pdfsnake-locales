@@ -218,7 +218,8 @@
     "play": "自動再計算を再開",
     "recalculatingPaused": "再計算を一時停止しました。",
     "clickPlay": "{play} をクリックして再開します。",
-    "clickToPause": "このボタンをクリックして、自動再計算を一時停止します。"
+    "clickToPause": "このボタンをクリックして、自動再計算を一時停止します。",
+    "xray": "レントゲン"
   },
   "home": {
     "step": "ステップ {number}: {name}",

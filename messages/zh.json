@@ -218,7 +218,8 @@
     "play": "恢复自动重新计算",
     "recalculatingPaused": "重新计算已暂停。",
     "clickPlay": "点击{play}继续。",
-    "clickToPause": "单击此按钮可暂停自动重新计算。"
+    "clickToPause": "单击此按钮可暂停自动重新计算。",
+    "xray": "射线照相"
   },
   "home": {
     "step": "第 {number} 步：{name}",

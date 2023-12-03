@@ -218,7 +218,8 @@
     "play": "Lanjutkan perhitungan ulang otomatis",
     "recalculatingPaused": "Penghitungan ulang dijeda.",
     "clickPlay": "Klik {play} untuk melanjutkan.",
-    "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis."
+    "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis.",
+    "xray": "radiografi"
   },
   "home": {
     "step": "Langkah {number}: {name}",
