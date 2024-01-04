@@ -338,7 +338,9 @@
     "subscribeNow": "Assinar agora",
     "stripeError": "Ocorreu um erro: {msg}",
     "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:",
-    "subscriptionsRenewAutomatically": "Entendo que as assinaturas são renovadas automaticamente e posso cancelar minha assinatura a qualquer momento acessando {cancelLink}."
+    "subscriptionsRenewAutomatically": "Entendo que as assinaturas são renovadas automaticamente e posso cancelar minha assinatura a qualquer momento acessando {cancelLink}.",
+    "creatingFreeTrial": "Criando teste gratuito...",
+    "noDisposableEmail": "Endereços de e-mail descartáveis ​​não são elegíveis para testes gratuitos."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."
