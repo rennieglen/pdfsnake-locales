@@ -78,7 +78,9 @@
     "stack": "apilar",
     "stackHelp": "Las páginas serán organizadas de forma que, luego de ser impresas y cortadas, las pilas resultantes puedan ser apiladas entre sí, y el orden resultante de las páginas coincida con el del documento de origen.",
     "trueStack": "Pila verdadera",
-    "trueStackHelpHtml": "<p> Hubo un defecto en las versiones 6.152 y anteriores de PDF Snake. \nCon <b>Orden de páginas = pila</b> y <b>Repetir cada página > 1</b>, PDF Snake organizaba las páginas en el orden incorrecto. \n</p> <p> Desactive la casilla de verificación <b>Pila verdadera</b> para continuar organizando las páginas en el mismo orden que las versiones 6.152 y anteriores de PDF Snake. \n</p> <p> Marque la casilla de verificación <b>Pila verdadera</b> y PDF Snake reordenará las páginas correctamente. \n</p> <p> Cuando <b>Repetir cada página = 1</b>, el orden de las páginas antiguas y el orden de las páginas nuevas son los mismos, la casilla de verificación no tiene ningún efecto, por lo que PDF Snake la oculta. \n</p>"
+    "trueStackHelpHtml": "<p> Hubo un defecto en las versiones 6.152 y anteriores de PDF Snake. \nCon <b>Orden de páginas = pila</b> y <b>Repetir cada página > 1</b>, PDF Snake organizaba las páginas en el orden incorrecto. \n</p> <p> Desactive la casilla de verificación <b>Pila verdadera</b> para continuar organizando las páginas en el mismo orden que las versiones 6.152 y anteriores de PDF Snake. \n</p> <p> Marque la casilla de verificación <b>Pila verdadera</b> y PDF Snake reordenará las páginas correctamente. \n</p> <p> Cuando <b>Repetir cada página = 1</b>, el orden de las páginas antiguas y el orden de las páginas nuevas son los mismos, la casilla de verificación no tiene ningún efecto, por lo que PDF Snake la oculta. \n</p>",
+    "repeatOptimum": "óptimo",
+    "fillSheet": "Llene toda la hoja con una sola página del documento fuente. \nCuando está marcado, se ignora el valor <b>Repetir</b>."
   },
   "whiteSpace": {
     "whiteSpace": "Espacio en blanco",
