@@ -79,7 +79,6 @@
     "stackHelp": "Halaman-halaman akan diatur supaya setelah dicetak dan dipotong, tumpukan hasilnya dapat ditumpuk di atas satu sama lain, dan urutan halamannya akan sama dengan dokumen sumber.",
     "trueStack": "Tumpukan yang benar",
     "trueStackHelpHtml": "<p> Ada kerusakan pada PDF Snake versi 6.152 dan yang lebih lama. \nDengan <b>Urutan Halaman = tumpukan</b> dan <b>Ulangi setiap halaman > 1</b>, PDF Snake menyusun halaman dalam urutan yang salah. \n</p> <p> Kosongkan kotak centang <b>Tumpukan sejati</b> untuk melanjutkan menyusun halaman dalam urutan yang sama seperti PDF Snake versi 6.152 dan yang lebih lama. \n</p> <p> Centang kotak <b>True stack</b> dan PDF Snake akan menyusun ulang halaman dengan benar. \n</p> <p> Ketika <b>Ulangi setiap halaman = 1</b>, urutan halaman lama dan urutan halaman baru sama, kotak centang tidak berpengaruh, jadi PDF Snake menyembunyikannya. \n</p>",
-    "repeatOptimum": "optimal",
     "fillSheet": "lembar isian",
     "stepAndRepeat": "melangkah dan ulangi",
     "stepAndRepeatHelp": "Ulangi setiap halaman sehingga memenuhi satu lembar."

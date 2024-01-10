@@ -79,7 +79,6 @@
     "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document.",
     "trueStack": "True stack",
     "trueStackHelpHtml": "<p> There was a defect in PDF Snake versions 6.152 and older. With <b>Page Order = stack</b> and <b>Repeat each page > 1</b>, PDF Snake arranged the pages in the wrong order. </p> <p> Clear the <b>True stack</b> checkbox to continue arranging pages in the same order as PDF Snake versions 6.152 and older. </p> <p> Check the <b>True stack</b> checkbox and PDF Snake will reorder the pages correctly. </p> <p> When <b>Repeat each page = 1</b>, the old page order and new page order are the same, the checkbox has no effect, so PDF Snake hides it. </p>",
-    "repeatOptimum": "optimum",
     "fillSheet": "fill sheet",
     "stepAndRepeat": "step and repeat",
     "stepAndRepeatHelp": "Repeat each page so it fills one sheet."

@@ -79,7 +79,6 @@
     "stackHelp": "排列页面时会使码出的纸堆可在印刷并裁切完毕后堆在一起，最终页面顺序会与源文档相同。",
     "trueStack": "真实堆栈",
     "trueStackHelpHtml": "<p> PDF Snake 6.152 及更早版本中存在缺陷。\n使用<b>页面顺序=堆栈</b>和<b>重复每个页面> 1</b>时，PDF Snake以错误的顺序排列页面。 \n</p> <p> 清除<b>真实堆栈</b>复选框可继续按照与 PDF Snake 版本 6.152 及更早版本相同的顺序排列页面。 \n</p> <p> 选中<b>真实堆栈</b>复选框，PDF Snake 将正确地对页面重新排序。 \n</p> <p> 当<b>重复每个页面= 1</b>时，旧页面顺序和新页面顺序相同，该复选框不起作用，因此PDF Snake将其隐藏。 \n</p>",
-    "repeatOptimum": "最佳",
     "fillSheet": "填表",
     "stepAndRepeat": "步骤并重复",
     "stepAndRepeatHelp": "重复每一页，使其填满一张纸。"

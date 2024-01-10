@@ -79,7 +79,6 @@
     "stackHelp": "As páginas serão organizadas de forma que, após serem impressas e cortadas, as pilhas resultantes possam ser empilhadas umas sobre as outras e a ordem das páginas resultantes coincida com o documento de origem.",
     "trueStack": "Pilha verdadeira",
     "trueStackHelpHtml": "<p> Houve um defeito nas versões 6.152 e anteriores do PDF Snake. \nCom <b>Page Order = stack</b> e <b>Repeat each page > 1</b>, o PDF Snake organizou as páginas na ordem errada. \n</p> <p> Desmarque a caixa de seleção <b>Pilha verdadeira</b> para continuar organizando as páginas na mesma ordem que o PDF Snake versões 6.152 e anteriores. \n</p> <p> Marque a caixa de seleção <b>Pilha verdadeira</b> e o PDF Snake reordenará as páginas corretamente. \n</p> <p> Quando <b>Repetir cada página = 1</b>, a ordem antiga e a nova ordem das páginas são as mesmas, a caixa de seleção não tem efeito, então o PDF Snake a oculta. \n</p>",
-    "repeatOptimum": "ótimo",
     "fillSheet": "preencher folha",
     "stepAndRepeat": "passo e repita",
     "stepAndRepeatHelp": "Repita cada página para preencher uma folha."
