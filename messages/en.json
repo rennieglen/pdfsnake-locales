@@ -80,7 +80,8 @@
     "trueStack": "True stack",
     "trueStackHelpHtml": "<p> There was a defect in PDF Snake versions 6.152 and older. With <b>Page Order = stack</b> and <b>Repeat each page > 1</b>, PDF Snake arranged the pages in the wrong order. </p> <p> Clear the <b>True stack</b> checkbox to continue arranging pages in the same order as PDF Snake versions 6.152 and older. </p> <p> Check the <b>True stack</b> checkbox and PDF Snake will reorder the pages correctly. </p> <p> When <b>Repeat each page = 1</b>, the old page order and new page order are the same, the checkbox has no effect, so PDF Snake hides it. </p>",
     "repeatOptimum": "optimum",
-    "fillSheet": "Fill the whole sheet with a single page from the source document. When checked, the <b>Repeat</b> value is ignored."
+    "fillSheet": "fill sheet",
+    "stepAndRepeat": "step and repeat"
   },
   "whiteSpace": {
     "whiteSpace": "White Space",

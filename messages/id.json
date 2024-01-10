@@ -80,7 +80,8 @@
     "trueStack": "Tumpukan yang benar",
     "trueStackHelpHtml": "<p> Ada kerusakan pada PDF Snake versi 6.152 dan yang lebih lama. \nDengan <b>Urutan Halaman = tumpukan</b> dan <b>Ulangi setiap halaman > 1</b>, PDF Snake menyusun halaman dalam urutan yang salah. \n</p> <p> Kosongkan kotak centang <b>Tumpukan sejati</b> untuk melanjutkan menyusun halaman dalam urutan yang sama seperti PDF Snake versi 6.152 dan yang lebih lama. \n</p> <p> Centang kotak <b>True stack</b> dan PDF Snake akan menyusun ulang halaman dengan benar. \n</p> <p> Ketika <b>Ulangi setiap halaman = 1</b>, urutan halaman lama dan urutan halaman baru sama, kotak centang tidak berpengaruh, jadi PDF Snake menyembunyikannya. \n</p>",
     "repeatOptimum": "optimal",
-    "fillSheet": "Isi seluruh lembar dengan satu halaman dari dokumen sumber. \nJika dicentang, nilai <b>Repeat</b> akan diabaikan."
+    "fillSheet": "lembar isian",
+    "stepAndRepeat": "melangkah dan ulangi"
   },
   "whiteSpace": {
     "whiteSpace": "Spasi",

@@ -80,7 +80,8 @@
     "trueStack": "Véritable pile",
     "trueStackHelpHtml": "<p> Il y avait un défaut dans les versions 6.152 et antérieures de PDF Snake. \nAvec <b>Ordre des pages = pile</b> et <b>Répéter chaque page > 1</b>, PDF Snake a disposé les pages dans le mauvais ordre. \n</p> <p> Décochez la case <b>Vraie pile</b> pour continuer à organiser les pages dans le même ordre que les versions 6.152 et antérieures de PDF Snake. \n</p> <p> Cochez la case <b>True stack</b> et PDF Snake réorganisera les pages correctement. \n</p> <p> Lorsque <b>Répéter chaque page = 1</b>, l'ancien ordre des pages et le nouvel ordre des pages sont les mêmes, la case à cocher n'a aucun effet, donc PDF Snake la cache. \n</p>",
     "repeatOptimum": "optimum",
-    "fillSheet": "Remplissez toute la feuille avec une seule page du document source. \nLorsqu'elle est cochée, la valeur <b>Répéter</b> est ignorée."
+    "fillSheet": "feuille de remplissage",
+    "stepAndRepeat": "étape et répétition"
   },
   "whiteSpace": {
     "whiteSpace": "Espace blanc",
