@@ -376,7 +376,10 @@
     "subscriptionExpired": "Subscripcion vencida",
     "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
     "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
-    "updateButton": "Modificar"
+    "updateButton": "Modificar",
+    "editAnswer": "Edita tu respuesta",
+    "tellUsWhy": "Su suscripción ha sido cancelada. \nSentimos verte partir. \nSi tiene un momento, háganos saber por qué canceló.",
+    "thankYou": "Gracias por decirnos por qué cancelaste."
   },
   "cards": {
     "help": {

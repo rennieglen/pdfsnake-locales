@@ -376,7 +376,10 @@
     "paymentEvent": "Event",
     "paymentAmount": "Amount",
     "receipt": "receipt",
-    "quantity": "Quantity: {0}"
+    "quantity": "Quantity: {0}",
+    "tellUsWhy": "Your subscription has been canceled. We're sorry to see you go. If you have a moment, please let us know why you canceled.",
+    "thankYou": "Thank you for telling us why you cancelled.",
+    "editAnswer": "Edit your answer"
   },
   "cards": {
     "help": {

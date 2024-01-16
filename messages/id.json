@@ -376,7 +376,10 @@
     "subscriptionExpired": "Langganan Kedaluwarsa",
     "subscriptionExpiredDate": "Langganan Anda berakhir pada {date}.",
     "subscriptionWillExpire": "Langganan Anda telah dibatalkan dan akan kedaluwarsa pada {date}.",
-    "updateButton": "Memodifikasi"
+    "updateButton": "Memodifikasi",
+    "editAnswer": "Edit jawaban Anda",
+    "tellUsWhy": "Langganan Anda telah dibatalkan. \nKami sedih melihat Anda pergi. \nJika Anda punya waktu, beri tahu kami alasan Anda membatalkan.",
+    "thankYou": "Terima kasih telah memberi tahu kami alasan Anda membatalkan."
   },
   "cards": {
     "help": {
