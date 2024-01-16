@@ -373,7 +373,10 @@
     "subscriptionExpired": "صلاحية الاشتراك",
     "subscriptionExpiredDate": "انتهى اشتراكك في {date}.",
     "subscriptionWillExpire": "تم إلغاء اشتراكك وسوف تنتهي صلاحيته في {date}.",
-    "updateButton": "تعديل"
+    "updateButton": "تعديل",
+    "editAnswer": "قم بتحرير إجابتك",
+    "tellUsWhy": "لقد تم إلغاء اشتراكك. \nنحن آسفون أن نراك تذهب. \nإذا كانت لديك لحظة، فيرجى إخبارنا بسبب الإلغاء.",
+    "thankYou": "شكرًا لك على إخبارنا عن سبب الإلغاء."
   },
   "cards": {
     "help": {

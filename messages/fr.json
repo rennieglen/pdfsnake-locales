@@ -373,7 +373,10 @@
     "subscriptionExpired": "Abonnement expiré",
     "subscriptionExpiredDate": "Votre abonnement a expiré le {date}.",
     "subscriptionWillExpire": "Votre abonnement a été annulé et expirera le {date}.",
-    "updateButton": "Modifier"
+    "updateButton": "Modifier",
+    "editAnswer": "Modifiez votre réponse",
+    "tellUsWhy": "Votre abonnement a été annulé. \nNous sommes désolés de te voir partir. \nSi vous avez un moment, veuillez nous faire savoir pourquoi vous avez annulé.",
+    "thankYou": "Merci de nous avoir expliqué pourquoi vous avez annulé."
   },
   "cards": {
     "help": {
