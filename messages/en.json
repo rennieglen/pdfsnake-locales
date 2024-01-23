@@ -318,7 +318,8 @@
     "splitHtml": "<b>Split</b> splits a large document into smaller documents.",
     "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another.",
     "nudgeHtml": "<b>Nudge</b> moves content around the page.",
-    "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages."
+    "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages.",
+    "colorBarHtml": "<b>Color Bar</b> adds color patches for monitoring and controlling the printing process."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
