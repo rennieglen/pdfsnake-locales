@@ -318,7 +318,8 @@
     "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil.",
     "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya.",
     "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman.",
-    "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
+    "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
+    "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -457,6 +458,16 @@
     "marks": "Tanda",
     "colors": "Warna",
     "spotColors": "Warna titik",
-    "shapes": "Bentuk"
+    "shapes": "Bentuk",
+    "help": {
+      "margins": "Jarak antara bilah warna dan tepi halaman disebut margin. \nMarginnya biasanya 1/4 inci (6,35 mm) atau kurang. \nMargin diukur dari tepi bilah warna hingga tepi halaman.",
+      "p1": "Dalam pencetakan, bilah warna, juga dikenal sebagai strip kontrol warna atau strip uji warna, adalah strip tambalan warna yang dicetak di samping gambar utama. \nIni berfungsi sebagai referensi untuk memantau dan mengendalikan proses pencetakan. \nBilah warna biasanya berisi serangkaian bercak warna, termasuk warna primer (cyan, magenta, kuning, dan hitam), serta warna sekunder dan corak skala abu-abu.",
+      "p2": "Printer menggunakan bilah warna untuk memastikan reproduksi warna yang akurat dan konsisten selama pekerjaan pencetakan. \nDengan membandingkan tambalan warna yang dicetak dengan referensi standar, seperti bagan atau target warna, printer dapat melakukan penyesuaian untuk menjaga keakuratan warna, menyesuaikan level tinta, dan mendeteksi masalah apa pun pada registrasi warna.",
+      "p3": "Bilah warna adalah alat penting dalam industri percetakan, membantu mencapai keluaran warna yang konsisten dan berkualitas tinggi dalam berbagai proses pencetakan, termasuk pencetakan offset, pencetakan digital, dan metode reproduksi warna lainnya.",
+      "shapes": "Bilah warna terdiri dari berbagai bentuk untuk membantu Anda mengevaluasi kualitas proses pencetakan. \nPilih bentuk yang ingin Anda sertakan dalam bilah warna.",
+      "size": "Ukuran bilah warna adalah lebar bilah warna. \nSetiap bentuk pada bilah warna berbentuk persegi dengan ukuran ini.",
+      "spotColors": "Warna spot adalah warna yang dicetak menggunakan tinta yang sudah dicampur sebelumnya, bukan dengan menggabungkan warna primer (cyan, magenta, kuning, dan hitam). \nWarna spot digunakan untuk mencetak warna solid, seperti logo, yang tidak mudah direproduksi menggunakan warna primer. \nCentang kotak ini untuk mencetak bilah warna menggunakan warna spot.",
+      "repeat": "Ulangi bentuk di bilah warna di seluruh halaman. \nJika tidak dicentang, setiap bentuk hanya dicetak satu kali."
+    }
   }
 }

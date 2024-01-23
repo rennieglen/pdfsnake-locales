@@ -469,6 +469,16 @@
     "marks": "Marks",
     "colors": "Colors",
     "spotColors": "Spot colors",
-    "shapes": "Shapes"
+    "shapes": "Shapes",
+    "help": {
+      "p1": "In printing, a color bar, also known as a color control strip or color test strip, is a strip of color patches printed alongside the main image. It serves as a reference for monitoring and controlling the printing process. The color bar typically contains a range of color patches, including primary colors (cyan, magenta, yellow, and black), as well as secondary colors and grayscale tones.",
+      "p2": "Printers use color bars to ensure accurate and consistent color reproduction throughout the printing job. By comparing the printed color patches to a standard reference, such as a color chart or target, printers can make adjustments to maintain color accuracy, adjust ink levels, and detect any issues with color registration.",
+      "p3": "Color bars are essential tools in the printing industry, helping to achieve consistent and high-quality color output in various printing processes, including offset printing, digital printing, and other color reproduction methods.",
+      "margins": "The distance between the color bar and the edge of the page is called the margin. The margin is typically 1/4 inch (6.35 mm) or less. The margin is measured from the edge of the color bar to the edge of the page.",
+      "size": "The size of the color bar is the width of the color bar.  Each shape in the color bar is a square with this size.",
+      "spotColors": "Spot colors are colors that are printed using premixed inks, rather than by combining primary colors (cyan, magenta, yellow, and black). Spot colors are used to print solid colors, such as logos, that are not easily reproduced using the primary colors. Check this box to print a color bar using spot colors.",
+      "shapes": "The color bar consists of a variety of shapes to help you evaluate the quality of the printing process. Choose the shapes you want to include in the color bar.",
+      "repeat": "Repeat the shapes in color bar across the page.  When not checked, each shape is printed only once."
+    }
   }
 }

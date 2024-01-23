@@ -318,7 +318,8 @@
     "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores.",
     "overlayHtml": "<b>Sobreposição</b> sobrepõe o conteúdo de um documento PDF em outro.",
     "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página.",
-    "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
+    "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas.",
+    "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -468,6 +469,16 @@
     "marks": "Marcas",
     "colors": "Cores",
     "spotColors": "Cores exatas",
-    "shapes": "Formas"
+    "shapes": "Formas",
+    "help": {
+      "margins": "A distância entre a barra colorida e a borda da página é chamada de margem. \nA margem é normalmente de 1/4 polegada (6,35 mm) ou menos. \nA margem é medida da borda da barra colorida até a borda da página.",
+      "p1": "Na impressão, uma barra de cores, também conhecida como tira de controle de cores ou tira de teste de cores, é uma tira de amostras coloridas impressas ao lado da imagem principal. \nServe como referência para monitoramento e controle do processo de impressão. \nA barra de cores normalmente contém uma variedade de amostras de cores, incluindo cores primárias (ciano, magenta, amarelo e preto), bem como cores secundárias e tons de escala de cinza.",
+      "p2": "As impressoras usam barras de cores para garantir uma reprodução de cores precisa e consistente durante todo o trabalho de impressão. \nAo comparar as amostras de cores impressas com uma referência padrão, como uma tabela de cores ou um alvo, as impressoras podem fazer ajustes para manter a precisão das cores, ajustar os níveis de tinta e detectar quaisquer problemas com o registro de cores.",
+      "p3": "As barras de cores são ferramentas essenciais na indústria de impressão, ajudando a obter resultados de cores consistentes e de alta qualidade em vários processos de impressão, incluindo impressão offset, impressão digital e outros métodos de reprodução de cores.",
+      "shapes": "A barra de cores consiste em uma variedade de formas para ajudá-lo a avaliar a qualidade do processo de impressão. \nEscolha as formas que deseja incluir na barra de cores.",
+      "size": "O tamanho da barra de cores é a largura da barra de cores. \nCada forma na barra de cores é um quadrado com esse tamanho.",
+      "spotColors": "Cores exatas são cores impressas com tintas pré-misturadas, em vez de combinar cores primárias (ciano, magenta, amarelo e preto). \nAs cores exatas são usadas para imprimir cores sólidas, como logotipos, que não são facilmente reproduzidas com as cores primárias. \nMarque esta caixa para imprimir uma barra de cores usando cores exatas.",
+      "repeat": "Repita as formas na barra de cores em toda a página. \nQuando não marcada, cada forma é impressa apenas uma vez."
+    }
   }
 }

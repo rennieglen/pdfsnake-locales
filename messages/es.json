@@ -318,7 +318,8 @@
     "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños.",
     "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro.",
     "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página.",
-    "headerFooterHtml": "<b>Encabezado o pie de página</b> agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas."
+    "headerFooterHtml": "<b>Encabezado o pie de página</b> agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas.",
+    "colorBarHtml": "La <b>Barra de colores</b> agrega parches de color para monitorear y controlar el proceso de impresión."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -468,6 +469,16 @@
     "marks": "Marcas",
     "colors": "Colores",
     "spotColors": "colores directos",
-    "shapes": "formas"
+    "shapes": "formas",
+    "help": {
+      "margins": "La distancia entre la barra de color y el borde de la página se llama margen. \nEl margen suele ser de 1/4 de pulgada (6,35 mm) o menos. \nEl margen se mide desde el borde de la barra de color hasta el borde de la página.",
+      "p1": "En impresión, una barra de color, también conocida como tira de control de color o tira de prueba de color, es una tira de parches de color impresos junto a la imagen principal. \nSirve como referencia para el seguimiento y control del proceso de impresión. \nLa barra de colores normalmente contiene una variedad de parches de color, incluidos colores primarios (cian, magenta, amarillo y negro), así como colores secundarios y tonos de escala de grises.",
+      "p2": "Las impresoras utilizan barras de color para garantizar una reproducción del color precisa y uniforme durante todo el trabajo de impresión. \nAl comparar los parches de color impresos con una referencia estándar, como una tabla de colores o un objetivo, los impresores pueden realizar ajustes para mantener la precisión del color, ajustar los niveles de tinta y detectar cualquier problema con el registro del color.",
+      "p3": "Las barras de color son herramientas esenciales en la industria de la impresión, ya que ayudan a lograr resultados de color consistentes y de alta calidad en diversos procesos de impresión, incluida la impresión offset, la impresión digital y otros métodos de reproducción del color.",
+      "shapes": "La barra de colores consta de una variedad de formas para ayudarle a evaluar la calidad del proceso de impresión. \nElija las formas que desea incluir en la barra de colores.",
+      "size": "El tamaño de la barra de color es el ancho de la barra de color. \nCada forma en la barra de colores es un cuadrado de este tamaño.",
+      "spotColors": "Los colores planos son colores que se imprimen utilizando tintas premezcladas, en lugar de combinar colores primarios (cian, magenta, amarillo y negro). \nLos colores planos se utilizan para imprimir colores sólidos, como logotipos, que no se reproducen fácilmente con los colores primarios. \nMarque esta casilla para imprimir una barra de colores utilizando colores planos.",
+      "repeat": "Repita las formas en la barra de colores en toda la página. \nCuando no está marcada, cada forma se imprime solo una vez."
+    }
   }
 }

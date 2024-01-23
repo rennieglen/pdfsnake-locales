@@ -318,7 +318,8 @@
     "splitHtml": "<b>Diviser</b> divise un gros document en documents plus petits.",
     "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre.",
     "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page.",
-    "headerFooterHtml": "<b>En-tête ou pied de page</b> ajoute des numéros de page, des noms de fichiers ou tout autre texte en bas ou en haut des pages."
+    "headerFooterHtml": "<b>En-tête ou pied de page</b> ajoute des numéros de page, des noms de fichiers ou tout autre texte en bas ou en haut des pages.",
+    "colorBarHtml": "<b>Color Bar</b> ajoute des patchs de couleur pour surveiller et contrôler le processus d'impression."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -457,6 +458,16 @@
     "marks": "Des marques",
     "colors": "Couleurs",
     "spotColors": "Tons directs",
-    "shapes": "Formes"
+    "shapes": "Formes",
+    "help": {
+      "margins": "La distance entre la barre de couleur et le bord de la page est appelée marge. \nLa marge est généralement de 1/4 de pouce (6,35 mm) ou moins. \nLa marge est mesurée du bord de la barre de couleur jusqu'au bord de la page.",
+      "p1": "En impression, une barre de couleur, également connue sous le nom de bande de contrôle de couleur ou bande de test de couleur, est une bande de taches de couleur imprimées à côté de l'image principale. \nIl sert de référence pour surveiller et contrôler le processus d’impression. \nLa barre de couleurs contient généralement une gamme de plages de couleurs, notamment des couleurs primaires (cyan, magenta, jaune et noir), ainsi que des couleurs secondaires et des tons de niveaux de gris.",
+      "p2": "Les imprimantes utilisent des barres de couleur pour garantir une reproduction précise et cohérente des couleurs tout au long du travail d'impression. \nEn comparant les plages de couleurs imprimées à une référence standard, telle qu'un nuancier ou une cible de couleurs, les imprimeurs peuvent effectuer des ajustements pour maintenir la précision des couleurs, ajuster les niveaux d'encre et détecter tout problème d'enregistrement des couleurs.",
+      "p3": "Les barres de couleur sont des outils essentiels dans l'industrie de l'imprimerie, car elles permettent d'obtenir des impressions couleur cohérentes et de haute qualité dans divers processus d'impression, notamment l'impression offset, l'impression numérique et d'autres méthodes de reproduction des couleurs.",
+      "shapes": "La barre de couleurs se compose d'une variété de formes pour vous aider à évaluer la qualité du processus d'impression. \nChoisissez les formes que vous souhaitez inclure dans la barre de couleurs.",
+      "size": "La taille de la barre de couleur correspond à la largeur de la barre de couleur. \nChaque forme de la barre de couleurs est un carré de cette taille.",
+      "spotColors": "Les tons directs sont des couleurs imprimées à l'aide d'encres prémélangées, plutôt qu'en combinant des couleurs primaires (cyan, magenta, jaune et noir). \nLes tons directs sont utilisés pour imprimer des couleurs unies, telles que des logos, qui ne sont pas facilement reproduites à l'aide des couleurs primaires. \nCochez cette case pour imprimer une barre de couleurs à l'aide de tons directs.",
+      "repeat": "Répétez les formes dans la barre de couleurs sur toute la page. \nLorsqu'elle n'est pas cochée, chaque forme n'est imprimée qu'une seule fois."
+    }
   }
 }
