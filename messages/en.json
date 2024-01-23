@@ -46,7 +46,8 @@
     "split": "Split",
     "overlay": "Overlay",
     "nudge": "Nudge",
-    "headerFooter": "Header or Footer"
+    "headerFooter": "Header or Footer",
+    "colorBar": "Color Bar"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -462,5 +463,11 @@
     "fileName": "file name",
     "pageNumber": "page number",
     "pageCount": "page count"
+  },
+  "colorBar": {
+    "marks": "Marks",
+    "colors": "Colors",
+    "spotColors": "Spot colors",
+    "shapes": "Shapes"
   }
 }

@@ -46,7 +46,8 @@
     "split": "Dividir",
     "overlay": "Sobreposição",
     "nudge": "Nudge",
-    "headerFooter": "Cabeçalho ou Rodapé"
+    "headerFooter": "Cabeçalho ou Rodapé",
+    "colorBar": "Barra de cor"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -462,5 +463,11 @@
     "fileName": "nome do arquivo",
     "pageCount": "contagem de páginas",
     "pageNumber": "número de página"
+  },
+  "colorBar": {
+    "marks": "Marcas",
+    "colors": "Cores",
+    "spotColors": "Cores exatas",
+    "shapes": "Formas"
   }
 }

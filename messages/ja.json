@@ -46,7 +46,8 @@
     "split": "分割",
     "overlay": "かぶせる",
     "nudge": "ナッジ",
-    "headerFooter": "ヘッダーまたはフッター"
+    "headerFooter": "ヘッダーまたはフッター",
+    "colorBar": "カラーバー"
   },
   "pageSize": {
     "paperSize": "用紙サイズ",
@@ -451,5 +452,11 @@
     "fileName": "ファイル名",
     "pageCount": "ページ数",
     "pageNumber": "ページ番号"
+  },
+  "colorBar": {
+    "marks": "マーク",
+    "colors": "色",
+    "spotColors": "スポットカラー",
+    "shapes": "形状"
   }
 }

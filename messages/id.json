@@ -46,7 +46,8 @@
     "split": "Membelah",
     "overlay": "Hamparan",
     "nudge": "Nudge",
-    "headerFooter": "Header atau Footer"
+    "headerFooter": "Header atau Footer",
+    "colorBar": "Diskriminasi rasial"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -451,5 +452,11 @@
     "fileName": "nama file",
     "pageCount": "jumlah halaman",
     "pageNumber": "nomor halaman"
+  },
+  "colorBar": {
+    "marks": "Tanda",
+    "colors": "Warna",
+    "spotColors": "Warna titik",
+    "shapes": "Bentuk"
   }
 }

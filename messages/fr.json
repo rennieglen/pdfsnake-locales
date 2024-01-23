@@ -46,7 +46,8 @@
     "split": "Diviser",
     "overlay": "Recouvrir",
     "nudge": "Nudge",
-    "headerFooter": "En-tête ou pied de page"
+    "headerFooter": "En-tête ou pied de page",
+    "colorBar": "Barre de couleur"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -451,5 +452,11 @@
     "fileName": "nom de fichier",
     "pageCount": "nombre de pages",
     "pageNumber": "numéro de page"
+  },
+  "colorBar": {
+    "marks": "Des marques",
+    "colors": "Couleurs",
+    "spotColors": "Tons directs",
+    "shapes": "Formes"
   }
 }

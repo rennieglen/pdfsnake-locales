@@ -46,7 +46,8 @@
     "split": "انشق، مزق",
     "overlay": "تراكب",
     "nudge": "دفع",
-    "headerFooter": "رأس أو تذييل"
+    "headerFooter": "رأس أو تذييل",
+    "colorBar": "شريط الألوان"
   },
   "pageSize": {
     "paperSize": "حجم الصفحة",
@@ -451,5 +452,11 @@
     "fileName": "اسم الملف",
     "pageCount": "عدد الصفحات",
     "pageNumber": "رقم الصفحة"
+  },
+  "colorBar": {
+    "marks": "ماركس",
+    "colors": "الألوان",
+    "spotColors": "الألوان الموضعية",
+    "shapes": "الأشكال"
   }
 }
