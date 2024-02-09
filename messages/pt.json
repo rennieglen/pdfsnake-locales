@@ -223,7 +223,10 @@
     "recalculatingPaused": "Recalculando pausado.",
     "clickPlay": "Clique em {play} para retomar.",
     "clickToPause": "Clique neste botão para pausar o recálculo automático.",
-    "xray": "radiografia"
+    "xray": "radiografia",
+    "settings": "Configurações",
+    "showCheckerboard": "Preencher plano de fundo",
+    "showRules": "Regras de sorteio"
   },
   "home": {
     "step": "Etapa {number}: {name}",

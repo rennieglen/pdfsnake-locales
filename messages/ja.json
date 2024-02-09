@@ -223,7 +223,10 @@
     "recalculatingPaused": "再計算を一時停止しました。",
     "clickPlay": "{play} をクリックして再開します。",
     "clickToPause": "このボタンをクリックして、自動再計算を一時停止します。",
-    "xray": "レントゲン"
+    "xray": "レントゲン",
+    "settings": "設定",
+    "showCheckerboard": "背景を塗りつぶす",
+    "showRules": "描画ルール"
   },
   "home": {
     "step": "ステップ {number}: {name}",

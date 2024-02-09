@@ -223,7 +223,10 @@
     "recalculatingPaused": "Penghitungan ulang dijeda.",
     "clickPlay": "Klik {play} untuk melanjutkan.",
     "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis.",
-    "xray": "radiografi"
+    "xray": "radiografi",
+    "settings": "Pengaturan",
+    "showCheckerboard": "Isi latar belakang",
+    "showRules": "Menggambar aturan"
   },
   "home": {
     "step": "Langkah {number}: {name}",

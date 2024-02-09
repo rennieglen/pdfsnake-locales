@@ -223,7 +223,10 @@
     "recalculatingPaused": "Recalculating paused.",
     "clickPlay": "Click {play} to resume.",
     "clickToPause": "Click this button to pause automatic recalculation.",
-    "xray": "X-ray"
+    "xray": "X-ray",
+    "showRules": "Draw rules",
+    "showCheckerboard": "Fill background",
+    "settings": "Settings"
   },
   "home": {
     "step": "Step {number}: {name}",
