@@ -61,7 +61,8 @@
       "width": "La anchura de las páginas en el documento resultante. Debe ser mayor que cero.",
       "height": "La altura de las páginas en el documento resultante. Debe ser mayor que cero.",
       "landscapeHtml": "Cuando está marcada, intercambia los valores de la anchura y largura al crear páginas en el documento resultante. Por ejemplo, si <strong>Carta</strong> está seleccionada y <strong>Paisaje</strong> no está marcada, entonces, las páginas resultantes serán de 216 x 279mm. Si <strong>Paisaje</strong> está marcada, entonces, las páginas resultantes serán de 279 x 216mm."
-    }
+    },
+    "ratioLocked": "La relación de aspecto está bloqueada. \nHaga clic para desbloquear."
   },
   "units": {
     "mms": "mms",

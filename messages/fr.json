@@ -61,7 +61,8 @@
       "width": "La largeur des pages dans le document résultant. Doit être supérieure à zéro.",
       "height": "La hauteur des pages dans le document résultant. Doit être supérieure à zéro.",
       "landscapeHtml": "Lorsque cette option est cochée, les valeurs de la largeur et de la hauteur sont permutées lors de la création de pages dans le document résultant. Par exemple, si <strong>Letter</strong> est sélectionné et que <strong>Paysage</strong> n'est pas coché, les pages obtenues seront de 8,5 par 11 pouces. Si <strong>Paysage</strong> est coché, les pages résultantes seront de 11 par 8,5 pouces."
-    }
+    },
+    "ratioLocked": "Le rapport hauteur/largeur est verrouillé. \nCliquez pour déverrouiller."
   },
   "units": {
     "mms": "mms",
