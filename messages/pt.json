@@ -349,7 +349,8 @@
     "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:",
     "subscriptionsRenewAutomatically": "Entendo que as assinaturas são renovadas automaticamente e posso cancelar minha assinatura a qualquer momento acessando {cancelLink}.",
     "creatingFreeTrial": "Criando teste gratuito...",
-    "noDisposableEmail": "Endereços de e-mail descartáveis ​​não são elegíveis para testes gratuitos."
+    "noDisposableEmail": "Endereços de e-mail descartáveis ​​não são elegíveis para testes gratuitos.",
+    "imReadyToSubscribe": "Estou pronto para me inscrever agora."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."

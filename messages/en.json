@@ -350,7 +350,8 @@
     "paymentsWillAppear": "Payments will appear on your bank/card statement as:",
     "subscriptionsRenewAutomatically": "I understand that subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}.",
     "noDisposableEmail": "Disposable e-mail addresses are not eligible for free trials.",
-    "creatingFreeTrial": "Creating free trial..."
+    "creatingFreeTrial": "Creating free trial...",
+    "imReadyToSubscribe": "I'm ready to subscribe now."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."

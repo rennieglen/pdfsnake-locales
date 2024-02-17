@@ -349,7 +349,8 @@
     "paymentsWillAppear": "Pembayaran akan muncul di laporan mutasi bank/kartu Anda sebagai:",
     "subscriptionsRenewAutomatically": "Saya memahami bahwa langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan saya kapan saja dengan mengunjungi {cancelLink}.",
     "creatingFreeTrial": "Membuat uji coba gratis...",
-    "noDisposableEmail": "Alamat email sekali pakai tidak memenuhi syarat untuk uji coba gratis."
+    "noDisposableEmail": "Alamat email sekali pakai tidak memenuhi syarat untuk uji coba gratis.",
+    "imReadyToSubscribe": "Saya siap berlangganan sekarang."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

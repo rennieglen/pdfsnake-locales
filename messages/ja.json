@@ -349,7 +349,8 @@
     "paymentsWillAppear": "支払いは銀行/カードの明細書に次のように表示されます。",
     "subscriptionsRenewAutomatically": "サブスクリプションが自動的に更新されることを理解しています。{cancelLink} にアクセスして、いつでもサブスクリプションをキャンセルできます。",
     "creatingFreeTrial": "無料トライアルを作成しています...",
-    "noDisposableEmail": "使い捨て電子メール アドレスは無料トライアルの対象外です。"
+    "noDisposableEmail": "使い捨て電子メール アドレスは無料トライアルの対象外です。",
+    "imReadyToSubscribe": "今すぐ購読する準備ができています。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"
