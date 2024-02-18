@@ -279,8 +279,10 @@
   "resize": {
     "help": {
       "intro": "L'outil de redimensionnement de PDF Snake permet de rétrécir ou d'agrandir le contenu des pages pour s'adapter à n'importe quelle taille de papier",
-      "preserveAspectRatio": " Lorsque cette case est cochée, préserve le rapport hauteur/largeur des pages du document source. Si cette case n'est pas cochée, les pages peuvent être considérablement étirées, que ce soit horizontalement ou verticalement."
-    }
+      "preserveAspectRatio": " Lorsque cette case est cochée, préserve le rapport hauteur/largeur des pages du document source. Si cette case n'est pas cochée, les pages peuvent être considérablement étirées, que ce soit horizontalement ou verticalement.",
+      "stretch": "Étirez la page pour l'adapter à la nouvelle taille. \nCela pourrait déformer l'image."
+    },
+    "stretch": "Étirer pour s'adapter"
   },
   "impose": {
     "help": {

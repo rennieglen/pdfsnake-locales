@@ -279,8 +279,10 @@
   "resize": {
     "help": {
       "intro": "Alat Ubah Ukuran PDF Snake memperkecil atau memperbesar isi halaman supaya cocok dengan kertas ukuran apa saja.",
-      "preserveAspectRatio": "Ketika dicentang, mempertahankan rasio tinggi-ke-lebar halaman dari dokumen sumber. Jika tidak dicentang, halaman-halaman mungkin akan diregangkan secara signifikan secara horizontal atau vertikal."
-    }
+      "preserveAspectRatio": "Ketika dicentang, mempertahankan rasio tinggi-ke-lebar halaman dari dokumen sumber. Jika tidak dicentang, halaman-halaman mungkin akan diregangkan secara signifikan secara horizontal atau vertikal.",
+      "stretch": "Regangkan halaman agar sesuai dengan ukuran baru. \nHal ini dapat merusak gambar."
+    },
+    "stretch": "Regangkan agar pas"
   },
   "impose": {
     "help": {

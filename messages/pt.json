@@ -279,8 +279,10 @@
   "resize": {
     "help": {
       "intro": "A ferramenta Redimensionar do PDF Snake reduz ou expande o conteúdo das páginas para caber em qualquer tamanho de papel.",
-      "preserveAspectRatio": "Quando a opção estiver marcada, preserva a proporção entre a altura e a largura nas páginas do documento de origem. Se esta caixa não estiver marcada, as páginas podem ser significamente alongadas horizontal ou verticalmente."
-    }
+      "preserveAspectRatio": "Quando a opção estiver marcada, preserva a proporção entre a altura e a largura nas páginas do documento de origem. Se esta caixa não estiver marcada, as páginas podem ser significamente alongadas horizontal ou verticalmente.",
+      "stretch": "Estique a página para caber no novo tamanho. \nIsto pode distorcer a imagem."
+    },
+    "stretch": "Esticar para caber"
   },
   "impose": {
     "help": {
