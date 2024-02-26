@@ -476,5 +476,10 @@
       "spotColors": "Les tons directs sont des couleurs imprimées à l'aide d'encres prémélangées, plutôt qu'en combinant des couleurs primaires (cyan, magenta, jaune et noir). \nLes tons directs sont utilisés pour imprimer des couleurs unies, telles que des logos, qui ne sont pas facilement reproduites à l'aide des couleurs primaires. \nCochez cette case pour imprimer une barre de couleurs à l'aide de tons directs.",
       "repeat": "Répétez les formes dans la barre de couleurs sur toute la page. \nLorsqu'elle n'est pas cochée, chaque forme n'est imprimée qu'une seule fois."
     }
+  },
+  "progress": {
+    "copying": "Copie de la page {0}",
+    "imposing": "Page imposante {0}",
+    "saving": "Compression"
   }
 }

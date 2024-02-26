@@ -487,5 +487,10 @@
       "spotColors": "Cores exatas são cores impressas com tintas pré-misturadas, em vez de combinar cores primárias (ciano, magenta, amarelo e preto). \nAs cores exatas são usadas para imprimir cores sólidas, como logotipos, que não são facilmente reproduzidas com as cores primárias. \nMarque esta caixa para imprimir uma barra de cores usando cores exatas.",
       "repeat": "Repita as formas na barra de cores em toda a página. \nQuando não marcada, cada forma é impressa apenas uma vez."
     }
+  },
+  "progress": {
+    "copying": "Copiando página {0}",
+    "imposing": "Página imponente {0}",
+    "saving": "Comprimindo"
   }
 }

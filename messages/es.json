@@ -487,5 +487,10 @@
       "spotColors": "Los colores planos son colores que se imprimen utilizando tintas premezcladas, en lugar de combinar colores primarios (cian, magenta, amarillo y negro). \nLos colores planos se utilizan para imprimir colores sólidos, como logotipos, que no se reproducen fácilmente con los colores primarios. \nMarque esta casilla para imprimir una barra de colores utilizando colores planos.",
       "repeat": "Repita las formas en la barra de colores en toda la página. \nCuando no está marcada, cada forma se imprime solo una vez."
     }
+  },
+  "progress": {
+    "copying": "Copiando página {0}",
+    "imposing": "Página imponente {0}",
+    "saving": "Apresamiento"
   }
 }

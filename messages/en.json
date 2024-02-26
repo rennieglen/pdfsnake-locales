@@ -488,5 +488,10 @@
       "shapes": "The color bar consists of a variety of shapes to help you evaluate the quality of the printing process. Choose the shapes you want to include in the color bar.",
       "repeat": "Repeat the shapes in color bar across the page.  When not checked, each shape is printed only once."
     }
+  },
+  "progress": {
+    "copying": "Copying page {0}",
+    "imposing": "Imposing page {0}",
+    "saving": "Compressing"
   }
 }

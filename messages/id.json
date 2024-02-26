@@ -476,5 +476,10 @@
       "spotColors": "Warna spot adalah warna yang dicetak menggunakan tinta yang sudah dicampur sebelumnya, bukan dengan menggabungkan warna primer (cyan, magenta, kuning, dan hitam). \nWarna spot digunakan untuk mencetak warna solid, seperti logo, yang tidak mudah direproduksi menggunakan warna primer. \nCentang kotak ini untuk mencetak bilah warna menggunakan warna spot.",
       "repeat": "Ulangi bentuk di bilah warna di seluruh halaman. \nJika tidak dicentang, setiap bentuk hanya dicetak satu kali."
     }
+  },
+  "progress": {
+    "copying": "Menyalin halaman {0}",
+    "imposing": "Laman yang mengesankan {0}",
+    "saving": "Mengompresi"
   }
 }
