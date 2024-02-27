@@ -47,7 +47,8 @@
     "overlay": "Recouvrir",
     "nudge": "Nudge",
     "headerFooter": "En-tête ou pied de page",
-    "colorBar": "Barre de couleur"
+    "colorBar": "Barre de couleur",
+    "nest": "Autocollants"
   },
   "pageSize": {
     "paperSize": "Taille du papier",

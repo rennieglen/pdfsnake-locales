@@ -47,7 +47,8 @@
     "overlay": "かぶせる",
     "nudge": "ナッジ",
     "headerFooter": "ヘッダーまたはフッター",
-    "colorBar": "カラーバー"
+    "colorBar": "カラーバー",
+    "nest": "ステッカー"
   },
   "pageSize": {
     "paperSize": "用紙サイズ",

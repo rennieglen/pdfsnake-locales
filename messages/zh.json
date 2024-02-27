@@ -47,7 +47,8 @@
     "overlay": "覆盖",
     "nudge": "Nudge",
     "headerFooter": "页眉或页脚",
-    "colorBar": "彩条"
+    "colorBar": "彩条",
+    "nest": "贴纸"
   },
   "pageSize": {
     "paperSize": "纸张大小",

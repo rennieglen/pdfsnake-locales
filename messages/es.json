@@ -47,7 +47,8 @@
     "overlay": "Superponer",
     "nudge": "Nudge",
     "headerFooter": "Encabezado o pie de página",
-    "colorBar": "Barra de color"
+    "colorBar": "Barra de color",
+    "nest": "Pegatinas"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",

@@ -47,7 +47,8 @@
     "overlay": "Sobreposição",
     "nudge": "Nudge",
     "headerFooter": "Cabeçalho ou Rodapé",
-    "colorBar": "Barra de cor"
+    "colorBar": "Barra de cor",
+    "nest": "Adesivos"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",

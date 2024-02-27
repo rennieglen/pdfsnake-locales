@@ -47,7 +47,8 @@
     "overlay": "تراكب",
     "nudge": "دفع",
     "headerFooter": "رأس أو تذييل",
-    "colorBar": "شريط الألوان"
+    "colorBar": "شريط الألوان",
+    "nest": "ملصقات"
   },
   "pageSize": {
     "paperSize": "حجم الصفحة",

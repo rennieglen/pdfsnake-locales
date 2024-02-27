@@ -47,7 +47,8 @@
     "overlay": "Overlay",
     "nudge": "Nudge",
     "headerFooter": "Header or Footer",
-    "colorBar": "Color Bar"
+    "colorBar": "Color Bar",
+    "nest": "Stickers"
   },
   "pageSize": {
     "paperSize": "Paper Size",
