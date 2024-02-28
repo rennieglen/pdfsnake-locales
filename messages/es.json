@@ -63,7 +63,8 @@
       "height": "La altura de las páginas en el documento resultante. Debe ser mayor que cero.",
       "landscapeHtml": "Cuando está marcada, intercambia los valores de la anchura y largura al crear páginas en el documento resultante. Por ejemplo, si <strong>Carta</strong> está seleccionada y <strong>Paisaje</strong> no está marcada, entonces, las páginas resultantes serán de 216 x 279mm. Si <strong>Paisaje</strong> está marcada, entonces, las páginas resultantes serán de 279 x 216mm."
     },
-    "ratioLocked": "La relación de aspecto está bloqueada. \nHaga clic para desbloquear."
+    "ratioLocked": "La relación de aspecto está bloqueada. \nHaga clic para desbloquear.",
+    "ratioUnlocked": "La relación de aspecto está desbloqueada. \nHaga clic para bloquear."
   },
   "units": {
     "mms": "mms",
@@ -239,7 +240,8 @@
     "addStep": "Añadir etapa",
     "saveSteps": "Recordar etapas",
     "saveButton": "Guardar",
-    "batchLog": "Log de lotes"
+    "batchLog": "Log de lotes",
+    "safariNoStickers": "Safari tiene defectos que impiden que la herramienta Stickers funcione correctamente. \nEn su lugar, utilice la herramienta Monkey u otro navegador."
   },
   "error": {
     "notEmpty": "no debe estar vacío ",
@@ -326,7 +328,8 @@
     "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro.",
     "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página.",
     "headerFooterHtml": "<b>Encabezado o pie de página</b> agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas.",
-    "colorBarHtml": "La <b>Barra de colores</b> agrega parches de color para monitorear y controlar el proceso de impresión."
+    "colorBarHtml": "La <b>Barra de colores</b> agrega parches de color para monitorear y controlar el proceso de impresión.",
+    "nestHtml": "<b>Stickers</b> impone una hoja de stickers con espacios en blanco superpuestos."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -493,5 +496,17 @@
     "copying": "Copiando página {0}",
     "imposing": "Página imponente {0}",
     "saving": "Apresamiento"
+  },
+  "nest": {
+    "effort": "Esfuerzo",
+    "nesting": "Anidación",
+    "whitespace": "Espacio en blanco"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake funciona mejor con el navegador Firefox.",
+    "defective": "Su navegador actual, Safari, tiene defectos que impiden que PDF Snake funcione correctamente.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari está roto",
+    "wellWithChrome": "PDF Snake también funciona bien con {link}, pero Firefox es más rápido."
   }
 }

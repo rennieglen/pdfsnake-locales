@@ -63,7 +63,8 @@
       "height": "Tinggi halaman pada dokumen hasil. Harus lebih besar dari nol.",
       "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentang maka hasil halamannya akan berukuran 11 x 8.5 inci."
     },
-    "ratioLocked": "Rasio aspek terkunci. \nKlik untuk membuka kunci."
+    "ratioLocked": "Rasio aspek terkunci. \nKlik untuk membuka kunci.",
+    "ratioUnlocked": "Rasio aspek tidak terkunci. \nKlik untuk mengunci."
   },
   "units": {
     "mms": "mm",
@@ -239,7 +240,8 @@
     "addStep": "Tambahkan Langkah",
     "saveSteps": "Simpan Langkah-Langkah",
     "saveButton": "Simpan",
-    "batchLog": "Log Batch"
+    "batchLog": "Log Batch",
+    "safariNoStickers": "Safari memiliki cacat yang membuat alat Stiker tidak berfungsi dengan benar. \nGunakan alat Monkey sebagai gantinya, atau browser lain."
   },
   "error": {
     "notEmpty": "tidak boleh kosong",
@@ -326,7 +328,8 @@
     "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya.",
     "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman.",
     "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
-    "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan."
+    "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan.",
+    "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -482,5 +485,28 @@
     "copying": "Menyalin halaman {0}",
     "imposing": "Laman yang mengesankan {0}",
     "saving": "Mengompresi"
+  },
+  "nest": {
+    "effort": "Upaya",
+    "nesting": "Bersarang",
+    "whitespace": "Spasi putih"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake berfungsi paling baik dengan browser Firefox.",
+    "defective": "Browser Anda saat ini, Safari, memiliki cacat yang mencegah PDF Snake berfungsi dengan benar.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari Rusak",
+    "wellWithChrome": "PDF Snake juga berfungsi baik dengan {link}, namun Firefox lebih cepat."
+  },
+  "surveyA": {
+    "difficulty": "Salah satu kesulitan yang saya alami saat menggunakan PDF Snake adalah",
+    "editAnswers": "Lihat dan edit jawaban Anda.",
+    "feature": "Salah satu fitur yang saya ingin lihat ditambahkan ke PDF Snake adalah",
+    "helpUs": "Bantu kami meningkatkan PDF Snake dengan menyelesaikan tiga kalimat berikut:",
+    "submit": "Kirim",
+    "submitting": "Mengirimkan...",
+    "thankYou": "Terima kasih telah menyelesaikan survei ini.",
+    "userSurvey": "Survei Pengguna",
+    "whyPdfSnake": "Saya memilih PDF Snake dibandingkan perangkat lunak mengesankan lainnya karena"
   }
 }

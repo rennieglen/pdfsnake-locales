@@ -63,7 +63,8 @@
       "height": "得出的文档中的页面的高度。必须大于零。",
       "landscapeHtml": "选中后，会在创建得出的文档中的页面时对调宽度和高度的值。例如，如果已选择 <strong>Letter</strong>，但未选中<strong>横向</strong>，则得出的页面的大小会是 8.5 英寸乘以 11 英寸。如果已选中<strong>横向</strong>，则得出的页面的大小会是 11 英寸乘以 8.5 英寸。"
     },
-    "ratioLocked": "宽高比已锁定。\n点击解锁。"
+    "ratioLocked": "宽高比已锁定。\n点击解锁。",
+    "ratioUnlocked": "宽高比已解锁。\n单击以锁定。"
   },
   "units": {
     "mms": "毫米",
@@ -239,7 +240,8 @@
     "addStep": "添加步骤",
     "saveSteps": "保存步骤",
     "saveButton": "保存",
-    "batchLog": "批处理日志"
+    "batchLog": "批处理日志",
+    "safariNoStickers": "Safari 存在一些缺陷，导致贴纸工具无法正常工作。\n请改用 Monkey 工具或其他浏览器。"
   },
   "error": {
     "notEmpty": "不得空着",
@@ -326,7 +328,8 @@
     "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。",
     "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。",
     "headerFooterHtml": "<b>页眉或页脚</b>将页码、文件名或其他文本添加到页面底部或顶部。",
-    "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。"
+    "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。",
+    "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -482,5 +485,28 @@
     "copying": "正在复制第 {0} 页",
     "imposing": "令人印象深刻的页面{0}",
     "saving": "压缩"
+  },
+  "nest": {
+    "effort": "努力",
+    "nesting": "嵌套",
+    "whitespace": "空白"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake 在 Firefox 浏览器中效果最佳。",
+    "defective": "您当前的浏览器 Safari 存在缺陷，导致 PDF Snake 无法正常工作。",
+    "googleChrome": "谷歌浏览器",
+    "title": "Safari 坏了",
+    "wellWithChrome": "PDF Snake 也可以与 {link} 配合使用，但 Firefox 速度更快。"
+  },
+  "surveyA": {
+    "difficulty": "我在使用 PDF Snake 时遇到的一个困难是",
+    "editAnswers": "查看并编辑您的答案。",
+    "feature": "我希望添加到 PDF Snake 中的一项功能是",
+    "helpUs": "完成以下三句话，帮助我们改进 PDF Snake：",
+    "submit": "提交",
+    "submitting": "正在提交...",
+    "thankYou": "感谢您完成调查。",
+    "userSurvey": "用户调查",
+    "whyPdfSnake": "我选择 PDF Snake 而不是其他强大的软件是因为"
   }
 }

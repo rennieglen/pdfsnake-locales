@@ -63,7 +63,8 @@
       "height": "La hauteur des pages dans le document résultant. Doit être supérieure à zéro.",
       "landscapeHtml": "Lorsque cette option est cochée, les valeurs de la largeur et de la hauteur sont permutées lors de la création de pages dans le document résultant. Par exemple, si <strong>Letter</strong> est sélectionné et que <strong>Paysage</strong> n'est pas coché, les pages obtenues seront de 8,5 par 11 pouces. Si <strong>Paysage</strong> est coché, les pages résultantes seront de 11 par 8,5 pouces."
     },
-    "ratioLocked": "Le rapport hauteur/largeur est verrouillé. \nCliquez pour déverrouiller."
+    "ratioLocked": "Le rapport hauteur/largeur est verrouillé. \nCliquez pour déverrouiller.",
+    "ratioUnlocked": "Le rapport hauteur/largeur est déverrouillé. \nCliquez pour verrouiller."
   },
   "units": {
     "mms": "mms",
@@ -239,7 +240,8 @@
     "addStep": "Ajouter une étape",
     "saveSteps": "Sauver les étapes",
     "saveButton": "Sauver",
-    "batchLog": "Journal des lots"
+    "batchLog": "Journal des lots",
+    "safariNoStickers": "Safari présente des défauts qui empêchent l'outil Autocollants de fonctionner correctement. \nUtilisez plutôt l'outil Monkey ou un autre navigateur."
   },
   "error": {
     "notEmpty": "ne doit pas être vide",
@@ -326,7 +328,8 @@
     "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre.",
     "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page.",
     "headerFooterHtml": "<b>En-tête ou pied de page</b> ajoute des numéros de page, des noms de fichiers ou tout autre texte en bas ou en haut des pages.",
-    "colorBarHtml": "<b>Color Bar</b> ajoute des patchs de couleur pour surveiller et contrôler le processus d'impression."
+    "colorBarHtml": "<b>Color Bar</b> ajoute des patchs de couleur pour surveiller et contrôler le processus d'impression.",
+    "nestHtml": "<b>Autocollants</b> impose une feuille d'autocollants avec des espaces blancs superposés."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -482,5 +485,28 @@
     "copying": "Copie de la page {0}",
     "imposing": "Page imposante {0}",
     "saving": "Compression"
+  },
+  "nest": {
+    "effort": "Effort",
+    "nesting": "Nidification",
+    "whitespace": "Espaces"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake fonctionne mieux avec le navigateur Firefox.",
+    "defective": "Votre navigateur actuel, Safari, présente des défauts qui empêchent PDF Snake de fonctionner correctement.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari est en panne",
+    "wellWithChrome": "PDF Snake fonctionne également bien avec {link}, mais Firefox est plus rapide."
+  },
+  "surveyA": {
+    "difficulty": "Une difficulté que j'ai rencontrée en utilisant PDF Snake était",
+    "editAnswers": "Affichez et modifiez vos réponses.",
+    "feature": "Une fonctionnalité que j'aimerais voir ajoutée à PDF Snake est",
+    "helpUs": "Aidez-nous à améliorer PDF Snake en complétant les trois phrases suivantes :",
+    "submit": "Soumettre",
+    "submitting": "Soumission...",
+    "thankYou": "Merci d'avoir répondu au sondage.",
+    "userSurvey": "Enquête auprès des utilisateurs",
+    "whyPdfSnake": "J'ai choisi PDF Snake plutôt qu'un autre logiciel imposant car"
   }
 }

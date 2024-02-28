@@ -63,7 +63,8 @@
       "height": "A altura das páginas do documento resultante. Deve ser maior que zero.",
       "landscapeHtml": "Quando marcada, troca os valores de largura e altura ao criar páginas no documento resultante. Por exemplo, se a opção <strong>Carta</strong> estiver selecionada e <strong>Paisagem</strong> não estiver marcada, as páginas resultantes terão 216 x 279mm. Se a opção <strong>Paisagem</strong> estiver marcada, as páginas resultantes terão 279 x 216mm."
     },
-    "ratioLocked": "A proporção está bloqueada. \nClique para desbloquear."
+    "ratioLocked": "A proporção está bloqueada. \nClique para desbloquear.",
+    "ratioUnlocked": "A proporção está desbloqueada. \nClique para bloquear."
   },
   "units": {
     "mms": "mms",
@@ -239,7 +240,8 @@
     "addStep": "Adicionar etapa",
     "saveSteps": "Salvar etapas",
     "saveButton": "Salval",
-    "batchLog": "Log de lote"
+    "batchLog": "Log de lote",
+    "safariNoStickers": "O Safari possui defeitos que impedem o funcionamento correto da ferramenta Stickers. \nEm vez disso, use a ferramenta Monkey ou outro navegador."
   },
   "error": {
     "notEmpty": "não deve estar vazio",
@@ -326,7 +328,8 @@
     "overlayHtml": "<b>Sobreposição</b> sobrepõe o conteúdo de um documento PDF em outro.",
     "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página.",
     "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas.",
-    "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão."
+    "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão.",
+    "nestHtml": "<b>Adesivos</b> impõe uma folha de adesivos com espaços em branco sobrepostos."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -493,5 +496,17 @@
     "copying": "Copiando página {0}",
     "imposing": "Página imponente {0}",
     "saving": "Comprimindo"
+  },
+  "nest": {
+    "effort": "Esforço",
+    "nesting": "Aninhamento",
+    "whitespace": "Espaço em branco"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake funciona melhor com o navegador Firefox.",
+    "defective": "Seu navegador atual, Safari, possui defeitos que impedem o funcionamento correto do PDF Snake.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari está quebrado",
+    "wellWithChrome": "PDF Snake também funciona bem com {link}, mas o Firefox é mais rápido."
   }
 }
