@@ -500,7 +500,17 @@
   "nest": {
     "effort": "Esfuerzo",
     "nesting": "Anidación",
-    "whitespace": "Espacio en blanco"
+    "whitespace": "Espacio en blanco",
+    "help": {
+      "margins": "El espacio mínimo entre las pegatinas y el borde de la hoja.",
+      "nestingEffort": "Cuanto mayor sea el esfuerzo, más tiempo pasará PDF Snake intentando colocar pegatinas en la hoja. \nCuanto mayor sea el esfuerzo, más pegatinas se podrán colocar en la hoja.",
+      "p1": "Incluye tantas pegatinas como sea posible en una sola hoja.",
+      "p2": "Cuando tus pegatinas son rectángulos, entonces la herramienta Pegatinas no es mejor que la herramienta Mono.",
+      "p3": "Cuando sus pegatinas tienen formas extrañas con un fondo transparente, la herramienta Pegatinas puede incluir más pegatinas en una hoja que la herramienta Mono. \nHaga clic en {tablero de ajedrez} para ver si su documento tiene un fondo transparente.",
+      "p4": "Por supuesto, el papel de su impresora no necesita tener un respaldo adhesivo. \nLa herramienta Pegatinas es útil siempre que desees cortar formas extrañas del papel.",
+      "padding": "El espacio mínimo entre pegatinas en la hoja resultante."
+    },
+    "nestingEffort": "Esfuerzo de anidación"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona mejor con el navegador Firefox.",

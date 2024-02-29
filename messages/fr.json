@@ -489,7 +489,17 @@
   "nest": {
     "effort": "Effort",
     "nesting": "Nidification",
-    "whitespace": "Espaces"
+    "whitespace": "Espaces",
+    "help": {
+      "margins": "L'espace minimum entre les autocollants et le bord de la feuille.",
+      "nestingEffort": "Plus l'effort est élevé, plus PDF Snake passera de temps à essayer d'insérer des autocollants sur la feuille. \nPlus l’effort est élevé, plus il est possible de placer d’autocollants sur la feuille.",
+      "p1": "Il regroupe autant d’autocollants que possible sur une seule feuille.",
+      "p2": "Lorsque vos autocollants sont des rectangles, l'outil Autocollants n'est pas meilleur que l'outil Singe.",
+      "p3": "Lorsque vos autocollants ont des formes étranges avec un fond transparent, l'outil Autocollants peut alors regrouper plus d'autocollants sur une feuille que l'outil Singe. \nCliquez sur {checkerboard} pour voir si votre document a un arrière-plan transparent.",
+      "p4": "Bien entendu, le papier de votre imprimante n’a pas besoin d’avoir un support adhésif. \nL'outil Autocollants est utile chaque fois que vous avez l'intention de découper des formes étranges dans le papier.",
+      "padding": "L'espace minimum entre les autocollants sur la feuille résultante."
+    },
+    "nestingEffort": "Effort de nidification"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake fonctionne mieux avec le navigateur Firefox.",

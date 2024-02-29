@@ -500,7 +500,17 @@
   "nest": {
     "effort": "Esforço",
     "nesting": "Aninhamento",
-    "whitespace": "Espaço em branco"
+    "whitespace": "Espaço em branco",
+    "help": {
+      "margins": "O espaço mínimo entre os adesivos e a borda da folha.",
+      "nestingEffort": "Quanto maior o esforço, mais tempo o PDF Snake gastará tentando colocar adesivos na folha. \nQuanto maior o esforço, mais adesivos poderão ser colocados na folha.",
+      "p1": "Ele embala tantos adesivos quanto possível em uma única folha.",
+      "p2": "Quando seus adesivos são retângulos, a ferramenta Adesivos não é melhor que a ferramenta Macaco.",
+      "p3": "Quando seus adesivos têm formatos estranhos e fundo transparente, a ferramenta Adesivos pode colocar mais adesivos em uma folha do que a ferramenta Macaco. \nClique em {checkerboard} para ver se o seu documento tem um fundo transparente.",
+      "p4": "É claro que o papel da impressora não precisa ter adesivo. \nA ferramenta Adesivos é útil sempre que você pretende cortar formas estranhas do papel.",
+      "padding": "O espaço mínimo entre os adesivos na folha resultante."
+    },
+    "nestingEffort": "Esforço de aninhamento"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona melhor com o navegador Firefox.",

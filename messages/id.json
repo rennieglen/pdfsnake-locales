@@ -489,7 +489,17 @@
   "nest": {
     "effort": "Upaya",
     "nesting": "Bersarang",
-    "whitespace": "Spasi putih"
+    "whitespace": "Spasi putih",
+    "help": {
+      "margins": "Jarak minimum antara stiker dan tepi lembaran.",
+      "nestingEffort": "Semakin tinggi upayanya, semakin banyak waktu yang dihabiskan PDF Snake untuk mencoba mengemas stiker ke dalam lembaran. \nSemakin tinggi upayanya, semakin banyak stiker yang dapat dimasukkan ke dalam lembaran.",
+      "p1": "Ini mengemas stiker sebanyak mungkin ke dalam satu lembar.",
+      "p2": "Jika stiker Anda berbentuk persegi panjang, maka alat Stiker tidak lebih baik dari alat Monyet.",
+      "p3": "Jika stiker Anda berbentuk aneh dengan latar belakang transparan, alat Stiker mungkin mengemas lebih banyak stiker ke dalam satu lembar daripada alat Monyet. \nKlik {checkerboard} untuk melihat apakah dokumen Anda memiliki latar belakang transparan.",
+      "p4": "Tentu saja, kertas printer Anda tidak perlu memiliki lapisan perekat. \nAlat Stiker berguna kapan pun Anda ingin memotong bentuk aneh dari kertas.",
+      "padding": "Jarak minimum antar stiker pada lembar yang dihasilkan."
+    },
+    "nestingEffort": "Upaya Bersarang"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake berfungsi paling baik dengan browser Firefox.",
