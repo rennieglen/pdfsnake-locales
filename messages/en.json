@@ -507,6 +507,16 @@
   "nest": {
     "whitespace": "Whitespace",
     "nesting": "Nesting",
-    "effort": "Effort"
+    "effort": "Effort",
+    "help": {
+      "p1": "It packs as many stickers as possible onto a single sheet.",
+      "p2": "When your stickers are rectangles, then the Stickers tool is no better than the Monkey tool.",
+      "p3": "When your stickers are odd shapes with a transparent background, then the Stickers tool may pack more stickers onto a sheet than the Monkey tool.  Click {checkerboard} to see if your document has a transparent background.",
+      "p4": "Of course, your printer paper need not have an adhesive backing. The Stickers tool is useful any time you intend to cut odd shapes from the paper.",
+      "padding": "The minimum space between stickers on the resulting sheet.",
+      "margins": "The minimum space between the stickers and the edge of the sheet.",
+      "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet."
+    },
+    "nestingEffort": "Nesting Effort"
   }
 }
