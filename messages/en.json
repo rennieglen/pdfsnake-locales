@@ -241,7 +241,7 @@
     "saveSteps": "Record Steps",
     "saveButton": "Save",
     "batchLog": "Batch Log",
-    "safariNoStickers": "Safari has defects that prevent the Stickers tool from working correctly. User the Monkey tool instead, or another browser."
+    "safariNoStickers": "Safari has defects that prevent the Stickers tool from working correctly. Use the Monkey tool instead, or another browser."
   },
   "error": {
     "notEmpty": "must not be empty",
