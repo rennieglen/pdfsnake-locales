@@ -438,7 +438,8 @@
       "opacity": "Opacity dari konten teratas. 100% sepenuhnya buram. 0% tidak terlihat.",
       "paddingHtml": "Setel <b>Kiri</b> dan <b>Atas</b> untuk mengontrol lokasi tempat dokumen teratas dihamparkan.",
       "repeat": "Ketika ada lebih banyak halaman di dokumen bawah daripada dokumen atas, ulangi halaman dari dokumen atas. Misalnya, jika hanya ada satu halaman di dokumen teratas, halaman tersebut akan dihamparkan ke semua halaman di dokumen teratas."
-    }
+    },
+    "chooseFile": "Pilih File"
   },
   "nudge": {
     "move": "Bergerak",

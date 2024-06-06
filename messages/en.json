@@ -449,7 +449,8 @@
       "multiply": "Content in the top document is combined with content in the bottom document. White is transparent.",
       "opacity": "Opacity of the top content.  100% is fully opaque.  0% is invisible.",
       "paddingHtml": "Set <b>Left</b> and <b>Top</b> to control the location where the top document is overlaid."
-    }
+    },
+    "chooseFile": "Choose File"
   },
   "nudge": {
     "move": "Move",

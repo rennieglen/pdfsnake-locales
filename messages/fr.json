@@ -438,7 +438,8 @@
       "opacity": "Opacité du contenu supérieur. 100% est entièrement opaque. 0% est invisible.",
       "paddingHtml": "Définissez <b>Gauche</b> et <b>Haut</b> pour contrôler l'emplacement où le document du haut est superposé.",
       "repeat": "Lorsqu'il y a plus de pages dans le document du bas que dans le document du haut, répétez les pages du document du haut. Par exemple, s'il n'y a qu'une seule page dans le document du haut, elle sera superposée sur toutes les pages du document du haut."
-    }
+    },
+    "chooseFile": "Choisir le fichier"
   },
   "nudge": {
     "move": "Déplacer",
