@@ -48,7 +48,8 @@
     "nudge": "Nudge",
     "headerFooter": "Header or Footer",
     "colorBar": "Color Bar",
-    "nest": "Stickers"
+    "nest": "Stickers",
+    "calendar": "Calendar"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -204,6 +205,12 @@
       "pages-1-X-3": "page 1, a blank page, page 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "PDF Snake's Calendar tool creates a calendar booklet from the imported PDF. It is formatted so that there is a picture and a calendar page on the same sheet of paper."
+    },
+    "rotateBackCover": "Rotate back cover"
+  },
   "pages": {
     "zoomIn": "Zoom in",
     "zoomOut": "Zoom out",
@@ -329,7 +336,8 @@
     "nudgeHtml": "<b>Nudge</b> moves content around the page.",
     "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages.",
     "colorBarHtml": "<b>Color Bar</b> adds color patches for monitoring and controlling the printing process.",
-    "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space."
+    "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space.",
+    "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",

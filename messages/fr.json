@@ -48,7 +48,8 @@
     "nudge": "Nudge",
     "headerFooter": "En-tête ou pied de page",
     "colorBar": "Barre de couleur",
-    "nest": "Autocollants"
+    "nest": "Autocollants",
+    "calendar": "Calendrier"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -204,6 +205,12 @@
       "pages-1-X-3": "page 1, une page blanche, page 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>Calendrier</b> crée un livret de calendrier à partir du PDF importé."
+    },
+    "rotateBackCover": "Faire pivoter la couverture arrière"
+  },
   "pages": {
     "zoomIn": "Zoom avant",
     "zoomOut": "Zoom arrière",
@@ -329,7 +336,8 @@
     "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page.",
     "headerFooterHtml": "<b>En-tête ou pied de page</b> ajoute des numéros de page, des noms de fichiers ou tout autre texte en bas ou en haut des pages.",
     "colorBarHtml": "<b>Color Bar</b> ajoute des patchs de couleur pour surveiller et contrôler le processus d'impression.",
-    "nestHtml": "<b>Autocollants</b> impose une feuille d'autocollants avec des espaces blancs superposés."
+    "nestHtml": "<b>Autocollants</b> impose une feuille d'autocollants avec des espaces blancs superposés.",
+    "calendarHtml": "<b>Calendrier</b> crée un livret de calendrier à partir du PDF importé."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",

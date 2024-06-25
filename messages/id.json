@@ -48,7 +48,8 @@
     "nudge": "Nudge",
     "headerFooter": "Header atau Footer",
     "colorBar": "Diskriminasi rasial",
-    "nest": "Stiker"
+    "nest": "Stiker",
+    "calendar": "Kalender"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -204,6 +205,12 @@
       "pages-1-X-3": "halaman 1, halaman kosong, halaman 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor."
+    },
+    "rotateBackCover": "Putar penutup belakang"
+  },
   "pages": {
     "zoomIn": "Perbesar",
     "zoomOut": "Perkecil",
@@ -329,7 +336,8 @@
     "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman.",
     "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
     "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan.",
-    "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih."
+    "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih.",
+    "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
