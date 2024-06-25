@@ -48,7 +48,8 @@
     "nudge": "Nudge",
     "headerFooter": "页眉或页脚",
     "colorBar": "彩条",
-    "nest": "贴纸"
+    "nest": "贴纸",
+    "calendar": "日历"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -204,6 +205,12 @@
       "pages-1-X-3": "第 1 页，空页，第 3 页"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>日历</b>从导入的 PDF 创建日历小册子。"
+    },
+    "rotateBackCover": "旋转后盖"
+  },
   "pages": {
     "zoomIn": "放大",
     "zoomOut": "缩小",
@@ -329,7 +336,8 @@
     "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。",
     "headerFooterHtml": "<b>页眉或页脚</b>将页码、文件名或其他文本添加到页面底部或顶部。",
     "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。",
-    "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。"
+    "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。",
+    "help.calendarHtml": "<b>日历</b>从导入的 PDF 创建日历小册子。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",

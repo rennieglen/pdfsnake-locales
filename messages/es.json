@@ -48,7 +48,8 @@
     "nudge": "Nudge",
     "headerFooter": "Encabezado o pie de página",
     "colorBar": "Barra de color",
-    "nest": "Pegatinas"
+    "nest": "Pegatinas",
+    "calendar": "Calendario"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -204,6 +205,12 @@
       "pages-1-X-3": "página 1, una página en blanco, página 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>Calendario</b> crea un folleto de calendario a partir del PDF importado."
+    },
+    "rotateBackCover": "Girar la contraportada"
+  },
   "pages": {
     "zoomIn": "Acercarse",
     "zoomOut": "Alejarse",
@@ -329,7 +336,8 @@
     "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página.",
     "headerFooterHtml": "<b>Encabezado o pie de página</b> agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas.",
     "colorBarHtml": "La <b>Barra de colores</b> agrega parches de color para monitorear y controlar el proceso de impresión.",
-    "nestHtml": "<b>Stickers</b> impone una hoja de stickers con espacios en blanco superpuestos."
+    "nestHtml": "<b>Stickers</b> impone una hoja de stickers con espacios en blanco superpuestos.",
+    "calendarHtml": "<b>Calendario</b> crea un folleto de calendario a partir del PDF importado."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
