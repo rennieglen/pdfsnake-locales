@@ -207,7 +207,8 @@
   },
   "calendar": {
     "help": {
-      "intro": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado."
+      "intro": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
+      "rotateBackCover": "Gira a capa traseira em 180 graus para formatá-la corretamente para um calendário."
     },
     "rotateBackCover": "Girar a tampa traseira"
   },

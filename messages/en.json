@@ -207,7 +207,8 @@
   },
   "calendar": {
     "help": {
-      "intro": "PDF Snake's Calendar tool creates a calendar booklet from the imported PDF. It is formatted so that there is a picture and a calendar page on the same sheet of paper."
+      "intro": "PDF Snake's Calendar tool creates a calendar booklet from the imported PDF. It is formatted so that there is a picture and a calendar page on the same sheet of paper.",
+      "rotateBackCover": "Rotates the back cover by 180 degrees to format it correctly for a calendar."
     },
     "rotateBackCover": "Rotate back cover"
   },

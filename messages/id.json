@@ -207,7 +207,8 @@
   },
   "calendar": {
     "help": {
-      "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor."
+      "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
+      "rotateBackCover": "Putar sampul belakang sebesar 180 derajat untuk memformatnya dengan benar untuk kalender."
     },
     "rotateBackCover": "Putar penutup belakang"
   },

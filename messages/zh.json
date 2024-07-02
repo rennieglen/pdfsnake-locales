@@ -207,7 +207,8 @@
   },
   "calendar": {
     "help": {
-      "intro": "<b>日历</b>从导入的 PDF 创建日历小册子。"
+      "intro": "<b>日历</b>从导入的 PDF 创建日历小册子。",
+      "rotateBackCover": "将后盖旋转 180 度以正确格式化日历。"
     },
     "rotateBackCover": "旋转后盖"
   },
