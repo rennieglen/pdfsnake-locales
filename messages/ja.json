@@ -208,9 +208,13 @@
   "calendar": {
     "help": {
       "intro": "<b>カレンダー</b> は、インポートされた PDF からカレンダーの小冊子を作成します。",
-      "rotateBackCover": "裏表紙を 180 度回転して、カレンダー用に正しくフォーマットします。"
+      "rotateBackCover": "裏表紙を 180 度回転して、カレンダー用に正しくフォーマットします。",
+      "pageLayout": "カレンダーのレイアウトを選択して、各ページを半紙または全紙に収めます。"
     },
-    "rotateBackCover": "裏表紙を回転させる"
+    "rotateBackCover": "裏表紙を回転させる",
+    "pageLayout": "ページレイアウト",
+    "halfSheet": "ハーフシート",
+    "fullSheet": "フルシート"
   },
   "pages": {
     "zoomIn": "拡大",

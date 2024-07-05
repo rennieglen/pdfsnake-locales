@@ -208,9 +208,13 @@
   "calendar": {
     "help": {
       "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
-      "rotateBackCover": "Putar sampul belakang sebesar 180 derajat untuk memformatnya dengan benar untuk kalender."
+      "rotateBackCover": "Putar sampul belakang sebesar 180 derajat untuk memformatnya dengan benar untuk kalender.",
+      "pageLayout": "Pilih tata letak kalender agar sesuai dengan setiap halaman setengah lembar atau lembar penuh."
     },
-    "rotateBackCover": "Putar penutup belakang"
+    "rotateBackCover": "Putar penutup belakang",
+    "pageLayout": "Tata letak halaman",
+    "halfSheet": "Setengah Lembar",
+    "fullSheet": "Lembar Penuh"
   },
   "pages": {
     "zoomIn": "Perbesar",
