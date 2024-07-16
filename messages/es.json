@@ -208,9 +208,13 @@
   "calendar": {
     "help": {
       "intro": "<b>Calendario</b> crea un folleto de calendario a partir del PDF importado.",
-      "rotateBackCover": "Gira la contraportada 180 grados para formatearla correctamente para un calendario."
+      "rotateBackCover": "Gira la contraportada 180 grados para formatearla correctamente para un calendario.",
+      "pageLayout": "Elija el diseño del calendario para que se ajuste a cada página en medias hojas o en hojas completas."
     },
-    "rotateBackCover": "Girar la contraportada"
+    "rotateBackCover": "Girar la contraportada",
+    "pageLayout": "Diseño de página",
+    "halfSheet": "Media Hoja",
+    "fullSheet": "Página completa"
   },
   "pages": {
     "zoomIn": "Acercarse",

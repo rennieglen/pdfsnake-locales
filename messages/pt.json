@@ -208,9 +208,13 @@
   "calendar": {
     "help": {
       "intro": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
-      "rotateBackCover": "Gira a capa traseira em 180 graus para formatá-la corretamente para um calendário."
+      "rotateBackCover": "Gira a capa traseira em 180 graus para formatá-la corretamente para um calendário.",
+      "pageLayout": "Escolha o layout do calendário para ajustar cada página em meias folhas ou folhas inteiras."
     },
-    "rotateBackCover": "Girar a tampa traseira"
+    "rotateBackCover": "Girar a tampa traseira",
+    "pageLayout": "Layout da página",
+    "halfSheet": "Meia Folha",
+    "fullSheet": "Folha Completa"
   },
   "pages": {
     "zoomIn": "Aumentar o zoom",

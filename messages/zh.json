@@ -208,9 +208,13 @@
   "calendar": {
     "help": {
       "intro": "<b>日历</b>从导入的 PDF 创建日历小册子。",
-      "rotateBackCover": "将后盖旋转 180 度以正确格式化日历。"
+      "rotateBackCover": "将后盖旋转 180 度以正确格式化日历。",
+      "pageLayout": "选择日历的布局，以半页或整页适合每页。"
     },
-    "rotateBackCover": "旋转后盖"
+    "rotateBackCover": "旋转后盖",
+    "pageLayout": "页面布局",
+    "halfSheet": "半张",
+    "fullSheet": "全张"
   },
   "pages": {
     "zoomIn": "放大",
