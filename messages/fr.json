@@ -209,7 +209,9 @@
     "help": {
       "intro": "<b>Calendrier</b> crée un livret de calendrier à partir du PDF importé.",
       "rotateBackCover": "Fait pivoter la couverture arrière de 180 degrés pour la formater correctement pour un calendrier.",
-      "pageLayout": "Choisissez la disposition du calendrier pour qu'il s'adapte à chaque page par demi-feuilles ou par feuilles complètes."
+      "pageLayout": "Choisissez la disposition du calendrier pour qu'il s'adapte à chaque page par demi-feuilles ou par feuilles complètes.",
+      "fullSheet": "Choisissez cette option lorsque chaque page de votre document source contient à la fois l’image au-dessus de la ligne de flottaison et les jours du mois en dessous de la ligne de flottaison.",
+      "halfSheet": "Choisissez cette option lorsque votre document source contient des pages distinctes pour l'image au-dessus de la ligne de flottaison et les jours du mois en dessous de la ligne de flottaison."
     },
     "rotateBackCover": "Faire pivoter la couverture arrière",
     "pageLayout": "Mise en page",

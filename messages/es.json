@@ -209,7 +209,9 @@
     "help": {
       "intro": "<b>Calendario</b> crea un folleto de calendario a partir del PDF importado.",
       "rotateBackCover": "Gira la contraportada 180 grados para formatearla correctamente para un calendario.",
-      "pageLayout": "Elija el diseño del calendario para que se ajuste a cada página en medias hojas o en hojas completas."
+      "pageLayout": "Elija el diseño del calendario para que se ajuste a cada página en medias hojas o en hojas completas.",
+      "fullSheet": "Elija esta opción cuando cada página de su documento fuente contenga tanto la imagen en la parte superior como los días del mes en la parte inferior.",
+      "halfSheet": "Elija esta opción cuando su documento fuente contenga páginas separadas para la imagen en la parte superior de la página y los días del mes en la parte inferior."
     },
     "rotateBackCover": "Girar la contraportada",
     "pageLayout": "Diseño de página",

@@ -209,7 +209,9 @@
     "help": {
       "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
       "rotateBackCover": "Putar sampul belakang sebesar 180 derajat untuk memformatnya dengan benar untuk kalender.",
-      "pageLayout": "Pilih tata letak kalender agar sesuai dengan setiap halaman setengah lembar atau lembar penuh."
+      "pageLayout": "Pilih tata letak kalender agar sesuai dengan setiap halaman setengah lembar atau lembar penuh.",
+      "fullSheet": "Pilih opsi ini ketika setiap halaman di dokumen sumber Anda berisi gambar paro atas dan hari dalam bulan paro bawah.",
+      "halfSheet": "Pilih opsi ini bila dokumen sumber Anda berisi halaman terpisah untuk gambar paro atas dan hari dalam bulan paro bawah."
     },
     "rotateBackCover": "Putar penutup belakang",
     "pageLayout": "Tata letak halaman",

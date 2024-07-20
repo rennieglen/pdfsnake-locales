@@ -209,7 +209,9 @@
     "help": {
       "intro": "PDF Snake's Calendar tool creates a calendar booklet from the imported PDF. It is formatted so that there is a picture and a calendar page on the same sheet of paper.",
       "rotateBackCover": "Rotates the back cover by 180 degrees to format it correctly for a calendar.",
-      "pageLayout": "Choose the layout of the calendar to either fit each page by half sheets or full sheets."
+      "pageLayout": "Choose the layout of the calendar to either fit each page by half sheets or full sheets.",
+      "halfSheet": "Choose this option when your source document contains separate pages for the picture above the fold and the days of the month below the fold.",
+      "fullSheet": "Choose this option when each page in your source document contains both the picture above the fold and the days of the month below the fold."
     },
     "rotateBackCover": "Rotate back cover",
     "pageLayout": "Page Layout",

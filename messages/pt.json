@@ -209,7 +209,9 @@
     "help": {
       "intro": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
       "rotateBackCover": "Gira a capa traseira em 180 graus para formatá-la corretamente para um calendário.",
-      "pageLayout": "Escolha o layout do calendário para ajustar cada página em meias folhas ou folhas inteiras."
+      "pageLayout": "Escolha o layout do calendário para ajustar cada página em meias folhas ou folhas inteiras.",
+      "fullSheet": "Escolha esta opção quando cada página do documento de origem contiver a imagem acima da dobra e os dias do mês abaixo da dobra.",
+      "halfSheet": "Escolha esta opção quando o documento de origem contiver páginas separadas para a imagem acima da dobra e os dias do mês abaixo da dobra."
     },
     "rotateBackCover": "Girar a tampa traseira",
     "pageLayout": "Layout da página",
