@@ -534,5 +534,13 @@
     "googleChrome": "Google Chrome",
     "title": "Safari está quebrado",
     "wellWithChrome": "PDF Snake também funciona bem com {link}, mas o Firefox é mais rápido."
+  },
+  "settings": {
+    "appendFileNames": "Anexe nomes de arquivos com nomes de ferramentas.",
+    "example": "Exemplo:",
+    "origin": "Origem",
+    "output": "Saída",
+    "rules": "Regras",
+    "spaceBetween": "Espaço entre"
   }
 }

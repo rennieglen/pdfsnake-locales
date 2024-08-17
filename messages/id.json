@@ -534,5 +534,13 @@
     "thankYou": "Terima kasih telah menyelesaikan survei ini.",
     "userSurvey": "Survei Pengguna",
     "whyPdfSnake": "Saya memilih PDF Snake dibandingkan perangkat lunak mengesankan lainnya karena"
+  },
+  "settings": {
+    "appendFileNames": "Tambahkan nama file dengan nama alat.",
+    "example": "Contoh:",
+    "origin": "Asal",
+    "output": "Keluaran",
+    "rules": "Aturan",
+    "spaceBetween": "Ruang antar"
   }
 }

@@ -534,5 +534,13 @@
     "thankYou": "شكرا لك لاستكمال الاستقصاء.",
     "userSurvey": "مسح المستخدم",
     "whyPdfSnake": "لقد اخترت PDF Snake على البرامج المهيبة الأخرى لأنه"
+  },
+  "settings": {
+    "appendFileNames": "إلحاق أسماء الملفات بأسماء الأدوات.",
+    "example": "مثال:",
+    "origin": "أصل",
+    "output": "الإخراج",
+    "rules": "قواعد",
+    "spaceBetween": "الفضاء بين"
   }
 }

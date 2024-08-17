@@ -534,5 +534,13 @@
     "thankYou": "感谢您完成调查。",
     "userSurvey": "用户调查",
     "whyPdfSnake": "我选择 PDF Snake 而不是其他强大的软件是因为"
+  },
+  "settings": {
+    "appendFileNames": "将文件名附加到工具名称。",
+    "example": "例子：",
+    "origin": "起源",
+    "output": "输出",
+    "rules": "规则",
+    "spaceBetween": "之间的空间"
   }
 }

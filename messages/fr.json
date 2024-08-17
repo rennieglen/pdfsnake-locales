@@ -534,5 +534,13 @@
     "thankYou": "Merci d'avoir répondu au sondage.",
     "userSurvey": "Enquête auprès des utilisateurs",
     "whyPdfSnake": "J'ai choisi PDF Snake plutôt qu'un autre logiciel imposant car"
+  },
+  "settings": {
+    "appendFileNames": "Ajoutez les noms de fichiers avec les noms d’outils.",
+    "example": "Exemple:",
+    "origin": "Origine",
+    "output": "Sortir",
+    "rules": "Règles",
+    "spaceBetween": "Espace entre"
   }
 }

@@ -534,5 +534,13 @@
     "thankYou": "アンケートにご協力いただきありがとうございます。",
     "userSurvey": "ユーザーアンケート",
     "whyPdfSnake": "私が他の印象的なソフトウェアではなく PDF Snake を選んだ理由は次のとおりです。"
+  },
+  "settings": {
+    "appendFileNames": "ファイル名にツール名を追加します。",
+    "example": "例：",
+    "origin": "起源",
+    "output": "出力",
+    "rules": "ルール",
+    "spaceBetween": "間のスペース"
   }
 }
