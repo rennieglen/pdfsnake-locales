@@ -534,5 +534,13 @@
       "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet."
     },
     "nestingEffort": "Nesting Effort"
+  },
+  "settings": {
+    "rules": "Rules",
+    "origin": "Origin",
+    "spaceBetween": "Space between",
+    "output": "Output",
+    "appendFileNames": "Append file names with tool names.",
+    "example": "Example:"
   }
 }
