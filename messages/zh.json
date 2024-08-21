@@ -49,7 +49,8 @@
     "headerFooter": "页眉或页脚",
     "colorBar": "彩条",
     "nest": "贴纸",
-    "calendar": "日历"
+    "calendar": "日历",
+    "insertPages": "插入页面"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -344,7 +345,8 @@
     "headerFooterHtml": "<b>页眉或页脚</b>将页码、文件名或其他文本添加到页面底部或顶部。",
     "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。",
     "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。",
-    "help.calendarHtml": "<b>日历</b>从导入的 PDF 创建日历小册子。"
+    "help.calendarHtml": "<b>日历</b>从导入的 PDF 创建日历小册子。",
+    "insertPagesHtml": "<b>插入页面</b>将另一个文档中的页面插入到当前打开的文档中。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -542,5 +544,12 @@
     "output": "输出",
     "rules": "规则",
     "spaceBetween": "之间的空间"
+  },
+  "insertPages": {
+    "insertBefore": "在页前插入",
+    "note": "注意：{link} 提供了一个拖放界面，用于混合来自不同文档的页面。",
+    "help": {
+      "insertBefore": "PDF Snake 在打开的文档中在此页码之前插入页面。"
+    }
   }
 }

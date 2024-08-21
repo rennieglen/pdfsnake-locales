@@ -49,7 +49,8 @@
     "headerFooter": "Header atau Footer",
     "colorBar": "Diskriminasi rasial",
     "nest": "Stiker",
-    "calendar": "Kalender"
+    "calendar": "Kalender",
+    "insertPages": "Sisipkan Halaman"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -344,7 +345,8 @@
     "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
     "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan.",
     "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih.",
-    "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor."
+    "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
+    "insertPagesHtml": "<b>Sisipkan Halaman</b> menyisipkan halaman dari dokumen lain ke dalam dokumen yang sedang terbuka."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -542,5 +544,12 @@
     "output": "Keluaran",
     "rules": "Aturan",
     "spaceBetween": "Ruang antar"
+  },
+  "insertPages": {
+    "insertBefore": "Sisipkan sebelum halaman",
+    "note": "Catatan: {link} menyediakan antarmuka seret dan lepas untuk mencampur halaman dari dokumen berbeda.",
+    "help": {
+      "insertBefore": "PDF Snake menyisipkan halaman sebelum nomor halaman ini dalam dokumen yang terbuka."
+    }
   }
 }

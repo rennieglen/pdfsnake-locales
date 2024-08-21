@@ -49,7 +49,8 @@
     "headerFooter": "Cabeçalho ou Rodapé",
     "colorBar": "Barra de cor",
     "nest": "Adesivos",
-    "calendar": "Calendário"
+    "calendar": "Calendário",
+    "insertPages": "Inserir páginas"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -344,7 +345,8 @@
     "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas.",
     "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão.",
     "nestHtml": "<b>Adesivos</b> impõe uma folha de adesivos com espaços em branco sobrepostos.",
-    "calendarHtml": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado."
+    "calendarHtml": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
+    "insertPagesHtml": "<b>Inserir páginas</b> insere páginas de outro documento no documento atualmente aberto."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -542,5 +544,12 @@
     "output": "Saída",
     "rules": "Regras",
     "spaceBetween": "Espaço entre"
+  },
+  "insertPages": {
+    "insertBefore": "Inserir antes da página",
+    "note": "Nota: {link} fornece uma interface de arrastar e soltar para misturar páginas de diferentes documentos.",
+    "help": {
+      "insertBefore": "PDF Snake insere páginas antes deste número de página no documento aberto."
+    }
   }
 }
