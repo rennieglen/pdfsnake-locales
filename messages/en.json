@@ -49,7 +49,8 @@
     "headerFooter": "Header or Footer",
     "colorBar": "Color Bar",
     "nest": "Stickers",
-    "calendar": "Calendar"
+    "calendar": "Calendar",
+    "insertPages": "Insert Pages"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -344,7 +345,8 @@
     "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages.",
     "colorBarHtml": "<b>Color Bar</b> adds color patches for monitoring and controlling the printing process.",
     "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space.",
-    "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF."
+    "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF.",
+    "insertPagesHtml": "<b>Insert Pages</b> inserts pages from another document into the currently open document."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -542,5 +544,12 @@
     "output": "Output",
     "appendFileNames": "Append file names with tool names.",
     "example": "Example:"
+  },
+  "insertPages": {
+    "insertBefore": "Insert before page",
+    "note": "Note: {link} provides a drag-and-drop interface for mixing pages from different documents.",
+    "help": {
+      "insertBefore": "PDF Snake inserts pages before this page number in the open document."
+    }
   }
 }
