@@ -176,7 +176,7 @@
     }
   },
   "shuffle": {
-    "note": "Note: Use {link} to merge pages from multiple documents.",
+    "note": "Note: Use the Insert Pages tool or {link} to merge pages from multiple documents.",
     "help": {
       "intro": "PDF Snake's Shuffle tool shuffles the pages in a document. All in one step it can reorder the pages, delete pages duplicate pages, add blank pages, and rotate pages.",
       "format": "Page orders are generally specified in the following format, very similar to the page range format.",
