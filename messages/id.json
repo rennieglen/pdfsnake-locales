@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "Gagal memuat WebAssembly. \nPDF Snake memerlukan WebAssembly agar berfungsi dengan benar. \nHarap perbarui pengaturan firewall, anti-virus, atau browser Anda untuk mengizinkan WebAssembly."
+    "failedWebAssembly": "Gagal memuat WebAssembly. \nPDF Snake memerlukan WebAssembly agar berfungsi dengan benar. \nHarap perbarui pengaturan firewall atau browser Anda untuk mengizinkan WebAssembly."
   }
 }

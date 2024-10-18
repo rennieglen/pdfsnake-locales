@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "WebAssembly のロードに失敗しました。 \nPDF Snake が正しく動作するには、WebAssembly が必要です。 \nWebAssembly を許可するには、ファイアウォール、ウイルス対策、またはブラウザの設定を更新してください。"
+    "failedWebAssembly": "WebAssembly のロードに失敗しました。 \nPDF Snake が正しく動作するには、WebAssembly が必要です。 \nWebAssembly を許可するには、ファイアウォールまたはブラウザの設定を更新してください。"
   }
 }

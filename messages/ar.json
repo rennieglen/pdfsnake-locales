@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "فشل تحميل WebAssembly. \nيتطلب PDF Snake وجود WebAssembly ليعمل بشكل صحيح. \nالرجاء تحديث جدار الحماية أو برنامج مكافحة الفيروسات أو إعدادات المتصفح للسماح بـ WebAssembly."
+    "failedWebAssembly": "فشل تحميل WebAssembly. \nيتطلب PDF Snake وجود WebAssembly ليعمل بشكل صحيح. \nيرجى تحديث إعدادات جدار الحماية أو المتصفح الخاص بك للسماح بـ WebAssembly."
   }
 }

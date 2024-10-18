@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "Falha ao carregar o WebAssembly. \nO PDF Snake requer que o WebAssembly funcione corretamente. \nAtualize as configurações de firewall, antivírus ou navegador para permitir o WebAssembly."
+    "failedWebAssembly": "Falha ao carregar o WebAssembly. \nO PDF Snake requer que o WebAssembly funcione corretamente. \nAtualize o firewall ou as configurações do navegador para permitir o WebAssembly."
   }
 }

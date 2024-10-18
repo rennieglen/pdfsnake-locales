@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "Échec du chargement de WebAssembly. \nPDF Snake nécessite WebAssembly pour fonctionner correctement. \nVeuillez mettre à jour les paramètres de votre pare-feu, de votre antivirus ou de votre navigateur pour autoriser WebAssembly."
+    "failedWebAssembly": "Échec du chargement de WebAssembly. \nPDF Snake nécessite WebAssembly pour fonctionner correctement. \nVeuillez mettre à jour les paramètres de votre pare-feu ou de votre navigateur pour autoriser WebAssembly."
   }
 }
