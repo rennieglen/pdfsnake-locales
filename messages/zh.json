@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "无法加载 WebAssembly。 \nPDF Snake 需要 WebAssembly 才能正常工作。\n请更新您的防火墙或浏览器设置以允许 WebAssembly。"
+    "failedWebAssembly": "无法加载 WebAssembly。 \nPDF Snake 需要支持 WebAssembly 的现代浏览器。"
   }
 }

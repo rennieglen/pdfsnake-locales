@@ -553,6 +553,6 @@
     }
   },
   "app": {
-    "failedWebAssembly": "Failed to load WebAssembly. PDF Snake requires WebAssembly to work correctly. Please update your firewall or browser settings to allow WebAssembly."
+    "failedWebAssembly": "Failed to load WebAssembly. PDF Snake requires a modern browser that supports WebAssembly."
   }
 }
