@@ -551,5 +551,8 @@
     "help": {
       "insertBefore": "PDF Snake insere páginas antes deste número de página no documento aberto."
     }
+  },
+  "app": {
+    "failedWebAssembly": "Falha ao carregar o WebAssembly. \nO PDF Snake requer que o WebAssembly funcione corretamente. \nAtualize as configurações de firewall, antivírus ou navegador para permitir o WebAssembly."
   }
 }

@@ -551,5 +551,8 @@
     "help": {
       "insertBefore": "PDF Snake 在打开的文档中在此页码之前插入页面。"
     }
+  },
+  "app": {
+    "failedWebAssembly": "无法加载 WebAssembly。 \nPDF Snake 需要 WebAssembly 才能正常工作。\n请更新您的防火墙、防病毒软件或浏览器设置以允许 WebAssembly。"
   }
 }

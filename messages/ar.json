@@ -551,5 +551,8 @@
     "help": {
       "insertBefore": "يقوم PDF Snake بإدراج الصفحات قبل رقم الصفحة هذا في المستند المفتوح."
     }
+  },
+  "app": {
+    "failedWebAssembly": "فشل تحميل WebAssembly. \nيتطلب PDF Snake وجود WebAssembly ليعمل بشكل صحيح. \nالرجاء تحديث جدار الحماية أو برنامج مكافحة الفيروسات أو إعدادات المتصفح للسماح بـ WebAssembly."
   }
 }

@@ -551,5 +551,8 @@
     "help": {
       "insertBefore": "PDF Snake menyisipkan halaman sebelum nomor halaman ini dalam dokumen yang terbuka."
     }
+  },
+  "app": {
+    "failedWebAssembly": "Gagal memuat WebAssembly. \nPDF Snake memerlukan WebAssembly agar berfungsi dengan benar. \nHarap perbarui pengaturan firewall, anti-virus, atau browser Anda untuk mengizinkan WebAssembly."
   }
 }
