@@ -370,10 +370,10 @@
     "subscribeNow": "Abonnez-vous maintenant",
     "stripeError": "Une erreur s'est produite : {msg}",
     "paymentsWillAppear": "Les paiements apparaîtront sur votre relevé bancaire/de carte sous la forme :",
-    "subscriptionsRenewAutomatically": "Je comprends que les abonnements se renouvellent automatiquement et je peux annuler mon abonnement à tout moment en visitant {cancelLink}.",
     "creatingFreeTrial": "Création d'un essai gratuit...",
     "noDisposableEmail": "Les adresses e-mail jetables ne sont pas éligibles aux essais gratuits.",
-    "imReadyToSubscribe": "Je suis prêt à m'abonner maintenant."
+    "imReadyToSubscribe": "Je suis prêt à m'abonner maintenant.",
+    "subscriptionsRenewAutomatically": "Je comprends que ma carte de crédit sera débitée immédiatement, que les abonnements se renouvelleront automatiquement et que je peux annuler mon abonnement à tout moment en visitant {cancelLink}."
   },
   "helpFor": {
     "noHelp": "Il n'y a pas de rubrique d'aide nommée {topic}."

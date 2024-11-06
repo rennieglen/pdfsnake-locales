@@ -370,10 +370,10 @@
     "subscribeNow": "Suscríbase ahora",
     "stripeError": "Ha ocurrido un error: {msg}",
     "paymentsWillAppear": "Los pagos aparecerán en el extracto de su banco/tarjeta como:",
-    "subscriptionsRenewAutomatically": "Entiendo que las suscripciones se renuevan automáticamente y puedo cancelar mi suscripción en cualquier momento visitando {cancelLink}.",
     "creatingFreeTrial": "Creando prueba gratuita...",
     "noDisposableEmail": "Las direcciones de correo electrónico desechables no son elegibles para pruebas gratuitas.",
-    "imReadyToSubscribe": "Estoy listo para suscribirme ahora."
+    "imReadyToSubscribe": "Estoy listo para suscribirme ahora.",
+    "subscriptionsRenewAutomatically": "Entiendo que se cargará a mi tarjeta de crédito inmediatamente, las suscripciones se renovarán automáticamente y puedo cancelar mi suscripción en cualquier momento visitando {cancelLink}."
   },
   "helpFor": {
     "noHelp": "No hay ningún tema de ayuda llamado {topic}."

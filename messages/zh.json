@@ -370,10 +370,10 @@
     "subscribeNow": "立即订购",
     "stripeError": "已出错：{msg}",
     "paymentsWillAppear": "付款将在您的银行/卡对帐单上显示为：",
-    "subscriptionsRenewAutomatically": "我了解订阅会自动续订，我可以随时访问 {cancelLink} 取消订阅。",
     "creatingFreeTrial": "正在创建免费试用...",
     "noDisposableEmail": "一次性电子邮件地址不符合免费试用资格。",
-    "imReadyToSubscribe": "我现在准备订阅了。"
+    "imReadyToSubscribe": "我现在准备订阅了。",
+    "subscriptionsRenewAutomatically": "我了解我的信用卡将立即扣款，订阅会自动续订，并且我可以随时访问 {cancelLink} 取消订阅。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"
