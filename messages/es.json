@@ -121,7 +121,8 @@
     "lineThickness": "Grosor de línea",
     "lineDistance": "Distancia de línea",
     "fourColorBlack": "Negro plano",
-    "fourColorBlackHelp": "Cuando está marcada, las marcas de corte son trazadas con tinta color cian, magenta, amarilla y negra. Cuando no está marcada, las marcas de corte se trazan solo con tinta negra."
+    "fourColorBlackHelp": "Cuando está marcada, las marcas de corte son trazadas con tinta color cian, magenta, amarilla y negra. Cuando no está marcada, las marcas de corte se trazan solo con tinta negra.",
+    "drawMarksInGutters": "Dibujar marcas en canalones"
   },
   "bleeds": {
     "bleeds": "Sangrías",
