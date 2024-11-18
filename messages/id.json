@@ -347,7 +347,8 @@
     "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan.",
     "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih.",
     "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
-    "insertPagesHtml": "<b>Sisipkan Halaman</b> menyisipkan halaman dari dokumen lain ke dalam dokumen yang sedang terbuka."
+    "insertPagesHtml": "<b>Sisipkan Halaman</b> menyisipkan halaman dari dokumen lain ke dalam dokumen yang sedang terbuka.",
+    "export": "Ekspor langkah-langkah Anda yang disimpan untuk dibagikan dengan orang lain."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",

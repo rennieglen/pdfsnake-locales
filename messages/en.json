@@ -347,7 +347,8 @@
     "colorBarHtml": "<b>Color Bar</b> adds color patches for monitoring and controlling the printing process.",
     "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space.",
     "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF.",
-    "insertPagesHtml": "<b>Insert Pages</b> inserts pages from another document into the currently open document."
+    "insertPagesHtml": "<b>Insert Pages</b> inserts pages from another document into the currently open document.",
+    "export": "Export your saved steps to share with others."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",

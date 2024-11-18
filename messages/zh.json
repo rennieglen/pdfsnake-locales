@@ -347,7 +347,8 @@
     "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。",
     "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。",
     "help.calendarHtml": "<b>日历</b>从导入的 PDF 创建日历小册子。",
-    "insertPagesHtml": "<b>插入页面</b>将另一个文档中的页面插入到当前打开的文档中。"
+    "insertPagesHtml": "<b>插入页面</b>将另一个文档中的页面插入到当前打开的文档中。",
+    "export": "导出您保存的步骤以与他人分享。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",

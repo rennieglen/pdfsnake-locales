@@ -347,7 +347,8 @@
     "colorBarHtml": "<b>Color Bar</b> ajoute des patchs de couleur pour surveiller et contrôler le processus d'impression.",
     "nestHtml": "<b>Autocollants</b> impose une feuille d'autocollants avec des espaces blancs superposés.",
     "calendarHtml": "<b>Calendrier</b> crée un livret de calendrier à partir du PDF importé.",
-    "insertPagesHtml": "<b>Insérer des pages</b> insère des pages d'un autre document dans le document actuellement ouvert."
+    "insertPagesHtml": "<b>Insérer des pages</b> insère des pages d'un autre document dans le document actuellement ouvert.",
+    "export": "Exportez vos étapes enregistrées pour les partager avec d'autres."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",

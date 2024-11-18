@@ -347,7 +347,8 @@
     "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão.",
     "nestHtml": "<b>Adesivos</b> impõe uma folha de adesivos com espaços em branco sobrepostos.",
     "calendarHtml": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
-    "insertPagesHtml": "<b>Inserir páginas</b> insere páginas de outro documento no documento atualmente aberto."
+    "insertPagesHtml": "<b>Inserir páginas</b> insere páginas de outro documento no documento atualmente aberto.",
+    "export": "Exporte suas etapas salvas para compartilhar com outras pessoas."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
