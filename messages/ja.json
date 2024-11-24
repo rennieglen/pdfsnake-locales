@@ -26,7 +26,10 @@
     "readHelp": "{link}を読んでください。",
     "support": "サポート",
     "helpAndTutorials": "オンラインヘルプとチュートリアル",
-    "pricing": "価格設定"
+    "pricing": "価格設定",
+    "copied": "クリップボードにコピーされました!",
+    "copy": "クリップボードにコピー",
+    "supportEmail": "問題を報告する場合は、以下の情報をコピーしてメールに貼り付けてください。"
   },
   "choose": {
     "whatNext": "次の操作は？",

@@ -26,7 +26,10 @@
     "readHelp": "Lisez le {link}.",
     "support": "Soutien",
     "helpAndTutorials": "aide en ligne et tutoriels",
-    "pricing": "Tarification"
+    "pricing": "Tarification",
+    "copied": "Copié dans le Presse-papiers!",
+    "copy": "Copier dans le Presse-papiers",
+    "supportEmail": "Lorsque vous signalez un problème, veuillez copier et coller les informations ci-dessous dans votre e-mail :"
   },
   "choose": {
     "whatNext": "Et ensuite?",
