@@ -26,7 +26,10 @@
     "readHelp": "阅读{link}。",
     "support": "支持",
     "helpAndTutorials": "在线帮助和教程",
-    "pricing": "价钱"
+    "pricing": "价钱",
+    "copied": "已复制到剪贴板！",
+    "copy": "复制到剪贴板",
+    "supportEmail": "报告问题时，请将以下信息复制并粘贴到您的电子邮件中："
   },
   "choose": {
     "whatNext": "下一步是什么？",

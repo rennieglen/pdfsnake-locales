@@ -26,7 +26,10 @@
     "readHelp": "Leia o {link}.",
     "support": "Apoiar",
     "helpAndTutorials": "ajuda online e tutoriais",
-    "pricing": "Preços"
+    "pricing": "Preços",
+    "copied": "Copiado para a área de transferência!",
+    "copy": "Copiar para a área de transferência",
+    "supportEmail": "Ao relatar um problema, copie e cole as informações abaixo em seu e-mail:"
   },
   "choose": {
     "whatNext": "E agora?",

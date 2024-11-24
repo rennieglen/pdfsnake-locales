@@ -26,7 +26,10 @@
     "readHelp": "Baca {link}.",
     "support": "Mendukung",
     "helpAndTutorials": "bantuan online dan tutorial",
-    "pricing": "Harga"
+    "pricing": "Harga",
+    "copied": "Disalin ke Papan Klip!",
+    "copy": "Salin ke Papan Klip",
+    "supportEmail": "Saat melaporkan masalah, salin dan tempel informasi di bawah ini ke email Anda:"
   },
   "choose": {
     "whatNext": "Apa selanjutnya?",

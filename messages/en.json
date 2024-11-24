@@ -26,7 +26,10 @@
     "support": "Support",
     "readHelp": "Read the {link}.",
     "helpAndTutorials": "online help and tutorials",
-    "pricing": "Pricing"
+    "pricing": "Pricing",
+    "copy": "Copy to Clipboard",
+    "copied": "Copied to Clipboard!",
+    "supportEmail": "When reporting an issue, please copy and paste the below information into your email:"
   },
   "choose": {
     "whatNext": "What next?",
