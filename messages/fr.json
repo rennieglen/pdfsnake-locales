@@ -548,7 +548,8 @@
     "origin": "Origine",
     "output": "Sortir",
     "rules": "Règles",
-    "spaceBetween": "Espace entre"
+    "spaceBetween": "Espace entre",
+    "appendCustomNames": "Ajoutez des noms personnalisés"
   },
   "insertPages": {
     "insertBefore": "Insérer avant la page",

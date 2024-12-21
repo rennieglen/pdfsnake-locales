@@ -548,7 +548,8 @@
     "origin": "أصل",
     "output": "الإخراج",
     "rules": "قواعد",
-    "spaceBetween": "الفضاء بين"
+    "spaceBetween": "الفضاء بين",
+    "appendCustomNames": "إضافة اسم مخصص إلى الملف."
   },
   "insertPages": {
     "insertBefore": "أدخل قبل الصفحة",

@@ -548,7 +548,8 @@
     "origin": "Origem",
     "output": "Saída",
     "rules": "Regras",
-    "spaceBetween": "Espaço entre"
+    "spaceBetween": "Espaço entre",
+    "addCustomNames": "Adicione um nome personalizado ao arquivo."
   },
   "insertPages": {
     "insertBefore": "Inserir antes da página",

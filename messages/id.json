@@ -548,7 +548,8 @@
     "origin": "Asal",
     "output": "Keluaran",
     "rules": "Aturan",
-    "spaceBetween": "Ruang antar"
+    "spaceBetween": "Ruang antar",
+    "addCustomNames": "Tambahkan nama kustom"
   },
   "insertPages": {
     "insertBefore": "Sisipkan sebelum halaman",
