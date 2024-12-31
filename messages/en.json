@@ -548,7 +548,8 @@
     "spaceBetween": "Space between",
     "output": "Output",
     "appendFileNames": "Append file names with tool names.",
-    "example": "Example:"
+    "example": "Example:",
+    "appendCustomNames": "Append file names with custom text."
   },
   "insertPages": {
     "insertBefore": "Insert before page",
