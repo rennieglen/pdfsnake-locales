@@ -549,7 +549,7 @@
     "output": "Producción",
     "rules": "Normas",
     "spaceBetween": "Espacio entre",
-    "appendCustomNames": "Agregue nombres de archivos personalizados"
+    "appendCustomNames": "Adjuntar texto personalizado a los nombres de archivos."
   },
   "insertPages": {
     "insertBefore": "Insertar antes de la página",

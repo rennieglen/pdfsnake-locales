@@ -549,7 +549,7 @@
     "output": "الإخراج",
     "rules": "قواعد",
     "spaceBetween": "الفضاء بين",
-    "appendCustomNames": "إضافة اسم مخصص إلى الملف."
+    "appendCustomNames": "إضافة أسماء الملفات باستخدام نص مخصص."
   },
   "insertPages": {
     "insertBefore": "أدخل قبل الصفحة",

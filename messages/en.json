@@ -549,7 +549,7 @@
     "output": "Output",
     "appendFileNames": "Append file names with tool names.",
     "example": "Example:",
-    "appendCustomNames": "Append a custom name to the file."
+    "appendCustomNames": "Append file names with custom text."
   },
   "insertPages": {
     "insertBefore": "Insert before page",

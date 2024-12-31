@@ -549,7 +549,7 @@
     "output": "输出",
     "rules": "规则",
     "spaceBetween": "之间的空间",
-    "addCustomNames": "为文件添加自定义名称"
+    "addCustomNames": "将自定义文本附加到文件名中。"
   },
   "insertPages": {
     "insertBefore": "在页前插入",

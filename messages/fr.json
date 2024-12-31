@@ -549,7 +549,7 @@
     "output": "Sortir",
     "rules": "Règles",
     "spaceBetween": "Espace entre",
-    "appendCustomNames": "Ajoutez des noms personnalisés"
+    "appendCustomNames": "Ajoutez des noms de fichiers avec du texte personnalisé."
   },
   "insertPages": {
     "insertBefore": "Insérer avant la page",

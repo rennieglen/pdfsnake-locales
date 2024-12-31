@@ -549,7 +549,8 @@
     "output": "Keluaran",
     "rules": "Aturan",
     "spaceBetween": "Ruang antar",
-    "addCustomNames": "Tambahkan nama kustom"
+    "addCustomNames": "Tambahkan nama kustom",
+    "appendCustomNames": "Tambahkan nama file dengan teks khusus."
   },
   "insertPages": {
     "insertBefore": "Sisipkan sebelum halaman",
