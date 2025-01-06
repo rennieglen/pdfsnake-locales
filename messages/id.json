@@ -326,7 +326,7 @@
   },
   "monkey": {
     "help": {
-      "intro": "Alat Monkey PDF Snake mengatur letak halaman dalam pola bervariasi. Alat ini menentukan pola optimal untuk memuat sebanyak mungkin halaman sumber dalam satu halaman hasil."
+      "intro": "Alat Monyet PDF Snake menerapkan pola \"Potongan Belanda\" pada halaman.  \nIa menemukan pola optimal untuk memuat sebanyak mungkin halaman sumber pada satu halaman keluaran."
     }
   },
   "help": {

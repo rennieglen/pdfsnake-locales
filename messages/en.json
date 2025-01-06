@@ -326,7 +326,7 @@
   },
   "monkey": {
     "help": {
-      "intro": "PDF Snake's Monkey tool imposes pages in a variable pattern.  It finds the optimal pattern to fit as many source pages as possible on a single output page."
+      "intro": "PDF Snake's Monkey tool imposes pages in a \"Dutch Cut\" pattern.  It finds the optimal pattern to fit as many source pages as possible on a single output page."
     }
   },
   "help": {

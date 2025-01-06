@@ -326,7 +326,7 @@
   },
   "monkey": {
     "help": {
-      "intro": "A ferramenta Várias páginas em uma folha do PDF Snake ordena as páginas em um padrão variável. Ela encontra o padrão ideal para caber o máximo possível de páginas de origem em uma única página de saída."
+      "intro": "A ferramenta PDF Snake's Monkey impõe páginas em um padrão \"Dutch Cut\".  \nEle encontra o padrão ideal para acomodar o maior número possível de páginas de origem em uma única página de saída."
     }
   },
   "help": {

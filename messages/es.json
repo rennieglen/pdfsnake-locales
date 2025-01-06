@@ -326,7 +326,7 @@
   },
   "monkey": {
     "help": {
-      "intro": "La herramienta Varias páginas por hoja de PDF Snake organiza las páginas en un patrón variable. Esta encuentra el patrón óptimo para que quepa el mayor número posible de hojas del documento de origen en una sola página de salida."
+      "intro": "La herramienta PDF Snake's Monkey impone páginas en un patrón de \"corte holandés\".  \nEncuentra el patrón óptimo para incluir tantas páginas de origen como sea posible en una sola página de salida."
     }
   },
   "help": {

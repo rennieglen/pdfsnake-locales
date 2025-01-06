@@ -326,7 +326,7 @@
   },
   "monkey": {
     "help": {
-      "intro": "L'outil PDF Snake's Monkey impose des pages selon un modèle variable.  Il trouve le modèle optimal pour faire tenir autant de pages sources que possible sur une seule page de sortie."
+      "intro": "L'outil PDF Snake's Monkey impose des pages selon un motif \"Dutch Cut\".  \nIl trouve le modèle optimal pour placer autant de pages sources que possible sur une seule page de sortie."
     }
   },
   "help": {
