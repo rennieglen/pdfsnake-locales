@@ -140,7 +140,6 @@
     "saddleSize": "Saddle size: {count} sheets",
     "fillLastSaddle": "Fill last saddle",
     "scale": "Scale",
-    "creepInOut": "Creep Inward/Outward",
     "help": {
       "intro": "PDF Snake's Booklet tool re-arranges pages to make a booklet. It first shuffles them into book page order, and then puts two pages side by side on each sheet of paper. The resulting document can be folded and stapled down the middle to make a booklet or book.",
       "step0": "Books are bound using the following process:",
