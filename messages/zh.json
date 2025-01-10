@@ -378,7 +378,10 @@
     "creatingFreeTrial": "正在创建免费试用...",
     "noDisposableEmail": "一次性电子邮件地址不符合免费试用资格。",
     "imReadyToSubscribe": "我现在准备订阅了。",
-    "subscriptionsRenewAutomatically": "我了解我的信用卡将立即扣款，订阅会自动续订，并且我可以随时访问 {cancelLink} 取消订阅。"
+    "subscriptionsRenewAutomatically": "我了解我的信用卡将立即扣款，订阅会自动续订，并且我可以随时访问 {cancelLink} 取消订阅。",
+    "addressListPlaceholder": "输入电子邮件地址，每行一个。",
+    "editAddressList": "编辑",
+    "receiptsWillBeSent": "收据将发送至以下电子邮件地址："
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"

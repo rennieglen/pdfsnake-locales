@@ -378,7 +378,10 @@
     "creatingFreeTrial": "無料トライアルを作成しています...",
     "noDisposableEmail": "使い捨て電子メール アドレスは無料トライアルの対象外です。",
     "imReadyToSubscribe": "今すぐ購読する準備ができています。",
-    "subscriptionsRenewAutomatically": "クレジット カードにすぐに請求され、サブスクリプションは自動的に更新され、{cancelLink} にアクセスしていつでもサブスクリプションをキャンセルできることを理解しました。"
+    "subscriptionsRenewAutomatically": "クレジット カードにすぐに請求され、サブスクリプションは自動的に更新され、{cancelLink} にアクセスしていつでもサブスクリプションをキャンセルできることを理解しました。",
+    "addressListPlaceholder": "電子メール アドレスを 1 行に 1 つずつ入力します。",
+    "editAddressList": "編集",
+    "receiptsWillBeSent": "領収書は次の電子メール アドレスに送信されます。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

@@ -378,7 +378,10 @@
     "creatingFreeTrial": "Membuat uji coba gratis...",
     "noDisposableEmail": "Alamat email sekali pakai tidak memenuhi syarat untuk uji coba gratis.",
     "imReadyToSubscribe": "Saya siap berlangganan sekarang.",
-    "subscriptionsRenewAutomatically": "Saya memahami bahwa kartu kredit saya akan segera ditagih, langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan kapan saja dengan mengunjungi {cancelLink}."
+    "subscriptionsRenewAutomatically": "Saya memahami bahwa kartu kredit saya akan segera ditagih, langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan kapan saja dengan mengunjungi {cancelLink}.",
+    "addressListPlaceholder": "Masukkan alamat email, satu per baris.",
+    "editAddressList": "Sunting",
+    "receiptsWillBeSent": "Tanda terima akan dikirim ke alamat email berikut:"
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

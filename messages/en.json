@@ -380,7 +380,10 @@
     "subscriptionsRenewAutomatically": "I understand that my credit card will be charged immediately, subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}.",
     "noDisposableEmail": "Disposable e-mail addresses are not eligible for free trials.",
     "creatingFreeTrial": "Creating free trial...",
-    "imReadyToSubscribe": "I'm ready to subscribe now."
+    "imReadyToSubscribe": "I'm ready to subscribe now.",
+    "receiptsWillBeSent": "Receipts will be sent to the following email addresses:",
+    "editAddressList": "Edit",
+    "addressListPlaceholder": "Enter email addresses, one per line."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."
