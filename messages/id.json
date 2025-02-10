@@ -525,7 +525,13 @@
       "p4": "Tentu saja, kertas printer Anda tidak perlu memiliki lapisan perekat. \nAlat Stiker berguna kapan pun Anda ingin memotong bentuk aneh dari kertas.",
       "padding": "Jarak minimum antar stiker pada lembar yang dihasilkan."
     },
-    "nestingEffort": "Upaya Bersarang"
+    "nestingEffort": "Upaya Bersarang",
+    "copies": "salinan",
+    "fillSheet": "Lembar Isi",
+    "mediaFormat": "Format media",
+    "roll": "Gulungan",
+    "rollWidth": "Lebar gulungan:",
+    "sheets": "Lembaran"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake berfungsi paling baik dengan browser Firefox.",

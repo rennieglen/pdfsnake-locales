@@ -525,7 +525,13 @@
       "p4": "もちろん、プリンター用紙の裏に粘着剤が付いている必要はありません。\nステッカー ツールは、紙から奇妙な形を切り取る場合に便利です。",
       "padding": "結果として得られるシート上のステッカー間の最小スペース。"
     },
-    "nestingEffort": "ネスティングの取り組み"
+    "nestingEffort": "ネスティングの取り組み",
+    "copies": "コピー",
+    "fillSheet": "塗りつぶしシート",
+    "mediaFormat": "メディア形式",
+    "roll": "ロール",
+    "rollWidth": "ロール幅：",
+    "sheets": "シート"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake は、Firefox ブラウザで最適に動作します。",

@@ -536,7 +536,13 @@
       "p4": "Por supuesto, el papel de su impresora no necesita tener un respaldo adhesivo. \nLa herramienta Pegatinas es útil siempre que desees cortar formas extrañas del papel.",
       "padding": "El espacio mínimo entre pegatinas en la hoja resultante."
     },
-    "nestingEffort": "Esfuerzo de anidación"
+    "nestingEffort": "Esfuerzo de anidación",
+    "copies": "copias",
+    "fillSheet": "Hojas de relleno",
+    "mediaFormat": "Formato de medios",
+    "roll": "Rollo",
+    "rollWidth": "Ancho de rollo:",
+    "sheets": "Hojas"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona mejor con el navegador Firefox.",

@@ -525,7 +525,13 @@
       "p4": "当然，您的打印纸不需要有背胶。\n每当您打算从纸张上剪出奇怪的形状时，贴纸工具都非常有用。",
       "padding": "生成的纸张上贴纸之间的最小间距。"
     },
-    "nestingEffort": "筑巢努力"
+    "nestingEffort": "筑巢努力",
+    "copies": "副本",
+    "fillSheet": "填充表",
+    "mediaFormat": "媒体格式",
+    "roll": "卷",
+    "rollWidth": "滚动宽度：",
+    "sheets": "床单"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake 在 Firefox 浏览器中效果最佳。",

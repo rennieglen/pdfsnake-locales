@@ -545,7 +545,13 @@
       "margins": "The minimum space between the stickers and the edge of the sheet.",
       "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet."
     },
-    "nestingEffort": "Nesting Effort"
+    "nestingEffort": "Nesting Effort",
+    "sheets": "Sheets",
+    "roll": "Roll",
+    "rollWidth": "Roll width:",
+    "fillSheet": "Fill sheet",
+    "copies": "copies",
+    "mediaFormat": "Media Format"
   },
   "settings": {
     "rules": "Rules",

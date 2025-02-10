@@ -536,7 +536,13 @@
       "p4": "É claro que o papel da impressora não precisa ter adesivo. \nA ferramenta Adesivos é útil sempre que você pretende cortar formas estranhas do papel.",
       "padding": "O espaço mínimo entre os adesivos na folha resultante."
     },
-    "nestingEffort": "Esforço de aninhamento"
+    "nestingEffort": "Esforço de aninhamento",
+    "copies": "cópias",
+    "fillSheet": "Folha de enchimento",
+    "mediaFormat": "Formato de mídia",
+    "roll": "Rolar",
+    "rollWidth": "Largura do rolo:",
+    "sheets": "Folhas"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona melhor com o navegador Firefox.",

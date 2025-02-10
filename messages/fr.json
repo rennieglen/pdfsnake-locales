@@ -525,7 +525,13 @@
       "p4": "Bien entendu, le papier de votre imprimante n’a pas besoin d’avoir un support adhésif. \nL'outil Autocollants est utile chaque fois que vous avez l'intention de découper des formes étranges dans le papier.",
       "padding": "L'espace minimum entre les autocollants sur la feuille résultante."
     },
-    "nestingEffort": "Effort de nidification"
+    "nestingEffort": "Effort de nidification",
+    "copies": "copies",
+    "fillSheet": "Feuille de remplissage",
+    "mediaFormat": "Format multimédia",
+    "roll": "Rouler",
+    "rollWidth": "Largeur de rouleau:",
+    "sheets": "Feuilles"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake fonctionne mieux avec le navigateur Firefox.",
