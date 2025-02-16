@@ -523,7 +523,8 @@
       "p2": "Lorsque vos autocollants sont des rectangles, l'outil Autocollants n'est pas meilleur que l'outil Singe.",
       "p3": "Lorsque vos autocollants ont des formes étranges avec un fond transparent, l'outil Autocollants peut alors regrouper plus d'autocollants sur une feuille que l'outil Singe. \nCliquez sur {checkerboard} pour voir si votre document a un arrière-plan transparent.",
       "p4": "Bien entendu, le papier de votre imprimante n’a pas besoin d’avoir un support adhésif. \nL'outil Autocollants est utile chaque fois que vous avez l'intention de découper des formes étranges dans le papier.",
-      "padding": "L'espace minimum entre les autocollants sur la feuille résultante."
+      "padding": "L'espace minimum entre les autocollants sur la feuille résultante.",
+      "rotations": "Plus de rotations pour les formes irrégulières produiront probablement un meilleur ajustement, mais il faudra plus longtemps sur le serpent PDF pour trouver le meilleur ajustement."
     },
     "nestingEffort": "Effort de nidification",
     "copies": "copies",
@@ -531,7 +532,8 @@
     "mediaFormat": "Format multimédia",
     "roll": "Rouler",
     "rollWidth": "Largeur de rouleau:",
-    "sheets": "Feuilles"
+    "sheets": "Feuilles",
+    "rotations": "Rotations"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake fonctionne mieux avec le navigateur Firefox.",

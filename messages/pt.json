@@ -534,7 +534,8 @@
       "p2": "Quando seus adesivos são retângulos, a ferramenta Adesivos não é melhor que a ferramenta Macaco.",
       "p3": "Quando seus adesivos têm formatos estranhos e fundo transparente, a ferramenta Adesivos pode colocar mais adesivos em uma folha do que a ferramenta Macaco. \nClique em {checkerboard} para ver se o seu documento tem um fundo transparente.",
       "p4": "É claro que o papel da impressora não precisa ter adesivo. \nA ferramenta Adesivos é útil sempre que você pretende cortar formas estranhas do papel.",
-      "padding": "O espaço mínimo entre os adesivos na folha resultante."
+      "padding": "O espaço mínimo entre os adesivos na folha resultante.",
+      "rotations": "Mais rotações para formas irregulares provavelmente produzirão um ajuste melhor, mas levará a cobra em PDF por mais tempo para encontrar o melhor ajuste."
     },
     "nestingEffort": "Esforço de aninhamento",
     "copies": "cópias",
@@ -542,7 +543,8 @@
     "mediaFormat": "Formato de mídia",
     "roll": "Rolar",
     "rollWidth": "Largura do rolo:",
-    "sheets": "Folhas"
+    "sheets": "Folhas",
+    "rotations": "Rotações"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona melhor com o navegador Firefox.",

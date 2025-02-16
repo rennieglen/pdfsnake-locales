@@ -543,7 +543,8 @@
       "p4": "Of course, your printer paper need not have an adhesive backing. The Stickers tool is useful any time you intend to cut odd shapes from the paper.",
       "padding": "The minimum space between stickers on the resulting sheet.",
       "margins": "The minimum space between the stickers and the edge of the sheet.",
-      "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet."
+      "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet.",
+      "rotations": "More rotations for irregular shapes will probably yield a better fit, but it will take PDF Snake longer to find the best fit."
     },
     "nestingEffort": "Nesting Effort",
     "sheets": "Sheets",
@@ -551,7 +552,8 @@
     "rollWidth": "Roll width:",
     "fillSheet": "Fill sheet",
     "copies": "copies",
-    "mediaFormat": "Media Format"
+    "mediaFormat": "Media Format",
+    "rotations": "Rotations"
   },
   "settings": {
     "rules": "Rules",

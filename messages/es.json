@@ -534,7 +534,8 @@
       "p2": "Cuando tus pegatinas son rectángulos, entonces la herramienta Pegatinas no es mejor que la herramienta Mono.",
       "p3": "Cuando sus pegatinas tienen formas extrañas con un fondo transparente, la herramienta Pegatinas puede incluir más pegatinas en una hoja que la herramienta Mono. \nHaga clic en {checkerboard} para ver si su documento tiene un fondo transparente.",
       "p4": "Por supuesto, el papel de su impresora no necesita tener un respaldo adhesivo. \nLa herramienta Pegatinas es útil siempre que desees cortar formas extrañas del papel.",
-      "padding": "El espacio mínimo entre pegatinas en la hoja resultante."
+      "padding": "El espacio mínimo entre pegatinas en la hoja resultante.",
+      "rotations": "Más rotaciones para formas irregulares probablemente producirán un mejor ajuste, pero tomará más tiempo para encontrar la serpiente PDF para encontrar el mejor ajuste."
     },
     "nestingEffort": "Esfuerzo de anidación",
     "copies": "copias",
@@ -542,7 +543,8 @@
     "mediaFormat": "Formato de medios",
     "roll": "Rollo",
     "rollWidth": "Ancho de rollo:",
-    "sheets": "Hojas"
+    "sheets": "Hojas",
+    "rotations": "Rotaciones"
   },
   "safariBroken": {
     "bestWithFirefox": "PDF Snake funciona mejor con el navegador Firefox.",
