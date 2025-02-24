@@ -370,8 +370,6 @@
     "beginMyFreeTrialNow": "今すぐ無料試用を始める",
     "subscribe": "有料会員登録",
     "subscribersCanDownload": "有料会員は、無制限に文書をダウンロードし",
-    "perMonth": "月額 {price}",
-    "perYear": "年額 {price}",
     "subscribeNow": "今すぐ有料会員登録する",
     "stripeError": "エラーが発生しました: {msg}",
     "paymentsWillAppear": "支払いは銀行/カードの明細書に次のように表示されます。",
@@ -381,7 +379,10 @@
     "subscriptionsRenewAutomatically": "クレジット カードにすぐに請求され、サブスクリプションは自動的に更新され、{cancelLink} にアクセスしていつでもサブスクリプションをキャンセルできることを理解しました。",
     "addressListPlaceholder": "電子メール アドレスを 1 行に 1 つずつ入力します。",
     "editAddressList": "編集",
-    "receiptsWillBeSent": "領収書は次の電子メール アドレスに送信されます。"
+    "receiptsWillBeSent": "領収書は次の電子メール アドレスに送信されます。",
+    "for48hours": "{price} 48時間",
+    "perMonth": "{price}月額、自動的に更新します",
+    "perYear": "{price}年間、自動的に更新します"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

@@ -370,8 +370,6 @@
     "beginMyFreeTrialNow": "Commencez mon essai gratuit maintenant",
     "subscribe": "S'abonner",
     "subscribersCanDownload": "Les abonnés peuvent télécharger un nombre illimité de documents pour",
-    "perMonth": "{price} par mois",
-    "perYear": "{price} par an",
     "subscribeNow": "Abonnez-vous maintenant",
     "stripeError": "Une erreur s'est produite : {msg}",
     "paymentsWillAppear": "Les paiements apparaîtront sur votre relevé bancaire/de carte sous la forme :",
@@ -381,7 +379,10 @@
     "subscriptionsRenewAutomatically": "Je comprends que ma carte de crédit sera débitée immédiatement, que les abonnements se renouvelleront automatiquement et que je peux annuler mon abonnement à tout moment en visitant {cancelLink}.",
     "addressListPlaceholder": "Saisissez les adresses e-mail, une par ligne.",
     "editAddressList": "Modifier",
-    "receiptsWillBeSent": "Les reçus seront envoyés aux adresses e-mail suivantes :"
+    "receiptsWillBeSent": "Les reçus seront envoyés aux adresses e-mail suivantes :",
+    "for48hours": "{price} pendant 48 heures",
+    "perMonth": "{price} par mois, renouvelle automatiquement",
+    "perYear": "{price} par an, renouvelle automatiquement"
   },
   "helpFor": {
     "noHelp": "Il n'y a pas de rubrique d'aide nommée {topic}."

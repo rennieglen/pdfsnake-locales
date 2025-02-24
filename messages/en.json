@@ -372,8 +372,6 @@
     "beginMyFreeTrialNow": "Begin My Free Trial Now",
     "subscribe": "Subscribe",
     "subscribersCanDownload": "Subscribers can download unlimited documents for",
-    "perMonth": "{price} per month",
-    "perYear": "{price} per year",
     "subscribeNow": "Subscribe Now",
     "stripeError": "An error occurred: {msg}",
     "paymentsWillAppear": "Payments will appear on your bank/card statement as:",
@@ -383,7 +381,10 @@
     "imReadyToSubscribe": "I'm ready to subscribe now.",
     "receiptsWillBeSent": "Receipts will be sent to the following email addresses:",
     "editAddressList": "Edit",
-    "addressListPlaceholder": "Enter email addresses, one per line."
+    "addressListPlaceholder": "Enter email addresses, one per line.",
+    "perMonth": "{price} per month, renews automatically",
+    "perYear": "{price} per year, renews automatically",
+    "for48hours": "{price} for 48 hours"
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."
