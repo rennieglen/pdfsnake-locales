@@ -382,7 +382,8 @@
     "receiptsWillBeSent": "收据将发送至以下电子邮件地址：",
     "for48hours": "{price}持续48小时",
     "perMonth": "{price}每月，自动续订",
-    "perYear": "{price}每年，自动续订"
+    "perYear": "{price}每年，自动续订",
+    "agreedToCharge": "我了解我的信用卡将立即收取，我的订阅将立即开始，交易不可退还。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"

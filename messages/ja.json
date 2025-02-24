@@ -382,7 +382,8 @@
     "receiptsWillBeSent": "領収書は次の電子メール アドレスに送信されます。",
     "for48hours": "{price} 48時間",
     "perMonth": "{price}月額、自動的に更新します",
-    "perYear": "{price}年間、自動的に更新します"
+    "perYear": "{price}年間、自動的に更新します",
+    "agreedToCharge": "クレジットカードがすぐに請求され、サブスクリプションがすぐに開始され、トランザクションが返金されないことを理解しています。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

@@ -382,7 +382,8 @@
     "receiptsWillBeSent": "Los recibos se enviarán a las siguientes direcciones de correo electrónico:",
     "for48hours": "{price} por 48 horas",
     "perMonth": "{price} por mes, se renuevan automáticamente",
-    "perYear": "{price} por año, se renuevan automáticamente"
+    "perYear": "{price} por año, se renuevan automáticamente",
+    "agreedToCharge": "Entiendo que a mi tarjeta de crédito se le cobrará de inmediato, mi suscripción comenzará de inmediato y la transacción no es reembolsable."
   },
   "helpFor": {
     "noHelp": "No hay ningún tema de ayuda llamado {topic}."

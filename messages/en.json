@@ -384,7 +384,8 @@
     "addressListPlaceholder": "Enter email addresses, one per line.",
     "perMonth": "{price} per month, renews automatically",
     "perYear": "{price} per year, renews automatically",
-    "for48hours": "{price} for 48 hours"
+    "for48hours": "{price} for 48 hours",
+    "agreedToCharge": "I understand that my credit card will be charged immediately, my subscription will begin immediately, and the transaction is not refundable."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."
