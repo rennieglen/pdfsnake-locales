@@ -207,7 +207,8 @@
       "groupIntro": "PDF Snake puede repetir un patrón de barajamiento varias veces sobre el mismo documento. Por ejemplo:",
       "pages-group-3": "para un documento de seis páginas, genera el orden de páginas 3 2 1 6 5 4",
       "blankIntro": "PDF Snake va a insertar páginas en blanco siempre que digite una X:",
-      "pages-1-X-3": "página 1, una página en blanco, página 3"
+      "pages-1-X-3": "página 1, una página en blanco, página 3",
+      "pages": "páginas"
     }
   },
   "calendar": {

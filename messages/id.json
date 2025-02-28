@@ -207,7 +207,8 @@
       "groupIntro": "PDF Snake dapat mengulang pola acakan berulang kali dalam sebuah dokumen. Contohnya:",
       "pages-group-3": "untuk dokumen dengan enam halaman, akan menghasilkan urutan halaman 3 2 1 6 5 4",
       "blankIntro": "PDF Snake akan memasukkan halaman kosong ketika Anda memasukkan X:",
-      "pages-1-X-3": "halaman 1, halaman kosong, halaman 3"
+      "pages-1-X-3": "halaman 1, halaman kosong, halaman 3",
+      "pages": "halaman"
     }
   },
   "calendar": {

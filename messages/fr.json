@@ -207,7 +207,8 @@
       "groupIntro": "Le PDF Snake peut répéter un motif de brassage de nombreuses fois sur le même document. Par exemple:",
       "pages-group-3": "pour un document de six pages, donne l'ordre des pages 3 2 1 6 5 4",
       "blankIntro": "PDF Snake insère des pages blanches chaque fois que vous saisissez un X :",
-      "pages-1-X-3": "page 1, une page blanche, page 3"
+      "pages-1-X-3": "page 1, une page blanche, page 3",
+      "pages": "pages"
     }
   },
   "calendar": {

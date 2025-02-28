@@ -207,7 +207,8 @@
       "groupIntro": "对于同一文档，PDF Snake 可将某个随机排序模式重复许多次。例如：",
       "pages-group-3": "对于六页的文档，得出的页面顺序会是 3 2 1 6 5 4",
       "blankIntro": "每当输入 X 时，PDF Snake 都会插入空页：",
-      "pages-1-X-3": "第 1 页，空页，第 3 页"
+      "pages-1-X-3": "第 1 页，空页，第 3 页",
+      "pages": "页面"
     }
   },
   "calendar": {

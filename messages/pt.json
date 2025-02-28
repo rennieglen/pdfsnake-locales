@@ -207,7 +207,8 @@
       "groupIntro": "PDF Snake pode repetir um padrão aleatório diversas vezes no mesmo documento. Por exemplo:",
       "pages-group-3": "para um documento de seis páginas, gera a ordem das páginas 3 2 1 6 5 4",
       "blankIntro": "PDF Snake irá inserir páginas em branco sempre que você inserir um X:",
-      "pages-1-X-3": "página 1, uma página em branco, página 3"
+      "pages-1-X-3": "página 1, uma página em branco, página 3",
+      "pages": "páginas"
     }
   },
   "calendar": {

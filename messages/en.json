@@ -209,7 +209,8 @@
       "groupIntro": "PDF Snake can repeat a shuffle pattern many times over the same document.  For example:",
       "pages-group-3": "for a six page document, yields the page order 3 2 1 6 5 4",
       "blankIntro": "PDF Snake will insert blank pages whenever you enter an X:",
-      "pages-1-X-3": "page 1, a blank page, page 3"
+      "pages-1-X-3": "page 1, a blank page, page 3",
+      "pages": "pages"
     }
   },
   "calendar": {
