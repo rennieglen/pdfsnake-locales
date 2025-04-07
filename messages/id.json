@@ -568,9 +568,13 @@
   },
   "insertPages": {
     "insertBefore": "Sisipkan sebelum halaman",
+    "repeatPages": "Ulangi halaman",
+    "after": "dan setelahnya",
+    "pages": "halaman",
     "note": "Catatan: {link} menyediakan antarmuka seret dan lepas untuk mencampur halaman dari dokumen berbeda.",
     "help": {
-      "insertBefore": "PDF Snake menyisipkan halaman sebelum nomor halaman ini dalam dokumen yang terbuka."
+      "insertBefore": "PDF Snake menyisipkan halaman sebelum nomor halaman ini dalam dokumen yang terbuka.",
+      "repeat": "Halaman yang disisipkan dapat diulang setelah setiap halaman tertentu dalam dokumen yang terbuka."
     }
   },
   "app": {

@@ -567,9 +567,13 @@
   },
   "insertPages": {
     "insertBefore": "在页前插入",
+    "repeatPages": "重复页面",
+    "after": "并且每次之后",
+    "pages": "页面",
     "note": "注意：{link} 提供了一个拖放界面，用于混合来自不同文档的页面。",
     "help": {
-      "insertBefore": "PDF Snake 在打开的文档中在此页码之前插入页面。"
+      "insertBefore": "PDF Snake 在打开的文档中在此页码之前插入页面。",
+      "repeat": "插入的页面可以在打开的文档中每隔这么多页重复一次。"
     }
   },
   "app": {

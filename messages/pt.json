@@ -567,9 +567,13 @@
   },
   "insertPages": {
     "insertBefore": "Inserir antes da página",
+    "repeatPages": "Repetir páginas",
+    "after": "e depois de cada",
+    "pages": "páginas",
     "note": "Nota: {link} fornece uma interface de arrastar e soltar para misturar páginas de diferentes documentos.",
     "help": {
-      "insertBefore": "PDF Snake insere páginas antes deste número de página no documento aberto."
+      "insertBefore": "PDF Snake insere páginas antes deste número de página no documento aberto.",
+      "repeat": "As páginas inseridas podem ser repetidas após cada número de páginas no documento aberto."
     }
   },
   "app": {
