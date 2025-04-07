@@ -567,9 +567,13 @@
   },
   "insertPages": {
     "insertBefore": "Insérer avant la page",
+    "repeatPages": "Répéter les pages",
+    "after": "et après chaque",
+    "pages": "pages",
     "note": "Remarque : {link} fournit une interface glisser-déposer pour mélanger des pages de différents documents.",
     "help": {
-      "insertBefore": "PDF Snake insère des pages avant ce numéro de page dans le document ouvert."
+      "insertBefore": "PDF Snake insère des pages avant ce numéro de page dans le document ouvert.",
+      "repeat": "Les pages insérées peuvent être répétées après chaque nombre de pages dans le document ouvert."
     }
   },
   "app": {

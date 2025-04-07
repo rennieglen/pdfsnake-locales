@@ -569,9 +569,13 @@
   },
   "insertPages": {
     "insertBefore": "Insert before page",
+    "repeatPages": "Repeat pages",
+    "after": "and after every",
+    "pages": "pages",
     "note": "Note: {link} provides a drag-and-drop interface for mixing pages from different documents.",
     "help": {
-      "insertBefore": "PDF Snake inserts pages before this page number in the open document."
+      "insertBefore": "PDF Snake inserts pages before this page number in the open document.",
+      "repeat": "The inserted pages can be repeated after every this many pages in the open document."
     }
   },
   "app": {
