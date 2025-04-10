@@ -249,7 +249,8 @@
     "xray": "radiografi",
     "settings": "Pengaturan",
     "showCheckerboard": "Isi latar belakang",
-    "showRules": "Menggambar aturan"
+    "showRules": "Menggambar aturan",
+    "downloadJdf": "Unduh JDF dengan cutblocks"
   },
   "home": {
     "step": "Langkah {number}: {name}",

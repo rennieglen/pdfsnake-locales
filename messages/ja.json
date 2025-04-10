@@ -249,7 +249,8 @@
     "xray": "レントゲン",
     "settings": "設定",
     "showCheckerboard": "背景を塗りつぶす",
-    "showRules": "描画ルール"
+    "showRules": "描画ルール",
+    "downloadJdf": "JDFをダウンロード"
   },
   "home": {
     "step": "ステップ {number}: {name}",

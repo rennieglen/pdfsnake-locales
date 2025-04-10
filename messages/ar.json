@@ -249,7 +249,8 @@
     "xray": "صورة شعاعية",
     "settings": "إعدادات",
     "showCheckerboard": "ملء الخلفية",
-    "showRules": "ارسم القواعد"
+    "showRules": "ارسم القواعد",
+    "downloadJdf": "قم بتنزيل JDF مع CutBlocks"
   },
   "home": {
     "step": "خطوة {number} {name}",

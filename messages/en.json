@@ -251,7 +251,8 @@
     "xray": "X-ray",
     "showRules": "Draw rules",
     "showCheckerboard": "Fill background",
-    "settings": "Settings"
+    "settings": "Settings",
+    "downloadJdf": "Download JDF with CutBlocks"
   },
   "home": {
     "step": "Step {number}: {name}",

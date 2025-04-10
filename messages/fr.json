@@ -249,7 +249,8 @@
     "xray": "radiographie",
     "settings": "Paramètres",
     "showCheckerboard": "Remplir l'arrière-plan",
-    "showRules": "Dessiner des règles"
+    "showRules": "Dessiner des règles",
+    "downloadJdf": "Télécharger JDF avec CutBlocks"
   },
   "home": {
     "step": "Étape {number}: {name}",

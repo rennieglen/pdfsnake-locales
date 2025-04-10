@@ -249,7 +249,8 @@
     "xray": "radiografía",
     "settings": "Ajustes",
     "showCheckerboard": "Rellenar fondo",
-    "showRules": "reglas del sorteo"
+    "showRules": "reglas del sorteo",
+    "downloadJdf": "Descargar JDF con Cutblocks"
   },
   "home": {
     "step": "Etapa {number}: {name}",
