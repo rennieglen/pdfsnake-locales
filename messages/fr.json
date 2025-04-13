@@ -53,7 +53,8 @@
     "colorBar": "Barre de couleur",
     "nest": "Autocollants",
     "calendar": "Calendrier",
-    "insertPages": "Insérer des pages"
+    "insertPages": "Insérer des pages",
+    "cutterMarks": "Marques de coupe"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -353,7 +354,8 @@
     "nestHtml": "<b>Autocollants</b> impose une feuille d'autocollants avec des espaces blancs superposés.",
     "calendarHtml": "<b>Calendrier</b> crée un livret de calendrier à partir du PDF importé.",
     "insertPagesHtml": "<b>Insérer des pages</b> insère des pages d'un autre document dans le document actuellement ouvert.",
-    "export": "Exportez vos étapes enregistrées pour les partager avec d'autres."
+    "export": "Exportez vos étapes enregistrées pour les partager avec d'autres.",
+    "cutterMarksHtml": "<b> Marques de coupe </b> tire des indicateurs utilisés pour aligner l'équipement de coupe précisément avec la feuille imprimée."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -581,9 +583,15 @@
     "failedWebAssembly": "Échec du chargement de WebAssembly. \nPDF Snake nécessite un navigateur moderne prenant en charge WebAssembly."
   },
   "cutterMarks": {
-    "Marks": "Marques",
     "Shape": "Forme",
     "fifthDot": "5e point",
-    "layer": "Couche"
+    "layer": "Couche",
+    "help": {
+      "layer": "Les marques seront dessinées dans ce groupe de contenu en option.  \nLaissez vide pour dessiner les marques à l'extérieur de tous les groupes de contenu.",
+      "margins": "La distance entre la marque de coupe et le bord de la page est appelée la marge. \nLa marge est généralement de 1/4 de pouce (6,35 mm) ou moins. \nLa marge est mesurée du bord de la marque de coupe au bord de la page.",
+      "shape": "La forme des marques à dessiner sur la feuille.",
+      "size": "Le diamètre du cercle ou la longueur d'un bord du carré.",
+      "summary": "Les marques d'enregistrement des coupeurs sont des indicateurs imprimés utilisés pour aligner l'équipement de coupe précisément avec la feuille imprimée pendant les opérations de finition. \nContrairement à des marques de coupe simples, qui indiquent où couper, les marques d'enregistrement de coupe sont lues par des capteurs sur des machines de coupe, de tranche ou de finition automatisées pour s'assurer que chaque coupe est positionnée avec précision par rapport au contenu imprimé. \nCes marques aident à compenser de légers changements en position de feuille, en étirement ou en asymétrie pendant l'impression ou l'alimentation. \nIls sont essentiels dans les flux de travail automatisés à grande vitesse, en particulier dans les systèmes de finition numérique - pour maintenir une qualité de sortie cohérente et prévenir les erreurs de coupe."
+    }
   }
 }

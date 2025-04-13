@@ -53,7 +53,8 @@
     "colorBar": "Barra de color",
     "nest": "Pegatinas",
     "calendar": "Calendario",
-    "insertPages": "Insertar páginas"
+    "insertPages": "Insertar páginas",
+    "cutterMarks": "Marcas de cortador"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -353,7 +354,8 @@
     "nestHtml": "<b>Stickers</b> impone una hoja de stickers con espacios en blanco superpuestos.",
     "calendarHtml": "<b>Calendario</b> crea un folleto de calendario a partir del PDF importado.",
     "insertPagesHtml": "<b>Insertar páginas</b> inserta páginas de otro documento en el documento abierto actualmente.",
-    "export": "Exporta tus pasos guardados para compartirlos con otros."
+    "export": "Exporta tus pasos guardados para compartirlos con otros.",
+    "cutterMarksHtml": "<b> Marcas de cortador </b> Dibuja indicadores utilizados para alinear el equipo de corte con precisión con la hoja impresa."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -581,9 +583,15 @@
     "failedWebAssembly": "No se pudo cargar WebAssembly. \nPDF Snake requiere un navegador moderno que admita WebAssembly."
   },
   "cutterMarks": {
-    "Marks": "Marcas",
     "Shape": "Forma",
     "fifthDot": "Quinto punto",
-    "layer": "Capa"
+    "layer": "Capa",
+    "help": {
+      "layer": "Las marcas se dibujarán en este grupo de contenido opcional.  \nDeje en blanco para dibujar las marcas fuera de todos los grupos de contenido.",
+      "margins": "La distancia entre la marca del cortador y el borde de la página se llama margen. \nEl margen es típicamente de 1/4 de pulgada (6.35 mm) o menos. \nEl margen se mide desde el borde de la marca del cortador hasta el borde de la página.",
+      "shape": "La forma de las marcas a dibujar en la hoja.",
+      "size": "El diámetro del círculo o la longitud de un borde del cuadrado.",
+      "summary": "Las marcas de registro de cortador son indicadores impresos utilizados para alinear los equipos de corte con precisión con la hoja impresa durante las operaciones de acabado. \nA diferencia de las marcas de cortador simples, que indican dónde cortar, los sensores leen las marcas de registro de cortador en los cortes automatizados, la reducción o las máquinas de acabado para garantizar que cada corte se coloque con precisión en relación con el contenido impreso. \nEstas marcas ayudan a compensar los ligeros cambios en la posición de la hoja, estirarse o sesgarse durante la impresión o la alimentación. \nSon esenciales en flujos de trabajo automatizados de alta velocidad, especialmente en los sistemas de acabado digital, para mantener una calidad de salida constante y evitar errores de corte."
+    }
   }
 }

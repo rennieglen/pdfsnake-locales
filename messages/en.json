@@ -53,7 +53,8 @@
     "colorBar": "Color Bar",
     "nest": "Stickers",
     "calendar": "Calendar",
-    "insertPages": "Insert Pages"
+    "insertPages": "Insert Pages",
+    "cutterMarks": "Cutter Marks"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -355,7 +356,8 @@
     "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space.",
     "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF.",
     "insertPagesHtml": "<b>Insert Pages</b> inserts pages from another document into the currently open document.",
-    "export": "Export your saved steps to share with others."
+    "export": "Export your saved steps to share with others.",
+    "cutterMarksHtml": "<b>Cutter Marks</b> draws indicators used to align cutting equipment precisely with the printed sheet."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -584,8 +586,14 @@
   },
   "cutterMarks": {
     "fifthDot": "5th Dot",
-    "Marks": "Marks",
     "Shape": "Shape",
-    "layer": "Layer"
+    "layer": "Layer",
+    "help": {
+      "summary": "Cutter registration marks are printed indicators used to align cutting equipment precisely with the printed sheet during finishing operations. Unlike simple cutter marks, which indicate where to cut, cutter registration marks are read by sensors on automated cutting, slitting, or finishing machines to ensure each cut is accurately positioned relative to the printed content. These marks help compensate for slight shifts in sheet position, stretch, or skew during printing or feeding. They're essential in high-speed, automated workflows—especially in digital finishing systems—to maintain consistent output quality and prevent cutting errors.",
+      "margins": "The distance between the cutter mark and the edge of the page is called the margin. The margin is typically 1/4 inch (6.35 mm) or less. The margin is measured from the edge of the cutter mark to the edge of the page.",
+      "shape": "The shape of the marks to be drawn on the sheet.",
+      "size": "The diameter of the circle or the length of one edge of the square.",
+      "layer": "Marks will be drawn in this Optional Content Group.  Leave blank to draw the marks outside all content groups."
+    }
   }
 }

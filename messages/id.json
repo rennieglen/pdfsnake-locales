@@ -53,7 +53,8 @@
     "colorBar": "Diskriminasi rasial",
     "nest": "Stiker",
     "calendar": "Kalender",
-    "insertPages": "Sisipkan Halaman"
+    "insertPages": "Sisipkan Halaman",
+    "cutterMarks": "Tanda Pemotong"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -353,7 +354,8 @@
     "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih.",
     "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
     "insertPagesHtml": "<b>Sisipkan Halaman</b> menyisipkan halaman dari dokumen lain ke dalam dokumen yang sedang terbuka.",
-    "export": "Ekspor langkah-langkah Anda yang disimpan untuk dibagikan dengan orang lain."
+    "export": "Ekspor langkah-langkah Anda yang disimpan untuk dibagikan dengan orang lain.",
+    "cutterMarksHtml": "<b> Tanda Pemotong </b> menggambar indikator yang digunakan untuk menyelaraskan peralatan pemotongan tepat dengan lembaran cetak."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -582,9 +584,15 @@
     "failedWebAssembly": "Gagal memuat WebAssembly. \nPDF Snake memerlukan browser modern yang mendukung WebAssembly."
   },
   "cutterMarks": {
-    "Marks": "Tanda",
     "Shape": "Membentuk",
     "fifthDot": "Titik ke -5",
-    "layer": "Lapisan"
+    "layer": "Lapisan",
+    "help": {
+      "layer": "Tanda akan ditarik dalam grup konten opsional ini.  \nBiarkan kosong untuk menggambar tanda di luar semua grup konten.",
+      "margins": "Jarak antara tanda pemotong dan tepi halaman disebut margin. \nMargin biasanya 1/4 inci (6,35 mm) atau kurang. \nMargin diukur dari tepi tanda pemotong ke tepi halaman.",
+      "shape": "Bentuk tanda yang harus ditarik di atas lembaran.",
+      "size": "Diameter lingkaran atau panjang satu tepi persegi.",
+      "summary": "Tanda pendaftaran pemotong adalah indikator cetak yang digunakan untuk menyelaraskan peralatan pemotongan justru dengan lembar cetak selama operasi finishing. \nTidak seperti tanda pemotong sederhana, yang menunjukkan di mana harus memotong, tanda pendaftaran pemotong dibaca oleh sensor pada pemotongan otomatis, celah, atau mesin finishing untuk memastikan setiap potongan diposisikan secara akurat relatif terhadap konten yang dicetak. \nTanda ini membantu mengimbangi sedikit pergeseran dalam posisi lembaran, peregangan, atau condong selama pencetakan atau pemberian makan. \nMereka penting dalam alur kerja berkecepatan tinggi dan otomatis-terutama dalam sistem finishing digital-untuk mempertahankan kualitas output yang konsisten dan mencegah kesalahan pemotongan."
+    }
   }
 }

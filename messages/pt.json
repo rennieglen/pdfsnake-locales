@@ -53,7 +53,8 @@
     "colorBar": "Barra de cor",
     "nest": "Adesivos",
     "calendar": "Calendário",
-    "insertPages": "Inserir páginas"
+    "insertPages": "Inserir páginas",
+    "cutterMarks": "Marcas de cortador"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -353,7 +354,8 @@
     "nestHtml": "<b>Adesivos</b> impõe uma folha de adesivos com espaços em branco sobrepostos.",
     "calendarHtml": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
     "insertPagesHtml": "<b>Inserir páginas</b> insere páginas de outro documento no documento atualmente aberto.",
-    "export": "Exporte suas etapas salvas para compartilhar com outras pessoas."
+    "export": "Exporte suas etapas salvas para compartilhar com outras pessoas.",
+    "cutterMarksHtml": "<b> Marcas de cortador </b> desenha indicadores usados ​​para alinhar o equipamento de corte com precisão com a folha impressa."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -581,9 +583,15 @@
     "failedWebAssembly": "Falha ao carregar o WebAssembly. \nPDF Snake requer um navegador moderno que suporte WebAssembly."
   },
   "cutterMarks": {
-    "Marks": "Marcas",
     "Shape": "Forma",
     "fifthDot": "5º ponto",
-    "layer": "Camada"
+    "layer": "Camada",
+    "help": {
+      "layer": "As marcas serão desenhadas neste grupo de conteúdo opcional.  \nDeixe em branco para desenhar as marcas para fora de todos os grupos de conteúdo.",
+      "margins": "A distância entre a marca do cortador e a borda da página é chamada de margem. \nA margem é tipicamente de 6,35 mm ou menos. \nA margem é medida a partir da borda da marca do cortador até a borda da página.",
+      "shape": "A forma das marcas a serem desenhadas na folha.",
+      "size": "O diâmetro do círculo ou o comprimento de uma borda do quadrado.",
+      "summary": "As marcas de registro do cortador são indicadores impressos usados ​​para alinhar o equipamento de corte com precisão com a folha impressa durante as operações de acabamento. \nDiferentemente das marcas simples do cortador, que indicam onde cortar, as marcas de registro do cortador são lidas por sensores em máquinas de corte, corte ou acabamento automatizadas para garantir que cada corte esteja posicionado com precisão em relação ao conteúdo impresso. \nEssas marcas ajudam a compensar pequenas mudanças na posição da folha, alongamento ou distorção durante a impressão ou alimentação. \nEles são essenciais em fluxos de trabalho automatizados de alta velocidade-especialmente em sistemas de acabamento digital-para manter a qualidade consistente da saída e impedir erros de corte."
+    }
   }
 }
