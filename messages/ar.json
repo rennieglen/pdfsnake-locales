@@ -579,5 +579,11 @@
   },
   "app": {
     "failedWebAssembly": "فشل تحميل WebAssembly. \nيتطلب PDF Snake متصفحًا حديثًا يدعم WebAssembly."
+  },
+  "cutterMarks": {
+    "Marks": "علامات",
+    "Shape": "شكل",
+    "fifthDot": "النقطة الخامسة",
+    "layer": "طبقة"
   }
 }

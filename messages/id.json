@@ -580,5 +580,11 @@
   },
   "app": {
     "failedWebAssembly": "Gagal memuat WebAssembly. \nPDF Snake memerlukan browser modern yang mendukung WebAssembly."
+  },
+  "cutterMarks": {
+    "Marks": "Tanda",
+    "Shape": "Membentuk",
+    "fifthDot": "Titik ke -5",
+    "layer": "Lapisan"
   }
 }

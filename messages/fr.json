@@ -579,5 +579,11 @@
   },
   "app": {
     "failedWebAssembly": "Échec du chargement de WebAssembly. \nPDF Snake nécessite un navigateur moderne prenant en charge WebAssembly."
+  },
+  "cutterMarks": {
+    "Marks": "Marques",
+    "Shape": "Forme",
+    "fifthDot": "5e point",
+    "layer": "Couche"
   }
 }

@@ -581,5 +581,11 @@
   },
   "app": {
     "failedWebAssembly": "Failed to load WebAssembly. PDF Snake requires a modern browser that supports WebAssembly."
+  },
+  "cutterMarks": {
+    "fifthDot": "5th Dot",
+    "Marks": "Marks",
+    "Shape": "Shape",
+    "layer": "Layer"
   }
 }

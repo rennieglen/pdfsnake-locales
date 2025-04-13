@@ -579,5 +579,11 @@
   },
   "app": {
     "failedWebAssembly": "WebAssembly のロードに失敗しました。 \nPDF Snake には、WebAssembly をサポートする最新のブラウザが必要です。"
+  },
+  "cutterMarks": {
+    "Marks": "マーク",
+    "Shape": "形",
+    "fifthDot": "5番目のドット",
+    "layer": "層"
   }
 }
