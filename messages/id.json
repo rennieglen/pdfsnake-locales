@@ -567,7 +567,8 @@
     "rules": "Aturan",
     "spaceBetween": "Ruang antar",
     "addCustomNames": "Tambahkan nama kustom",
-    "appendCustomNames": "Tambahkan nama file dengan teks khusus."
+    "appendCustomNames": "Tambahkan nama file dengan teks khusus.",
+    "displayCutBlocks": "Tampilkan cutblock JDF di"
   },
   "insertPages": {
     "insertBefore": "Sisipkan sebelum halaman",

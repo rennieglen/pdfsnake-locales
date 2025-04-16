@@ -568,7 +568,8 @@
     "output": "Output",
     "appendFileNames": "Append file names with tool names.",
     "example": "Example:",
-    "appendCustomNames": "Append file names with custom text."
+    "appendCustomNames": "Append file names with custom text.",
+    "displayCutBlocks": "Display JDF CutBlocks in"
   },
   "insertPages": {
     "insertBefore": "Insert before page",

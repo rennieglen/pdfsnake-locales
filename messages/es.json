@@ -566,7 +566,8 @@
     "output": "Producción",
     "rules": "Normas",
     "spaceBetween": "Espacio entre",
-    "appendCustomNames": "Adjuntar texto personalizado a los nombres de archivos."
+    "appendCustomNames": "Adjuntar texto personalizado a los nombres de archivos.",
+    "displayCutBlocks": "Mostrar bloques JDF en"
   },
   "insertPages": {
     "insertBefore": "Insertar antes de la página",

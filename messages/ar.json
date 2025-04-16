@@ -566,7 +566,8 @@
     "output": "الإخراج",
     "rules": "قواعد",
     "spaceBetween": "الفضاء بين",
-    "appendCustomNames": "إضافة أسماء الملفات باستخدام نص مخصص."
+    "appendCustomNames": "إضافة أسماء الملفات باستخدام نص مخصص.",
+    "displayCutBlocks": "عرض jdf cutblocks في"
   },
   "insertPages": {
     "insertBefore": "أدخل قبل الصفحة",

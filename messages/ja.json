@@ -566,7 +566,8 @@
     "output": "出力",
     "rules": "ルール",
     "spaceBetween": "間のスペース",
-    "addCustomNames": "ファイル名にカスタムテキストを追加。"
+    "addCustomNames": "ファイル名にカスタムテキストを追加。",
+    "displayCutBlocks": "JDFカットブロックを表示します"
   },
   "insertPages": {
     "insertBefore": "ページの前に挿入",

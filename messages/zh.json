@@ -567,7 +567,8 @@
     "output": "输出",
     "rules": "规则",
     "spaceBetween": "之间的空间",
-    "addCustomNames": "将自定义文本附加到文件名中。"
+    "addCustomNames": "将自定义文本附加到文件名中。",
+    "displayCutBlocks": "显示JDF cutblocks"
   },
   "insertPages": {
     "insertBefore": "在页前插入",
