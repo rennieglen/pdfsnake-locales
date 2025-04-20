@@ -594,7 +594,9 @@
       "margins": "The distance between the cutter mark and the edge of the page is called the margin. The margin is typically 1/4 inch (6.35 mm) or less. The margin is measured from the edge of the cutter mark to the edge of the page.",
       "shape": "The shape of the marks to be drawn on the sheet.",
       "size": "The diameter of the circle or the length of one edge of the square.",
-      "layer": "Marks will be drawn in this Optional Content Group.  Leave blank to draw the marks outside all content groups."
+      "layer": "Marks will be drawn in this Optional Content Group.  Leave blank to draw the marks outside all content groups.",
+      "spacing": "The distance between cutter registration marks drawn along the edges of the sheet.  PDF Snake always spaces the marks evenly, so the precise distance between the marks may be different from this value.",
+      "keyMark": "An additional registration mark near one corner that the cutter uses to determine the orientation of the sheet."
     },
     "cornersOnly": "Corners Only",
     "cornersAndEdges": "Corners & Edges",
