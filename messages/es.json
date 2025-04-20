@@ -593,6 +593,12 @@
       "shape": "La forma de las marcas a dibujar en la hoja.",
       "size": "El diámetro del círculo o la longitud de un borde del cuadrado.",
       "summary": "Las marcas de registro de cortador son indicadores impresos utilizados para alinear los equipos de corte con precisión con la hoja impresa durante las operaciones de acabado. \nA diferencia de las marcas de cortador simples, que indican dónde cortar, los sensores leen las marcas de registro de cortador en los cortes automatizados, la reducción o las máquinas de acabado para garantizar que cada corte se coloque con precisión en relación con el contenido impreso. \nEstas marcas ayudan a compensar los ligeros cambios en la posición de la hoja, estirarse o sesgarse durante la impresión o la alimentación. \nSon esenciales en flujos de trabajo automatizados de alta velocidad, especialmente en los sistemas de acabado digital, para mantener una calidad de salida constante y evitar errores de corte."
-    }
+    },
+    "cornersAndEdges": "Rincones",
+    "cornersOnly": "Solo esquinas",
+    "keyDistanceFromCorner": "Distancia de la marca de la esquina",
+    "keyMark": "Marca clave",
+    "roughly": "(apenas)",
+    "spacing": "Espaciado"
   }
 }

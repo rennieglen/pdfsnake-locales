@@ -593,6 +593,12 @@
       "shape": "La forme des marques à dessiner sur la feuille.",
       "size": "Le diamètre du cercle ou la longueur d'un bord du carré.",
       "summary": "Les marques d'enregistrement des coupeurs sont des indicateurs imprimés utilisés pour aligner l'équipement de coupe précisément avec la feuille imprimée pendant les opérations de finition. \nContrairement à des marques de coupe simples, qui indiquent où couper, les marques d'enregistrement de coupe sont lues par des capteurs sur des machines de coupe, de tranche ou de finition automatisées pour s'assurer que chaque coupe est positionnée avec précision par rapport au contenu imprimé. \nCes marques aident à compenser de légers changements en position de feuille, en étirement ou en asymétrie pendant l'impression ou l'alimentation. \nIls sont essentiels dans les flux de travail automatisés à grande vitesse, en particulier dans les systèmes de finition numérique - pour maintenir une qualité de sortie cohérente et prévenir les erreurs de coupe."
-    }
+    },
+    "cornersAndEdges": "Coins",
+    "cornersOnly": "Coins seulement",
+    "keyDistanceFromCorner": "Distance de la marque d'angle",
+    "keyMark": "Marque clé",
+    "roughly": "(à peu près)",
+    "spacing": "Espacement"
   }
 }

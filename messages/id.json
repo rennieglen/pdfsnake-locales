@@ -594,6 +594,12 @@
       "shape": "Bentuk tanda yang harus ditarik di atas lembaran.",
       "size": "Diameter lingkaran atau panjang satu tepi persegi.",
       "summary": "Tanda pendaftaran pemotong adalah indikator cetak yang digunakan untuk menyelaraskan peralatan pemotongan justru dengan lembar cetak selama operasi finishing. \nTidak seperti tanda pemotong sederhana, yang menunjukkan di mana harus memotong, tanda pendaftaran pemotong dibaca oleh sensor pada pemotongan otomatis, celah, atau mesin finishing untuk memastikan setiap potongan diposisikan secara akurat relatif terhadap konten yang dicetak. \nTanda ini membantu mengimbangi sedikit pergeseran dalam posisi lembaran, peregangan, atau condong selama pencetakan atau pemberian makan. \nMereka penting dalam alur kerja berkecepatan tinggi dan otomatis-terutama dalam sistem finishing digital-untuk mempertahankan kualitas output yang konsisten dan mencegah kesalahan pemotongan."
-    }
+    },
+    "cornersAndEdges": "Sudut",
+    "cornersOnly": "Hanya sudut saja",
+    "keyDistanceFromCorner": "Jarak dari tanda sudut",
+    "keyMark": "Tanda kunci",
+    "roughly": "(dengan kasar)",
+    "spacing": "Jarak"
   }
 }

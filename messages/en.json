@@ -595,6 +595,12 @@
       "shape": "The shape of the marks to be drawn on the sheet.",
       "size": "The diameter of the circle or the length of one edge of the square.",
       "layer": "Marks will be drawn in this Optional Content Group.  Leave blank to draw the marks outside all content groups."
-    }
+    },
+    "cornersOnly": "Corners Only",
+    "cornersAndEdges": "Corners & Edges",
+    "spacing": "Spacing",
+    "roughly": "(roughly)",
+    "keyMark": "Key Mark",
+    "keyDistanceFromCorner": "Distance from corner mark"
   }
 }
