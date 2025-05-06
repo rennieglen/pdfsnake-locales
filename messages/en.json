@@ -508,7 +508,9 @@
     "edit": "Edit",
     "fileName": "file name",
     "pageNumber": "page number",
-    "pageCount": "page count"
+    "pageCount": "page count",
+    "sheetNumber": "sheet number",
+    "sheetCount": "sheet count"
   },
   "colorBar": {
     "marks": "Marks",

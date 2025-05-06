@@ -495,7 +495,9 @@
     "edit": "يحرر",
     "fileName": "اسم الملف",
     "pageCount": "عدد الصفحات",
-    "pageNumber": "رقم الصفحة"
+    "pageNumber": "رقم الصفحة",
+    "sheetCount": "عدد الأوراق",
+    "sheetNumber": "رقم الورقة"
   },
   "colorBar": {
     "marks": "ماركس",

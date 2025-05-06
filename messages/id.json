@@ -495,7 +495,9 @@
     "edit": "Sunting",
     "fileName": "nama file",
     "pageCount": "jumlah halaman",
-    "pageNumber": "nomor halaman"
+    "pageNumber": "nomor halaman",
+    "sheetCount": "jumlah lembar",
+    "sheetNumber": "nomor lembar"
   },
   "colorBar": {
     "marks": "Tanda",

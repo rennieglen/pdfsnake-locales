@@ -495,7 +495,9 @@
     "edit": "Modifier",
     "fileName": "nom de fichier",
     "pageCount": "nombre de pages",
-    "pageNumber": "numéro de page"
+    "pageNumber": "numéro de page",
+    "sheetCount": "nombre de feuilles",
+    "sheetNumber": "numéro de feuille"
   },
   "colorBar": {
     "marks": "Des marques",

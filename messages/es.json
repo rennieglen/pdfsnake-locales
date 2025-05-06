@@ -506,7 +506,9 @@
     "edit": "Editar",
     "fileName": "nombre del archivo",
     "pageCount": "recuento de páginas",
-    "pageNumber": "número de página"
+    "pageNumber": "número de página",
+    "sheetCount": "recuento de hojas",
+    "sheetNumber": "número de hoja"
   },
   "colorBar": {
     "marks": "Marcas",

@@ -496,7 +496,9 @@
     "edit": "编辑",
     "fileName": "文件名",
     "pageCount": "页数",
-    "pageNumber": "页码"
+    "pageNumber": "页码",
+    "sheetCount": "纸张数量",
+    "sheetNumber": "表号"
   },
   "colorBar": {
     "marks": "分数",
