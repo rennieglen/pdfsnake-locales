@@ -596,13 +596,17 @@
       "size": "O diâmetro do círculo ou o comprimento de uma borda do quadrado.",
       "summary": "As marcas de registro do cortador são indicadores impressos usados ​​para alinhar o equipamento de corte com precisão com a folha impressa durante as operações de acabamento. \nDiferentemente das marcas simples do cortador, que indicam onde cortar, as marcas de registro do cortador são lidas por sensores em máquinas de corte, corte ou acabamento automatizadas para garantir que cada corte esteja posicionado com precisão em relação ao conteúdo impresso. \nEssas marcas ajudam a compensar pequenas mudanças na posição da folha, alongamento ou distorção durante a impressão ou alimentação. \nEles são essenciais em fluxos de trabalho automatizados de alta velocidade-especialmente em sistemas de acabamento digital-para manter a qualidade consistente da saída e impedir erros de corte.",
       "keyMark": "Uma marca de registro adicional perto de um canto que o cortador usa para determinar a orientação da folha.",
-      "spacing": "A distância entre as marcas de registro do cortador desenhadas ao longo das bordas da folha.  \nA cobra em PDF sempre espanca as marcas uniformemente; portanto, a distância precisa entre as marcas pode ser diferente desse valor."
+      "spacing": "A distância entre as marcas de registro do cortador desenhadas ao longo das bordas da folha.  \nA cobra em PDF sempre espanca as marcas uniformemente; portanto, a distância precisa entre as marcas pode ser diferente desse valor.",
+      "dielines": "Adicione dielines ao seu documento para permitir que seu cortador digital apareça automaticamente a obra de arte. \nOs dielines aparecem na tela, mas são ignorados pelas impressoras e impressoras. \nVerifique se a camada de dieline é nomeada exatamente como esperado pelo seu cortador digital."
     },
     "cornersAndEdges": "Cantos",
     "cornersOnly": "Apenas cantos",
     "keyDistanceFromCorner": "Distância da marca de canto",
     "keyMark": "Marca -chave",
     "roughly": "(aproximadamente)",
-    "spacing": "Espaçamento"
+    "spacing": "Espaçamento",
+    "dielines": "Dielines",
+    "dielinesColor": "Exibir cor",
+    "addDielines": "Adicione dielines"
   }
 }
