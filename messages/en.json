@@ -609,6 +609,7 @@
     "keyDistanceFromCorner": "Distance from corner mark",
     "dielines": "Dielines",
     "addDielines": "Add dielines",
-    "dielinesColor": "Display color"
+    "dielinesColor": "Display color",
+    "registrationMarks": "Registration Marks"
   }
 }
