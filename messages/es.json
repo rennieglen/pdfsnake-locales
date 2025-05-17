@@ -387,7 +387,8 @@
     "for48hours": "{price} por 48 horas",
     "perMonth": "{price} por mes, se renuevan automáticamente",
     "perYear": "{price} por año, se renuevan automáticamente",
-    "agreedToCharge": "Entiendo que a mi tarjeta de crédito se le cobrará de inmediato, mi suscripción comenzará de inmediato y la transacción no es reembolsable."
+    "agreedToCharge": "Entiendo que a mi tarjeta de crédito se le cobrará de inmediato, mi suscripción comenzará de inmediato y la transacción no es reembolsable.",
+    "for1week": "{price} por 1 semana"
   },
   "helpFor": {
     "noHelp": "No hay ningún tema de ayuda llamado {topic}."
