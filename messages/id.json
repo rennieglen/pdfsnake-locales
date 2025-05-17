@@ -387,8 +387,7 @@
     "for48hours": "{price} selama 48 jam",
     "perMonth": "{price} per bulan, memperbarui secara otomatis",
     "perYear": "{price} per tahun, memperbarui secara otomatis",
-    "agreedToCharge": "Saya mengerti bahwa kartu kredit saya akan segera dibebankan, langganan saya akan segera dimulai, dan transaksi tidak dapat dikembalikan.",
-    "for72hours": "{price} selama 72 jam"
+    "agreedToCharge": "Saya mengerti bahwa kartu kredit saya akan segera dibebankan, langganan saya akan segera dimulai, dan transaksi tidak dapat dikembalikan."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."
