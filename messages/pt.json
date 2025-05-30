@@ -609,6 +609,8 @@
     "dielines": "Dielines",
     "dielinesColor": "Exibir cor",
     "addDielines": "Adicione dielines",
-    "registrationMarks": "Marcos de registro"
+    "registrationMarks": "Marcos de registro",
+    "artwork": "Obra de arte",
+    "removeArtwork": "Remova as obras de arte (crie um arquivo apenas de marcas de corte)"
   }
 }

@@ -611,6 +611,8 @@
     "dielines": "Dielines",
     "addDielines": "Add dielines",
     "dielinesColor": "Display color",
-    "registrationMarks": "Registration Marks"
+    "registrationMarks": "Registration Marks",
+    "artwork": "Artwork",
+    "removeArtwork": "Remove artwork (create a cut-marks only file)"
   }
 }

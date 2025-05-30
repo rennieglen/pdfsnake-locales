@@ -609,6 +609,8 @@
     "dielines": "ديلين",
     "dielinesColor": "عرض لون",
     "addDielines": "أضف ديلين",
-    "registrationMarks": "علامات التسجيل"
+    "registrationMarks": "علامات التسجيل",
+    "artwork": "العمل الفني",
+    "removeArtwork": "إزالة العمل الفني (قم بإنشاء ملف علامات قطع فقط)"
   }
 }

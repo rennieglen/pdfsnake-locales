@@ -609,6 +609,8 @@
     "dielines": "Dielines",
     "dielinesColor": "Affichage de la couleur",
     "addDielines": "Ajouter des diélines",
-    "registrationMarks": "Marques d'inscription"
+    "registrationMarks": "Marques d'inscription",
+    "artwork": "Œuvres d'art",
+    "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)"
   }
 }

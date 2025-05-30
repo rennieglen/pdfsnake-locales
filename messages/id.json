@@ -610,6 +610,8 @@
     "dielines": "Dielines",
     "dielinesColor": "Warna tampilan",
     "addDielines": "Tambahkan Dielines",
-    "registrationMarks": "Tanda pendaftaran"
+    "registrationMarks": "Tanda pendaftaran",
+    "artwork": "Karya seni",
+    "removeArtwork": "Hapus karya seni (buat file cut-mark saja)"
   }
 }
