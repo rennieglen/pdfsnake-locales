@@ -127,7 +127,7 @@
     "fourColorBlack": "Hitam empat warna",
     "fourColorBlackHelp": "Ketika dicentang, tanda potong akan dicetak dengan semua warna tinta. Jika tidak dicentang, tanda potong hanya akan dicetak menggunakan tinta hitam.",
     "drawMarksInGutters": "Gambarlah tanda di selokan",
-    "whiteBorder": "Tambahkan batas putih"
+    "whiteBorder": "Pukulan knockout"
   },
   "bleeds": {
     "bleeds": "Bleed",

@@ -127,7 +127,7 @@
     "fourColorBlack": "四色黑",
     "fourColorBlackHelp": "选中后，会用青色、品红、黄色和黑色油墨绘制裁切线。如果未选中，则仅会用黑色油墨绘制裁切线。",
     "drawMarksInGutters": "在排水沟中画出标记",
-    "whiteBorder": "添加白色边框"
+    "whiteBorder": "昏死"
   },
   "bleeds": {
     "bleeds": "出界幅度",

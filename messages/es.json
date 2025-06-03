@@ -127,7 +127,7 @@
     "fourColorBlack": "Negro plano",
     "fourColorBlackHelp": "Cuando está marcada, las marcas de corte son trazadas con tinta color cian, magenta, amarilla y negra. Cuando no está marcada, las marcas de corte se trazan solo con tinta negra.",
     "drawMarksInGutters": "Dibujar marcas en canalones",
-    "whiteBorder": "Agregar borde blanco"
+    "whiteBorder": "Knockear"
   },
   "bleeds": {
     "bleeds": "Sangrías",
