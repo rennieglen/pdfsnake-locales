@@ -126,7 +126,8 @@
     "lineDistance": "Line distance",
     "fourColorBlack": "Four-color black",
     "fourColorBlackHelp": "When checked, crop marks are drawn with full cyan, magenta, yellow, and black ink. When not checked, the crop marks are drawn only in black ink.",
-    "drawMarksInGutters": "Draw marks in gutters"
+    "drawMarksInGutters": "Draw marks in gutters",
+    "whiteBorder": "Add white border"
   },
   "bleeds": {
     "bleeds": "Bleeds",

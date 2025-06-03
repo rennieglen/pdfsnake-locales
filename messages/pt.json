@@ -126,7 +126,8 @@
     "lineDistance": "Distância da linha",
     "fourColorBlack": "Preto chapado",
     "fourColorBlackHelp": "Quando marcada, as marcas de corte são desenhadas com tinta ciano, magenta, amarela e preta. Quando não estiver marcada, as marcas de corte serão desenhadas apenas com tinta preta.",
-    "drawMarksInGutters": "Desenhe marcas nas calhas"
+    "drawMarksInGutters": "Desenhe marcas nas calhas",
+    "whiteBorder": "Adicionar borda branca"
   },
   "bleeds": {
     "bleeds": "Sangrias",
