@@ -126,7 +126,8 @@
     "lineDistance": "Distance entre les lignes",
     "fourColorBlack": "Noir quatre couleurs",
     "fourColorBlackHelp": "Lorsque cette case est cochée, les repères de coupe sont dessinés avec de l'encre cyan, magenta, jaune et noire. Lorsque cette case n'est pas cochée, les repères de coupe sont dessinés uniquement à l'encre noire.",
-    "drawMarksInGutters": "Tracer des marques dans les gouttières"
+    "drawMarksInGutters": "Tracer des marques dans les gouttières",
+    "whiteBorder": "Ajouter une bordure blanche"
   },
   "bleeds": {
     "bleeds": "Saignements",

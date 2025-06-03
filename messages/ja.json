@@ -126,7 +126,8 @@
     "lineDistance": "線の間隔",
     "fourColorBlack": "4色ベタ",
     "fourColorBlackHelp": "チェックを入れると、シアン、マゼンタ、イエロー、ブラックそれぞれ100%で作成された黒色でトンボが表示されます。チェックがない場合は、黒インクのみでトンボが表示されます。",
-    "drawMarksInGutters": "溝にマークを描く"
+    "drawMarksInGutters": "溝にマークを描く",
+    "whiteBorder": "白い枠線を追加する"
   },
   "bleeds": {
     "bleeds": "ドブ（塗り足し）",
