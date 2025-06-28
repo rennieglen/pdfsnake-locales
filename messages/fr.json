@@ -612,6 +612,8 @@
     "addDielines": "Ajouter des diélines",
     "registrationMarks": "Marques d'inscription",
     "artwork": "Œuvres d'art",
-    "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)"
+    "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)",
+    "inside": "À l'intérieur",
+    "outside": "Dehors"
   }
 }

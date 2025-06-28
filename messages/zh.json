@@ -613,6 +613,8 @@
     "addDielines": "添加二烯",
     "registrationMarks": "注册标记",
     "artwork": "艺术品",
-    "removeArtwork": "删除艺术品（创建仅剪裁文件）"
+    "removeArtwork": "删除艺术品（创建仅剪裁文件）",
+    "inside": "里面",
+    "outside": "外部"
   }
 }

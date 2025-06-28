@@ -612,6 +612,8 @@
     "addDielines": "DIELINESを追加します",
     "registrationMarks": "登録マーク",
     "artwork": "アートワーク",
-    "removeArtwork": "アートワークを削除します（カットマークのみファイルを作成します）"
+    "removeArtwork": "アートワークを削除します（カットマークのみファイルを作成します）",
+    "inside": "内部",
+    "outside": "外"
   }
 }

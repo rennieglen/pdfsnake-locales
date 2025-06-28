@@ -614,6 +614,8 @@
     "dielinesColor": "Display color",
     "registrationMarks": "Registration Marks",
     "artwork": "Artwork",
-    "removeArtwork": "Remove artwork (create a cut-marks only file)"
+    "removeArtwork": "Remove artwork (create a cut-marks only file)",
+    "inside": "Inside",
+    "outside": "Outside"
   }
 }

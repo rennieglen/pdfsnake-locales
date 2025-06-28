@@ -612,6 +612,8 @@
     "addDielines": "Agregar dielinas",
     "registrationMarks": "Marcas de registro",
     "artwork": "Obra de arte",
-    "removeArtwork": "Eliminar obras de arte (cree un archivo solo de marcas de corte)"
+    "removeArtwork": "Eliminar obras de arte (cree un archivo solo de marcas de corte)",
+    "inside": "Adentro",
+    "outside": "Afuera"
   }
 }
