@@ -54,7 +54,8 @@
     "nest": "贴纸",
     "calendar": "日历",
     "insertPages": "插入页面",
-    "cutterMarks": "切割器标记"
+    "cutterMarks": "切割器标记",
+    "layers": "图层"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -616,5 +617,13 @@
     "removeArtwork": "删除艺术品（创建仅剪裁文件）",
     "inside": "里面",
     "outside": "外部"
+  },
+  "layers": {
+    "help": {
+      "summaryHtml": "<b>Layers</b> 打开或关闭图层。",
+      "selectHtml": "选择<b>激活</b>或<b>停用</b>选项来打开或关闭图层，或者选择中间选项来保持图层不变。"
+    },
+    "on": "激活",
+    "off": "停用"
   }
 }

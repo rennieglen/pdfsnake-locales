@@ -54,7 +54,8 @@
     "nest": "Stickers",
     "calendar": "Calendar",
     "insertPages": "Insert Pages",
-    "cutterMarks": "Cutter Marks"
+    "cutterMarks": "Cutter Marks",
+    "layers": "Layers"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -617,5 +618,18 @@
     "removeArtwork": "Remove artwork (create a cut-marks only file)",
     "inside": "Inside",
     "outside": "Outside"
+  },
+  "layers": {
+    "noLayers": "No layers found in {0}.",
+    "help": {
+      "summaryHtml": "<b>Layers</b> toggles layers on and off.",
+      "ocgs": "Adobe Illustrator calls them Layers, but in PDF documents they're called Optional Content Groups.",
+      "selectHtml": "Select the <b>On</b> or <b>Off</b> option to turn a layer on or off, or select the middle option to leave the layer unchanged."
+    },
+    "on": "On",
+    "off": "Off"
+  },
+  "layer": {
+    "help": {}
   }
 }

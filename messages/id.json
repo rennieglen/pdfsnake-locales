@@ -54,7 +54,8 @@
     "nest": "Stiker",
     "calendar": "Kalender",
     "insertPages": "Sisipkan Halaman",
-    "cutterMarks": "Tanda Pemotong"
+    "cutterMarks": "Tanda Pemotong",
+    "layers": "Lapisan"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -616,5 +617,13 @@
     "removeArtwork": "Hapus karya seni (buat file cut-mark saja)",
     "inside": "Di dalam",
     "outside": "Di luar"
+  },
+  "layers": {
+    "help": {
+      "summaryHtml": "<b>Lapisan</b> mengaktifkan dan menonaktifkan lapisan.",
+      "selectHtml": "Pilih opsi <b>Aktifkan</b> atau <b>Nonaktifkan</b> untuk menghidupkan atau mematikan lapisan, atau pilih opsi tengah untuk membiarkan lapisan tidak berubah."
+    },
+    "on": "Mengaktifkan",
+    "off": "Menonaktifkan"
   }
 }

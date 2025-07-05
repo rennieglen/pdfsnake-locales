@@ -54,7 +54,8 @@
     "nest": "Pegatinas",
     "calendar": "Calendario",
     "insertPages": "Insertar páginas",
-    "cutterMarks": "Marcas de cortador"
+    "cutterMarks": "Marcas de cortador",
+    "layers": "Capas"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -615,5 +616,13 @@
     "removeArtwork": "Eliminar obras de arte (cree un archivo solo de marcas de corte)",
     "inside": "Adentro",
     "outside": "Afuera"
+  },
+  "layers": {
+    "help": {
+      "summaryHtml": "<b>Capas</b> activa y desactiva las capas.",
+      "selectHtml": "Seleccione la opción <b>Activar</b> o <b>Desactivar</b> para activar o desactivar una capa, o seleccione la opción del medio para dejar la capa sin cambios."
+    },
+    "on": "Activar",
+    "off": "Desactivar"
   }
 }

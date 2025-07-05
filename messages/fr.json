@@ -54,7 +54,8 @@
     "nest": "Autocollants",
     "calendar": "Calendrier",
     "insertPages": "Insérer des pages",
-    "cutterMarks": "Marques de coupe"
+    "cutterMarks": "Marques de coupe",
+    "layers": "Couches"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -615,5 +616,13 @@
     "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)",
     "inside": "À l'intérieur",
     "outside": "Dehors"
+  },
+  "layers": {
+    "help": {
+      "summaryHtml": "<b>Calques</b> active et désactive les calques.",
+      "selectHtml": "Sélectionnez l'option <b>Activer</b> ou <b>Désactiver</b> pour activer ou désactiver un calque, ou sélectionnez l'option du milieu pour laisser le calque inchangé."
+    },
+    "on": "Activer",
+    "off": "Désactiver"
   }
 }

@@ -54,7 +54,8 @@
     "nest": "Adesivos",
     "calendar": "Calendário",
     "insertPages": "Inserir páginas",
-    "cutterMarks": "Marcas de cortador"
+    "cutterMarks": "Marcas de cortador",
+    "layers": "Camadas"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -615,5 +616,13 @@
     "removeArtwork": "Remova as obras de arte (crie um arquivo apenas de marcas de corte)",
     "inside": "Dentro",
     "outside": "Fora"
+  },
+  "layers": {
+    "help": {
+      "summaryHtml": "<b>Camadas</b> ativa e desativa camadas.",
+      "selectHtml": "Selecione a opção <b>Ativar</b> ou <b>Desativar</b> para ativar ou desativar uma camada, ou selecione a opção do meio para deixar a camada inalterada."
+    },
+    "on": "Ativar",
+    "off": "Desativar"
   }
 }
