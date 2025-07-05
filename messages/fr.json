@@ -623,6 +623,7 @@
       "selectHtml": "Sélectionnez l'option <b>Activer</b> ou <b>Désactiver</b> pour activer ou désactiver un calque, ou sélectionnez l'option du milieu pour laisser le calque inchangé."
     },
     "on": "Activer",
-    "off": "Désactiver"
+    "off": "Désactiver",
+    "noLayers": "Aucune couche trouvée dans {0}."
   }
 }

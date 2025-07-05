@@ -623,6 +623,7 @@
       "selectHtml": "Selecione a opção <b>Ativar</b> ou <b>Desativar</b> para ativar ou desativar uma camada, ou selecione a opção do meio para deixar a camada inalterada."
     },
     "on": "Ativar",
-    "off": "Desativar"
+    "off": "Desativar",
+    "noLayers": "Nenhuma camada encontrada em {0}."
   }
 }

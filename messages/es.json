@@ -623,6 +623,7 @@
       "selectHtml": "Seleccione la opción <b>Activar</b> o <b>Desactivar</b> para activar o desactivar una capa, o seleccione la opción del medio para dejar la capa sin cambios."
     },
     "on": "Activar",
-    "off": "Desactivar"
+    "off": "Desactivar",
+    "noLayers": "No se encontraron capas en {0}."
   }
 }

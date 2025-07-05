@@ -624,6 +624,7 @@
       "selectHtml": "Pilih opsi <b>Aktifkan</b> atau <b>Nonaktifkan</b> untuk menghidupkan atau mematikan lapisan, atau pilih opsi tengah untuk membiarkan lapisan tidak berubah."
     },
     "on": "Mengaktifkan",
-    "off": "Menonaktifkan"
+    "off": "Menonaktifkan",
+    "noLayers": "Tidak ada lapisan yang ditemukan di {0}."
   }
 }
