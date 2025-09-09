@@ -423,7 +423,7 @@
     "subscriptionExpired": "サブスクリプションの有効期限が切れました",
     "subscriptionExpiredDate": "サブスクリプションは{date}に期限切れになりました。",
     "subscriptionWillExpire": "サブスクリプションはキャンセルされ、{date}に期限切れになります。",
-    "updateButton": "変更",
+    "updateButton": "支払い方法を更新します",
     "editAnswer": "回答を編集する",
     "tellUsWhy": "サブスクリプションはキャンセルされました。\n残念です。\nお時間がございましたら、キャンセルの理由をお知らせください。",
     "thankYou": "キャンセルの理由を教えていただきありがとうございます。"

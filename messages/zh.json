@@ -424,7 +424,7 @@
     "subscriptionExpired": "订阅已过期",
     "subscriptionExpiredDate": "您的订阅已于 {date}到期。",
     "subscriptionWillExpire": "您的订阅已取消，将于 {date}到期。",
-    "updateButton": "调整",
+    "updateButton": "更新付款方式",
     "editAnswer": "编辑你的答案",
     "tellUsWhy": "您的订阅已被取消。\n看到你离开我们感到很遗憾。\n如果您有时间，请告诉我们您取消的原因。",
     "thankYou": "感谢您告诉我们取消的原因。"

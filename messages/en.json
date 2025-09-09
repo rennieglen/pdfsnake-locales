@@ -418,7 +418,7 @@
     "pleaseCreate": "Please create a new subscription.",
     "subscriptionCanceled": "Subscription Canceled",
     "subscriptionWillExpire": "Your subscription has been canceled and will expire on {date}.",
-    "updateButton": "Modify",
+    "updateButton": "Update Payment Method",
     "cancelButton": "Cancel",
     "paymentHistory": "Payment History",
     "paymentDate": "Date",
