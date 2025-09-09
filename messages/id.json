@@ -426,7 +426,8 @@
     "updateButton": "Perbarui metode pembayaran",
     "editAnswer": "Edit jawaban Anda",
     "tellUsWhy": "Langganan Anda telah dibatalkan. \nKami sedih melihat Anda pergi. \nJika Anda punya waktu, beri tahu kami alasan Anda membatalkan.",
-    "thankYou": "Terima kasih telah memberi tahu kami alasan Anda membatalkan."
+    "thankYou": "Terima kasih telah memberi tahu kami alasan Anda membatalkan.",
+    "pastDue": "Pembayaran berlangganan Anda sudah lewat jatuh tempo."
   },
   "cards": {
     "help": {

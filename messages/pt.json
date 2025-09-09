@@ -426,7 +426,8 @@
     "updateButton": "Atualizar método de pagamento",
     "editAnswer": "Edite sua resposta",
     "tellUsWhy": "Sua assinatura foi cancelada. \nLamentamos ver você partir. \nSe você tiver um momento, informe-nos por que você cancelou.",
-    "thankYou": "Obrigado por nos contar por que você cancelou."
+    "thankYou": "Obrigado por nos contar por que você cancelou.",
+    "pastDue": "Seu pagamento de assinatura está vencido."
   },
   "cards": {
     "help": {
