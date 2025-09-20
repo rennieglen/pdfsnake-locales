@@ -616,7 +616,8 @@
     "artwork": "Œuvres d'art",
     "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)",
     "inside": "À l'intérieur",
-    "outside": "Dehors"
+    "outside": "Dehors",
+    "thickness": "Épaisseur"
   },
   "layers": {
     "help": {

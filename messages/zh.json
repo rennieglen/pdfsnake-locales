@@ -617,7 +617,8 @@
     "artwork": "艺术品",
     "removeArtwork": "删除艺术品（创建仅剪裁文件）",
     "inside": "里面",
-    "outside": "外部"
+    "outside": "外部",
+    "thickness": "厚度"
   },
   "layers": {
     "help": {

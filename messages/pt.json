@@ -616,7 +616,8 @@
     "artwork": "Obra de arte",
     "removeArtwork": "Remova as obras de arte (crie um arquivo apenas de marcas de corte)",
     "inside": "Dentro",
-    "outside": "Fora"
+    "outside": "Fora",
+    "thickness": "Grossura"
   },
   "layers": {
     "help": {

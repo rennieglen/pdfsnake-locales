@@ -618,7 +618,8 @@
     "artwork": "Artwork",
     "removeArtwork": "Remove artwork (create a cut-marks only file)",
     "inside": "Inside",
-    "outside": "Outside"
+    "outside": "Outside",
+    "thickness": "Thickness"
   },
   "layers": {
     "noLayers": "No layers found in {0}.",

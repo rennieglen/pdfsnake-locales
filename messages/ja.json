@@ -616,7 +616,8 @@
     "artwork": "アートワーク",
     "removeArtwork": "アートワークを削除します（カットマークのみファイルを作成します）",
     "inside": "内部",
-    "outside": "外"
+    "outside": "外",
+    "thickness": "厚さ"
   },
   "layers": {
     "help": {
