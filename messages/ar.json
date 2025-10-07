@@ -501,7 +501,8 @@
     "pageCount": "عدد الصفحات",
     "pageNumber": "رقم الصفحة",
     "sheetCount": "عدد الأوراق",
-    "sheetNumber": "رقم الورقة"
+    "sheetNumber": "رقم الورقة",
+    "outFileName": "اسم ملف الإخراج"
   },
   "colorBar": {
     "marks": "ماركس",

@@ -514,7 +514,8 @@
     "pageNumber": "page number",
     "pageCount": "page count",
     "sheetNumber": "sheet number",
-    "sheetCount": "sheet count"
+    "sheetCount": "sheet count",
+    "outFileName": "output file name"
   },
   "colorBar": {
     "marks": "Marks",

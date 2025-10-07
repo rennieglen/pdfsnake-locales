@@ -501,7 +501,8 @@
     "pageCount": "jumlah halaman",
     "pageNumber": "nomor halaman",
     "sheetCount": "jumlah lembar",
-    "sheetNumber": "nomor lembar"
+    "sheetNumber": "nomor lembar",
+    "outFileName": "nama file output"
   },
   "colorBar": {
     "marks": "Tanda",

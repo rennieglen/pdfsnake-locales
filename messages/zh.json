@@ -502,7 +502,8 @@
     "pageCount": "页数",
     "pageNumber": "页码",
     "sheetCount": "纸张数量",
-    "sheetNumber": "表号"
+    "sheetNumber": "表号",
+    "outFileName": "输出文件名"
   },
   "colorBar": {
     "marks": "分数",

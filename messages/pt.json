@@ -512,7 +512,8 @@
     "pageCount": "contagem de páginas",
     "pageNumber": "número de página",
     "sheetCount": "contagem de folhas",
-    "sheetNumber": "número da folha"
+    "sheetNumber": "número da folha",
+    "outFileName": "Nome do arquivo de saída"
   },
   "colorBar": {
     "marks": "Marcas",

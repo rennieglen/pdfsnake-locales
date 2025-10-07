@@ -501,7 +501,8 @@
     "pageCount": "ページ数",
     "pageNumber": "ページ番号",
     "sheetCount": "シート数",
-    "sheetNumber": "シート番号"
+    "sheetNumber": "シート番号",
+    "outFileName": "出力ファイル名"
   },
   "colorBar": {
     "marks": "マーク",
