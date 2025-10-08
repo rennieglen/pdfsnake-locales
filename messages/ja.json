@@ -502,7 +502,8 @@
     "pageNumber": "ページ番号",
     "sheetCount": "シート数",
     "sheetNumber": "シート番号",
-    "outFileName": "出力ファイル名"
+    "outFileName": "出力ファイル名",
+    "timestamp": "タイムスタンプ"
   },
   "colorBar": {
     "marks": "マーク",

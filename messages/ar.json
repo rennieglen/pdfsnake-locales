@@ -502,7 +502,8 @@
     "pageNumber": "رقم الصفحة",
     "sheetCount": "عدد الأوراق",
     "sheetNumber": "رقم الورقة",
-    "outFileName": "اسم ملف الإخراج"
+    "outFileName": "اسم ملف الإخراج",
+    "timestamp": "الطابع الزمني"
   },
   "colorBar": {
     "marks": "ماركس",

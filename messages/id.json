@@ -502,7 +502,8 @@
     "pageNumber": "nomor halaman",
     "sheetCount": "jumlah lembar",
     "sheetNumber": "nomor lembar",
-    "outFileName": "nama file output"
+    "outFileName": "nama file output",
+    "timestamp": "stempel waktu"
   },
   "colorBar": {
     "marks": "Tanda",

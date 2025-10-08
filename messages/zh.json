@@ -503,7 +503,8 @@
     "pageNumber": "页码",
     "sheetCount": "纸张数量",
     "sheetNumber": "表号",
-    "outFileName": "输出文件名"
+    "outFileName": "输出文件名",
+    "timestamp": "时间戳"
   },
   "colorBar": {
     "marks": "分数",

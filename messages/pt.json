@@ -513,7 +513,8 @@
     "pageNumber": "número de página",
     "sheetCount": "contagem de folhas",
     "sheetNumber": "número da folha",
-    "outFileName": "Nome do arquivo de saída"
+    "outFileName": "Nome do arquivo de saída",
+    "timestamp": "carimbo de data/hora"
   },
   "colorBar": {
     "marks": "Marcas",
