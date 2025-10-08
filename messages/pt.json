@@ -505,7 +505,20 @@
     "size": "Tamanho",
     "template": "Modelo",
     "help": {
-      "intro": "A ferramenta Cabeçalho ou Rodapé adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
+      "intro": "A ferramenta Cabeçalho ou Rodapé adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas.",
+      "fileName": "O nome original do arquivo que está sendo imposto.",
+      "fromatSyntax": "A sintaxe do formato é descrita em detalhes aqui:",
+      "numberPadding": "Preenchimento numérico",
+      "numberPaddingExplained": "Para todas as variáveis ​​numéricas acima, você pode preencher o número com zeros extras.  \nA variável a seguir preencherá o número da página com 4 dígitos.",
+      "outFileName": "O nome do arquivo depois de ter sido imposto.",
+      "pageCount": "O número de páginas do documento que está sendo editado.",
+      "pageNumber": "O número da página que está sendo editada.",
+      "sheetCount": "O número de folhas frente e verso no documento que está sendo editado.",
+      "sheetNumber1": "Metade do número da página.",
+      "sheetNumber2": "Para mídia frente e verso, duas páginas do PDF são impressas na frente e no verso da mesma folha.  \n<b>número da planilha</b> insere o número da planilha que está sendo editada.",
+      "timestamp": "O carimbo de data/hora atual.  \nO formato do carimbo de data/hora é totalmente personalizável.  \nVeja abaixo.",
+      "timestampFormatting": "Formatação de carimbo de data/hora",
+      "timestampFormattingExplained": "Você pode passar uma string de formato para o carimbo de data/hora.  \nA variável a seguir irá inserir algo como <em>Segunda-feira, 7 de janeiro de 2020</em>."
     },
     "edit": "Editar",
     "fileName": "nome do arquivo",

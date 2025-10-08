@@ -505,7 +505,20 @@
     "size": "Tamaño",
     "template": "Plantilla",
     "help": {
-      "intro": "La herramienta Encabezado o Pie de página agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas."
+      "intro": "La herramienta Encabezado o Pie de página agrega números de página, nombres de archivo u otro texto al final o al principio de las páginas.",
+      "fileName": "El nombre original del archivo que se está imponiendo.",
+      "fromatSyntax": "La sintaxis del formato se describe en detalle aquí:",
+      "numberPadding": "Relleno numérico",
+      "numberPaddingExplained": "Para todas las variables numéricas anteriores, puede rellenar el número con ceros adicionales.  \nLa siguiente variable rellenará el número de página a 4 dígitos.",
+      "outFileName": "El nombre del archivo después de su imposición.",
+      "pageCount": "El número de páginas del documento que se está editando.",
+      "pageNumber": "El número de la página que se está editando.",
+      "sheetCount": "El número de hojas de doble cara del documento que se está editando.",
+      "sheetNumber1": "La mitad del número de página.",
+      "sheetNumber2": "Para soportes de doble cara, se imprimen dos páginas del PDF en el anverso y el reverso de la misma hoja.  \n<b>número de hoja</b> inserta el número de la hoja que se está editando.",
+      "timestamp": "La marca de tiempo actual.  \nEl formato de la marca de tiempo es totalmente personalizable.  \nVea abajo.",
+      "timestampFormatting": "Formato de marca de tiempo",
+      "timestampFormattingExplained": "Puede pasar una cadena de formato a la marca de tiempo.  \nLa siguiente variable insertará algo como <em>lunes 7 de enero de 2020</em>."
     },
     "edit": "Editar",
     "fileName": "nombre del archivo",

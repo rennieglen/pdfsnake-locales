@@ -494,7 +494,20 @@
     "size": "Ukuran",
     "template": "Templat",
     "help": {
-      "intro": "Alat Header atau Footer menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
+      "intro": "Alat Header atau Footer menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
+      "fileName": "Nama asli file yang dikenakan.",
+      "fromatSyntax": "Sintaks format dijelaskan secara rinci di sini:",
+      "numberPadding": "Bantalan Nomor",
+      "numberPaddingExplained": "Untuk semua variabel numerik di atas, Anda dapat mengisi angkanya dengan angka nol tambahan.  \nVariabel berikut akan menambah nomor halaman menjadi 4 digit.",
+      "outFileName": "Nama file setelah diterapkan.",
+      "pageCount": "Jumlah halaman dalam dokumen yang sedang diedit.",
+      "pageNumber": "Nomor halaman yang sedang diedit.",
+      "sheetCount": "Jumlah lembar dua sisi dalam dokumen yang sedang diedit.",
+      "sheetNumber1": "Setengah nomor halaman.",
+      "sheetNumber2": "Untuk media dua sisi, dua halaman dalam PDF dicetak di bagian depan dan belakang lembar yang sama.  \n<b>nomor lembar</b> menyisipkan nomor lembar yang sedang diedit.",
+      "timestamp": "Stempel waktu saat ini.  \nFormat stempel waktu dapat disesuaikan sepenuhnya.  \nLihat di bawah.",
+      "timestampFormatting": "Pemformatan Stempel Waktu",
+      "timestampFormattingExplained": "Anda dapat meneruskan string format ke stempel waktu.  \nVariabel berikut akan memasukkan sesuatu seperti <em>Senin, 7 Januari 2020</em>."
     },
     "edit": "Sunting",
     "fileName": "nama file",

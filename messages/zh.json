@@ -495,7 +495,20 @@
     "size": "尺寸",
     "template": "模板",
     "help": {
-      "intro": "页眉或页脚工具将页码、文件名或其他文本添加到页面底部或顶部。"
+      "intro": "页眉或页脚工具将页码、文件名或其他文本添加到页面底部或顶部。",
+      "fileName": "所施加的文件的原始名称。",
+      "fromatSyntax": "格式语法详细描述如下：",
+      "numberPadding": "数字填充",
+      "numberPaddingExplained": "对于上面的所有数字变量，您可以用额外的零填充数字。  \n以下变量会将页码填充为 4 位数字。",
+      "outFileName": "施加后的文件名称。",
+      "pageCount": "正在编辑的文档中的页数。",
+      "pageNumber": "正在编辑的页码。",
+      "sheetCount": "正在编辑的文档中双面纸张的数量。",
+      "sheetNumber1": "页码的一半。",
+      "sheetNumber2": "对于双面介质，PDF 中的两页将打印在同一张纸的正面和背面。  \n<b>工作表编号</b>插入正在编辑的工作表的编号。",
+      "timestamp": "当前时间戳。  \n时间戳的格式是完全可定制的。  \n见下文。",
+      "timestampFormatting": "时间戳格式",
+      "timestampFormattingExplained": "您可以将格式字符串传递给时间戳。  \n以下变量将插入类似 <em>2020 年 1 月 7 日星期一</em> 的内容。"
     },
     "edit": "编辑",
     "fileName": "文件名",

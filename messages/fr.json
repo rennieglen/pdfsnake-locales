@@ -494,7 +494,20 @@
     "size": "Taille",
     "template": "Modèle",
     "help": {
-      "intro": "L'outil En-tête ou Pied de page ajoute des numéros de page, des noms de fichiers ou d'autres textes en bas ou en haut des pages."
+      "intro": "L'outil En-tête ou Pied de page ajoute des numéros de page, des noms de fichiers ou d'autres textes en bas ou en haut des pages.",
+      "fileName": "Le nom original du fichier imposé.",
+      "fromatSyntax": "La syntaxe du format est décrite en détail ici :",
+      "numberPadding": "Remplissage numérique",
+      "numberPaddingExplained": "Pour toutes les variables numériques ci-dessus, vous pouvez compléter le nombre avec des zéros supplémentaires.  \nLa variable suivante remplira le numéro de page à 4 chiffres.",
+      "outFileName": "Le nom du fichier après son imposition.",
+      "pageCount": "Le nombre de pages du document en cours d'édition.",
+      "pageNumber": "Le numéro de la page en cours de modification.",
+      "sheetCount": "Le nombre de feuilles recto-verso dans le document en cours d'édition.",
+      "sheetNumber1": "La moitié du numéro de page.",
+      "sheetNumber2": "Pour les supports recto verso, deux pages du PDF sont imprimées au recto et au verso de la même feuille.  \n<b>numéro de feuille</b> insère le numéro de la feuille en cours d'édition.",
+      "timestamp": "L'horodatage actuel.  \nLe format de l'horodatage est entièrement personnalisable.  \nVoir ci-dessous.",
+      "timestampFormatting": "Formatage de l'horodatage",
+      "timestampFormattingExplained": "Vous pouvez transmettre une chaîne de format à l'horodatage.  \nLa variable suivante insérera quelque chose comme <em>Lundi 7 janvier 2020</em>."
     },
     "edit": "Modifier",
     "fileName": "nom de fichier",
