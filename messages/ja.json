@@ -390,7 +390,13 @@
     "perMonth": "{price}月額、自動的に更新します",
     "perYear": "{price}年間、自動的に更新します",
     "agreedToCharge": "クレジットカードがすぐに請求され、サブスクリプションがすぐに開始され、トランザクションが返金されないことを理解しています。",
-    "for1week": "{price} 1週間"
+    "for1week": "{price} 1週間",
+    "emailAlreadyInUse": "入力したメールアドレスはすでに使用されています。  \n新しいものを入力してください。",
+    "emailSignInAndOut": "メール アドレスを変更する前に、サインアウトして再度サインインする必要があります。",
+    "emailUpdating": "更新中...",
+    "enterEmailAddress": "新しい電子メール アドレスを入力してください:",
+    "errorInvalidEmail": "有効なメールアドレスを入力してください。",
+    "verifyEmailSent": "新しいメール アドレスに、所有者であることを確認するためのメールが送信されました。\n受信箱を確認してプロセスを完了してください。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

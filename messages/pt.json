@@ -390,7 +390,13 @@
     "perMonth": "{price} por mês, renova automaticamente",
     "perYear": "{price} por ano, renova automaticamente",
     "agreedToCharge": "Entendo que meu cartão de crédito será cobrado imediatamente, minha assinatura começará imediatamente e a transação não será reembolsável.",
-    "for1week": "{price} por 1 semana"
+    "for1week": "{price} por 1 semana",
+    "emailAlreadyInUse": "O endereço de e-mail que você digitou já está em uso.  \nPor favor insira um novo.",
+    "emailSignInAndOut": "Antes de alterar seu endereço de e-mail, você deve sair e entrar novamente.",
+    "emailUpdating": "Atualizando...",
+    "enterEmailAddress": "Digite seu novo endereço de e-mail:",
+    "errorInvalidEmail": "Insira um endereço de e-mail válido.",
+    "verifyEmailSent": "Um e-mail foi enviado para seu novo endereço de e-mail para verificar se você é o proprietário dele. \nVerifique sua caixa de entrada para concluir o processo."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."

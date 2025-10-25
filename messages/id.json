@@ -390,7 +390,13 @@
     "perMonth": "{price} per bulan, memperbarui secara otomatis",
     "perYear": "{price} per tahun, memperbarui secara otomatis",
     "agreedToCharge": "Saya mengerti bahwa kartu kredit saya akan segera dibebankan, langganan saya akan segera dimulai, dan transaksi tidak dapat dikembalikan.",
-    "for1week": "{price} selama 1 minggu"
+    "for1week": "{price} selama 1 minggu",
+    "emailAlreadyInUse": "Alamat email yang Anda masukkan sudah digunakan.  \nSilakan masukkan yang baru.",
+    "emailSignInAndOut": "Sebelum mengubah alamat email Anda, Anda harus keluar dan masuk lagi.",
+    "emailUpdating": "Memperbarui...",
+    "enterEmailAddress": "Masukkan alamat email baru Anda:",
+    "errorInvalidEmail": "Silakan masukkan alamat email yang valid.",
+    "verifyEmailSent": "Sebuah email telah dikirim ke alamat email baru Anda untuk memverifikasi bahwa Anda pemiliknya. \nSilakan periksa kotak masuk Anda untuk menyelesaikan prosesnya."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

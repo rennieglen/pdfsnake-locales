@@ -391,7 +391,13 @@
     "perMonth": "{price}每月，自动续订",
     "perYear": "{price}每年，自动续订",
     "agreedToCharge": "我了解我的信用卡将立即收取，我的订阅将立即开始，交易不可退还。",
-    "for1week": "{price}持续1周"
+    "for1week": "{price}持续1周",
+    "emailAlreadyInUse": "您输入的电子邮件地址已被使用。  \n请输入一个新的。",
+    "emailSignInAndOut": "更改电子邮件地址之前，您必须退出并重新登录。",
+    "emailUpdating": "更新中...",
+    "enterEmailAddress": "输入您的新电子邮件地址：",
+    "errorInvalidEmail": "请输入有效的电子邮件地址。",
+    "verifyEmailSent": "一封电子邮件已发送到您的新电子邮件地址，以验证您是否拥有该地址。\n请检查您的收件箱以完成该过程。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"
