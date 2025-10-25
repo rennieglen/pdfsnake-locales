@@ -392,7 +392,13 @@
     "perYear": "{price} per year, renews automatically",
     "for48hours": "{price} for 48 hours",
     "agreedToCharge": "I understand that my credit card will be charged immediately, my subscription will begin immediately, and the transaction is not refundable.",
-    "for1week": "{price} for 1 week"
+    "for1week": "{price} for 1 week",
+    "enterEmailAddress": "Enter your new email address:",
+    "verifyEmailSent": "An email has been sent to your new email address to verify you own it. Please check your inbox to complete the process.",
+    "errorInvalidEmail": "Please enter a valid email address.",
+    "emailSignInAndOut": "Before changing your email address, you must sign out and sign in again.",
+    "emailAlreadyInUse": "The email address you entered is already in use.  Please enter a new one.",
+    "emailUpdating": "Updating..."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."
