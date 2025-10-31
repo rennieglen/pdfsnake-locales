@@ -672,7 +672,23 @@
     "browse": "Drag and drop a file here or {browse} to add it to the gang sheet.",
     "addMoreFiles": "Add more files",
     "help": {
-      "intro": "<b>Gang</b> combines multiple jobs into a single sheet that's ready for an offset press."
+      "intro": "<b>Gang</b> combines multiple jobs into a single sheet that's ready for an offset press.",
+      "howToPrepare": "To prepare a gang sheet for your offset press:",
+      "clickBrowse": "Drag and drop multiple files into PDF Snake.  Or click {browse} and choose multiple files.",
+      "setParameters": "Set the parameters described below.",
+      "slugLine": "Use the {link} tool to add a slug line to the sheet.",
+      "colorBar": "Use the {link} tool to add a color bar to the top of the sheet.",
+      "parameters": "Parameters",
+      "sheetwise": "You run the entire stack of paper through the press to print side A. Then, you wait for the ink to dry, change all the plates on the press, and run the entire stack through a second time to print side B. (Two passes)",
+      "workAndTurn": "You print one side of the stack. Then, you take the entire stack, flip (tumble) or turn it over, and feed it back through the press a second time (using the same plates) to print the other side. (Two passes)",
+      "perfecting": "You run the entire stack of paper through the press one time. Each sheet that comes out is finished. (One pass)",
+      "makereadySheetCount": "This is the fixed number of sheets required to set up the press and finishing equipment. It's not a percentage; it's a flat amount.",
+      "runningSpoilage": "This is the percentage of waste you expect after the job is up and running. This is your buffer for \"unplanned spoilage\" like paper jams, color drift, or hickies.",
+      "quantity": "The number of copies of a job requested by the customer.",
+      "padding": "Whitespace between copies of the same job on the sheet.",
+      "guttersSeparateJobs": "Gutters separate jobs.",
+      "paddingSeparateCopies": "Padding separates copies of the same job.",
+      "allowRotation": "When checked, PDF Snake will attempt to rotate the job to maximize the number of copies that fit onto the sheet, and thereby reduce the number of sheets you have to print.  Leave this box clear for jobs that require the grain of the paper to run in a fixed direction."
     },
     "browseButton": "browse"
   },
