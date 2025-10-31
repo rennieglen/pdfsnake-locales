@@ -654,5 +654,24 @@
   },
   "layer": {
     "help": {}
+  },
+  "gang": {
+    "options": "Options",
+    "workStyle": "Work Style",
+    "sheetwise": "sheetwise",
+    "workAndTurn": "work and turn",
+    "workAndTumble": "work and tumble",
+    "perfecting": "perfecting",
+    "makereadySheetCount": "Makeready sheet count",
+    "runningSpoilage": "Running spoilage",
+    "quantity": "Quantity",
+    "allowRotation": "Allow rotation",
+    "sheets": "sheets",
+    "overage": "overage",
+    "browse": "Drag and drop a file here or {browse} to add it to the gang sheet.",
+    "addMoreFiles": "Add more files"
+  },
+  "gange": {
+    "browseButton": "Browse"
   }
 }
