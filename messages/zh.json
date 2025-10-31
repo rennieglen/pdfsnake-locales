@@ -653,7 +653,7 @@
   "gang": {
     "addMoreFiles": "添加更多文件",
     "allowRotation": "允许旋转",
-    "browse": "将文件拖放到此处或{浏览}以将其添加到组表中。",
+    "browse": "将文件拖放到此处或{browse}以将其添加到组表中。",
     "makereadySheetCount": "排版页数",
     "options": "选项",
     "overage": "超龄",

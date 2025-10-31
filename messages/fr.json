@@ -652,7 +652,7 @@
   "gang": {
     "addMoreFiles": "Ajouter plus de fichiers",
     "allowRotation": "Autoriser la rotation",
-    "browse": "Faites glisser et déposez un fichier ici ou {parcourir} pour l'ajouter à la feuille de gang.",
+    "browse": "Faites glisser et déposez un fichier ici ou {browse} pour l'ajouter à la feuille de gang.",
     "makereadySheetCount": "Nombre de feuilles de préparation",
     "options": "Possibilités",
     "overage": "excédent",

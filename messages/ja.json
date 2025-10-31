@@ -652,7 +652,7 @@
   "gang": {
     "addMoreFiles": "さらにファイルを追加する",
     "allowRotation": "回転を許可する",
-    "browse": "ファイルをここにドラッグ アンド ドロップするか、{参照}してギャング シートに追加します。",
+    "browse": "ファイルをここにドラッグ アンド ドロップするか、{browse}してギャング シートに追加します。",
     "makereadySheetCount": "準備シート数",
     "options": "オプション",
     "overage": "超過額",

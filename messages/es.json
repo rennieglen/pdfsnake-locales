@@ -652,7 +652,7 @@
   "gang": {
     "addMoreFiles": "Agregar más archivos",
     "allowRotation": "Permitir rotación",
-    "browse": "Arrastre y suelte un archivo aquí o {explore} para agregarlo a la hoja grupal.",
+    "browse": "Arrastre y suelte un archivo aquí o {browse} para agregarlo a la hoja grupal.",
     "makereadySheetCount": "Recuento de hojas de preparación",
     "options": "Opciones",
     "overage": "exceso",

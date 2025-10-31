@@ -55,7 +55,8 @@
     "calendar": "Calendar",
     "insertPages": "Insert Pages",
     "cutterMarks": "Cutter Marks",
-    "layers": "Layers"
+    "layers": "Layers",
+    "gang": "Gang Sheet"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -669,9 +670,11 @@
     "sheets": "sheets",
     "overage": "overage",
     "browse": "Drag and drop a file here or {browse} to add it to the gang sheet.",
-    "addMoreFiles": "Add more files"
+    "addMoreFiles": "Add more files",
+    "help": {
+      "intro": "<b>Gang</b> combines multiple jobs into a single sheet that's ready for an offset press."
+    },
+    "browseButton": "browse"
   },
-  "gange": {
-    "browseButton": "Browse"
-  }
+  "gange": {}
 }
