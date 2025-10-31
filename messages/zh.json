@@ -664,6 +664,26 @@
     "sheetwise": "逐张地",
     "workAndTumble": "工作和跌倒",
     "workAndTurn": "工作和转弯",
-    "workStyle": "工作作风"
+    "workStyle": "工作作风",
+    "help": {
+      "allowRotation": "选中后，PDF Snake 将尝试旋转作业以最大化适合纸张的副本数量，从而减少必须打印的纸张数量。  \n对于需要纸张纹理沿固定方向运行的作业，请保留此框。",
+      "clickBrowse": "将多个文件拖放到 PDF Snake 中。  \n或者点击{browse}并选择多个文件。",
+      "colorBar": "使用 {link} 工具将颜色条添加到工作表顶部。",
+      "guttersSeparateJobs": "排水沟分隔工作。",
+      "howToPrepare": "要为胶印机准备排版纸：",
+      "intro": "<b>Gang</b> 将多个作业组合成一张可供胶印机使用的单张纸。",
+      "makereadySheetCount": "这是设置印刷机和精加工设备所需的固定纸张数量。\n这不是一个百分比；而是一个百分比。\n这是一个固定金额。",
+      "padding": "纸张上同一作业的副本之间存在空白。",
+      "paddingSeparateCopies": "填充分隔同一作业的副本。",
+      "parameters": "参数",
+      "perfecting": "您将整叠纸通过印刷机一次。\n每张出来的纸都已完成。 \n（一通）",
+      "quantity": "客户请求的作业份数。",
+      "runningSpoilage": "这是作业启动并运行后您预期的浪费百分比。\n这是“意外损坏”的缓冲区，例如卡纸、颜色漂移或杂记。",
+      "setParameters": "设置如下所述的参数。",
+      "sheetwise": "将整叠纸通过印刷机打印到 A 面。然后，等待墨水干燥，更换印刷机上的所有印版，然后将整叠纸再次通过印刷机打印 B 面。（两次通过）",
+      "slugLine": "使用 {link} 工具将辅助线添加到图纸中。",
+      "workAndTurn": "您打印纸叠的一侧。\n然后，您取出整叠纸，翻转（翻滚）或翻转，然后再次将其送回印刷机（使用相同的印版）以打印另一面。 \n（两遍）"
+    },
+    "browseButton": "浏览"
   }
 }

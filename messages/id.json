@@ -664,6 +664,26 @@
     "sheetwise": "lembaran",
     "workAndTumble": "bekerja dan terjatuh",
     "workAndTurn": "bekerja dan berputar",
-    "workStyle": "Gaya Kerja"
+    "workStyle": "Gaya Kerja",
+    "help": {
+      "allowRotation": "Jika dicentang, PDF Snake akan mencoba merotasi pekerjaan untuk memaksimalkan jumlah salinan yang muat dalam satu lembar, dan dengan demikian mengurangi jumlah lembar yang harus Anda cetak.  \nBiarkan kotak ini kosong untuk pekerjaan yang mengharuskan butiran kertas bergerak pada arah yang tetap.",
+      "clickBrowse": "Seret dan lepas banyak file ke PDF Snake.  \nAtau klik {browse} dan pilih beberapa file.",
+      "colorBar": "Gunakan alat {link} untuk menambahkan bilah warna ke bagian atas lembar.",
+      "guttersSeparateJobs": "Talang memisahkan pekerjaan.",
+      "howToPrepare": "Untuk menyiapkan lembar geng untuk mesin cetak offset Anda:",
+      "intro": "<b>Gang</b> menggabungkan beberapa pekerjaan ke dalam satu lembar yang siap untuk mesin cetak offset.",
+      "makereadySheetCount": "Ini adalah jumlah tetap lembaran yang diperlukan untuk menyiapkan peralatan press dan finishing. \nIni bukan persentase; \nitu jumlah yang tetap.",
+      "padding": "Spasi kosong di antara salinan pekerjaan yang sama pada lembar.",
+      "paddingSeparateCopies": "Padding memisahkan salinan pekerjaan yang sama.",
+      "parameters": "Parameter",
+      "perfecting": "Anda menjalankan seluruh tumpukan kertas melalui mesin press satu kali. \nSetiap lembar yang keluar sudah jadi. \n(Satu izin)",
+      "quantity": "Jumlah salinan pekerjaan yang diminta oleh pelanggan.",
+      "runningSpoilage": "Ini adalah persentase pemborosan yang Anda harapkan setelah pekerjaan selesai dan berjalan. \nIni adalah penyangga Anda untuk \"pembusukan yang tidak direncanakan\" seperti kertas macet, penyimpangan warna, atau cupang.",
+      "setParameters": "Atur parameter yang dijelaskan di bawah ini.",
+      "sheetwise": "Anda memasukkan seluruh tumpukan kertas melalui mesin cetak untuk mencetak sisi A. Kemudian, Anda menunggu hingga tinta mengering, mengganti semua pelat pada mesin cetak, dan menjalankan seluruh tumpukan kertas untuk kedua kalinya untuk mencetak sisi B. (Dua lintasan)",
+      "slugLine": "Gunakan alat {link} untuk menambahkan garis slug ke sheet.",
+      "workAndTurn": "Anda mencetak satu sisi tumpukan. \nKemudian, ambil seluruh tumpukan, balikkan (jatuhkan) atau balikkan, dan masukkan kembali melalui mesin press untuk kedua kalinya (menggunakan pelat yang sama) untuk mencetak sisi lainnya. \n(Dua operan)"
+    },
+    "browseButton": "jelajahi"
   }
 }

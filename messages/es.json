@@ -663,6 +663,26 @@
     "sheetwise": "en hojas",
     "workAndTumble": "trabajar y caer",
     "workAndTurn": "trabajar y girar",
-    "workStyle": "Estilo de trabajo"
+    "workStyle": "Estilo de trabajo",
+    "help": {
+      "allowRotation": "Cuando está marcada, PDF Snake intentará rotar el trabajo para maximizar la cantidad de copias que caben en la hoja y, por lo tanto, reducir la cantidad de hojas que tiene que imprimir.  \nDeje esta casilla en blanco para trabajos que requieran que la fibra del papel se desplace en una dirección fija.",
+      "clickBrowse": "Arrastre y suelte varios archivos en PDF Snake.  \nO haga clic en {browse} y elija varios archivos.",
+      "colorBar": "Utilice la herramienta {link} para agregar una barra de color en la parte superior de la hoja.",
+      "guttersSeparateJobs": "Los canalones separan los trabajos.",
+      "howToPrepare": "Para preparar una hoja colectiva para su prensa offset:",
+      "intro": "<b>Gang</b> combina varios trabajos en una sola hoja lista para una prensa offset.",
+      "makereadySheetCount": "Este es el número fijo de hojas necesarias para configurar la prensa y el equipo de acabado. \nNo es un porcentaje; \nes una cantidad fija.",
+      "padding": "Espacio en blanco entre copias del mismo trabajo en la hoja.",
+      "paddingSeparateCopies": "El relleno separa copias del mismo trabajo.",
+      "parameters": "Parámetros",
+      "perfecting": "Pasa toda la pila de papel por la prensa una vez. \nCada hoja que sale está terminada. \n(Una pasada)",
+      "quantity": "El número de copias de un trabajo solicitado por el cliente.",
+      "runningSpoilage": "Este es el porcentaje de desperdicio que se espera una vez que el trabajo esté en funcionamiento. \nEste es su amortiguador para \"daños no planificados\", como atascos de papel, cambios de color o chupetones.",
+      "setParameters": "Configure los parámetros que se describen a continuación.",
+      "sheetwise": "Pasa toda la pila de papel por la prensa para imprimir la cara A. Luego, espera a que se seque la tinta, cambia todas las placas de la prensa y pasa toda la pila por segunda vez para imprimir la cara B. (Dos pasadas)",
+      "slugLine": "Utilice la herramienta {link} para agregar una línea slug a la hoja.",
+      "workAndTurn": "Imprimes un lado de la pila. \nLuego, toma toda la pila, la voltea (la voltea) y la vuelve a pasar por la prensa una segunda vez (usando las mismas placas) para imprimir el otro lado. \n(Dos pases)"
+    },
+    "browseButton": "navegar"
   }
 }

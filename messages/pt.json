@@ -663,6 +663,26 @@
     "sheetwise": "em folha",
     "workAndTumble": "trabalhar e cair",
     "workAndTurn": "trabalhar e virar",
-    "workStyle": "Estilo de Trabalho"
+    "workStyle": "Estilo de Trabalho",
+    "help": {
+      "allowRotation": "Quando marcado, o PDF Snake tentará girar o trabalho para maximizar o número de cópias que cabem na folha e, assim, reduzir o número de folhas que você precisa imprimir.  \nDeixe esta caixa desmarcada para trabalhos que exigem que a granulação do papel siga em uma direção fixa.",
+      "clickBrowse": "Arraste e solte vários arquivos no PDF Snake.  \nOu clique em {browse} e escolha vários arquivos.",
+      "colorBar": "Use a ferramenta {link} para adicionar uma barra de cores ao topo da planilha.",
+      "guttersSeparateJobs": "Calhas separam trabalhos.",
+      "howToPrepare": "Para preparar uma folha coletiva para sua impressora offset:",
+      "intro": "<b>Gang</b> combina vários trabalhos em uma única folha pronta para impressão offset.",
+      "makereadySheetCount": "Este é o número fixo de folhas necessárias para montar o equipamento de impressão e acabamento. \nNão é uma porcentagem; \né um valor fixo.",
+      "padding": "Espaço em branco entre cópias do mesmo trabalho na folha.",
+      "paddingSeparateCopies": "O preenchimento separa cópias do mesmo trabalho.",
+      "parameters": "Parâmetros",
+      "perfecting": "Você passa toda a pilha de papel pela impressora uma vez. \nCada folha que sai está finalizada. \n(Uma passagem)",
+      "quantity": "O número de cópias de um trabalho solicitado pelo cliente.",
+      "runningSpoilage": "Esta é a porcentagem de desperdício que você espera depois que o trabalho estiver em funcionamento. \nEste é o seu buffer para \"deterioração não planejada\", como atolamentos de papel, desvio de cor ou chupões.",
+      "setParameters": "Defina os parâmetros descritos abaixo.",
+      "sheetwise": "Você passa toda a pilha de papel pela impressora para imprimir o lado A. Em seguida, espera a tinta secar, troca todas as placas na impressora e passa toda a pilha uma segunda vez para imprimir o lado B. (Duas passagens)",
+      "slugLine": "Use a ferramenta {link} para adicionar uma linha de inserção à planilha.",
+      "workAndTurn": "Você imprime um lado da pilha. \nEm seguida, você pega a pilha inteira, vira (vira) ou vira e passa de volta pela impressora uma segunda vez (usando as mesmas placas) para imprimir o outro lado. \n(Duas passagens)"
+    },
+    "browseButton": "navegar"
   }
 }

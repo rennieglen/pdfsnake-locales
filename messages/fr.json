@@ -663,6 +663,26 @@
     "sheetwise": "par feuille",
     "workAndTumble": "travailler et dégringoler",
     "workAndTurn": "travailler et tourner",
-    "workStyle": "Style de travail"
+    "workStyle": "Style de travail",
+    "help": {
+      "allowRotation": "Lorsque cette case est cochée, PDF Snake tentera de faire pivoter le travail pour maximiser le nombre de copies pouvant tenir sur la feuille, et ainsi réduire le nombre de feuilles à imprimer.  \nLaissez cette case vide pour les travaux qui nécessitent que le grain du papier s'étende dans une direction fixe.",
+      "clickBrowse": "Faites glisser et déposez plusieurs fichiers dans PDF Snake.  \nOu cliquez sur {browse} et choisissez plusieurs fichiers.",
+      "colorBar": "Utilisez l'outil {link} pour ajouter une barre de couleur en haut de la feuille.",
+      "guttersSeparateJobs": "Les gouttières séparent les travaux.",
+      "howToPrepare": "Pour préparer une feuille d'assemblage pour votre presse offset :",
+      "intro": "<b>Gang</b> combine plusieurs travaux en une seule feuille prête à être utilisée sur une presse offset.",
+      "makereadySheetCount": "Il s'agit du nombre fixe de feuilles nécessaires à la configuration de la presse et de l'équipement de finition. \nCe n'est pas un pourcentage; \nc'est un montant forfaitaire.",
+      "padding": "Espace entre les copies du même travail sur la feuille.",
+      "paddingSeparateCopies": "Le remplissage sépare les copies du même travail.",
+      "parameters": "Paramètres",
+      "perfecting": "Vous faites passer toute la pile de papier dans la presse une seule fois. \nChaque feuille qui sort est terminée. \n(Un passage)",
+      "quantity": "Le nombre de copies d'un travail demandé par le client.",
+      "runningSpoilage": "Il s'agit du pourcentage de gaspillage auquel vous vous attendez une fois le travail opérationnel. \nIl s'agit de votre tampon contre les « détériorations imprévues » comme les bourrages papier, la dérive des couleurs ou les suçons.",
+      "setParameters": "Définissez les paramètres décrits ci-dessous.",
+      "sheetwise": "Vous faites passer toute la pile de papier à travers la presse pour imprimer la face A. Ensuite, vous attendez que l'encre sèche, changez toutes les plaques de la presse et faites passer toute la pile une seconde fois pour imprimer la face B. (Deux passages)",
+      "slugLine": "Utilisez l'outil {link} pour ajouter une ligne de slug à la feuille.",
+      "workAndTurn": "Vous imprimez un côté de la pile. \nEnsuite, vous prenez la pile entière, la retournez (la retournez) et la faites passer une seconde fois dans la presse (en utilisant les mêmes plaques) pour imprimer l'autre face. \n(Deux passes)"
+    },
+    "browseButton": "parcourir"
   }
 }
