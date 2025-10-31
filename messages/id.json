@@ -649,5 +649,21 @@
     "on": "Mengaktifkan",
     "off": "Menonaktifkan",
     "noLayers": "Tidak ada lapisan yang ditemukan di {0}."
+  },
+  "gang": {
+    "addMoreFiles": "Tambahkan lebih banyak file",
+    "allowRotation": "Izinkan rotasi",
+    "browse": "Seret dan letakkan file di sini atau {browse} untuk menambahkannya ke lembar geng.",
+    "makereadySheetCount": "Jumlah lembar siap pakai",
+    "options": "Pilihan",
+    "overage": "lebihan",
+    "perfecting": "menyempurnakan",
+    "quantity": "Kuantitas",
+    "runningSpoilage": "Kerusakan yang terjadi",
+    "sheets": "lembaran",
+    "sheetwise": "lembaran",
+    "workAndTumble": "bekerja dan terjatuh",
+    "workAndTurn": "bekerja dan berputar",
+    "workStyle": "Gaya Kerja"
   }
 }

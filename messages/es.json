@@ -648,5 +648,21 @@
     "on": "Activar",
     "off": "Desactivar",
     "noLayers": "No se encontraron capas en {0}."
+  },
+  "gang": {
+    "addMoreFiles": "Agregar más archivos",
+    "allowRotation": "Permitir rotación",
+    "browse": "Arrastre y suelte un archivo aquí o {explore} para agregarlo a la hoja grupal.",
+    "makereadySheetCount": "Recuento de hojas de preparación",
+    "options": "Opciones",
+    "overage": "exceso",
+    "perfecting": "perfeccionamiento",
+    "quantity": "Cantidad",
+    "runningSpoilage": "Deterioro por funcionamiento",
+    "sheets": "hojas",
+    "sheetwise": "en hojas",
+    "workAndTumble": "trabajar y caer",
+    "workAndTurn": "trabajar y girar",
+    "workStyle": "Estilo de trabajo"
   }
 }

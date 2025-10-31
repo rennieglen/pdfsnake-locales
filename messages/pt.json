@@ -648,5 +648,21 @@
     "on": "Ativar",
     "off": "Desativar",
     "noLayers": "Nenhuma camada encontrada em {0}."
+  },
+  "gang": {
+    "addMoreFiles": "Adicione mais arquivos",
+    "allowRotation": "Permitir rotação",
+    "browse": "Arraste e solte um arquivo aqui ou {navegue} para adicioná-lo à planilha de grupo.",
+    "makereadySheetCount": "Contagem de folhas prontas",
+    "options": "Opções",
+    "overage": "excedente",
+    "perfecting": "aperfeiçoando",
+    "quantity": "Quantidade",
+    "runningSpoilage": "Deterioração em execução",
+    "sheets": "folhas",
+    "sheetwise": "em folha",
+    "workAndTumble": "trabalhar e cair",
+    "workAndTurn": "trabalhar e virar",
+    "workStyle": "Estilo de Trabalho"
   }
 }

@@ -648,5 +648,21 @@
     "on": "فعل",
     "off": "إلغاء التنشيط",
     "noLayers": "لم يتم العثور على طبقات في {0}."
+  },
+  "gang": {
+    "addMoreFiles": "إضافة المزيد من الملفات",
+    "allowRotation": "السماح بالتناوب",
+    "browse": "اسحب ملفًا وأسقطه هنا أو {تصفح} لإضافته إلى ورقة المجموعة.",
+    "makereadySheetCount": "جعل عدد الأوراق جاهزة",
+    "options": "خيارات",
+    "overage": "فائض",
+    "perfecting": "اتقان",
+    "quantity": "كمية",
+    "runningSpoilage": "تشغيل الفساد",
+    "sheets": "أوراق",
+    "sheetwise": "ورقة",
+    "workAndTumble": "العمل وتعثر",
+    "workAndTurn": "العمل والتحول",
+    "workStyle": "أسلوب العمل"
   }
 }

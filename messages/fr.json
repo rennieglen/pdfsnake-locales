@@ -648,5 +648,21 @@
     "on": "Activer",
     "off": "Désactiver",
     "noLayers": "Aucune couche trouvée dans {0}."
+  },
+  "gang": {
+    "addMoreFiles": "Ajouter plus de fichiers",
+    "allowRotation": "Autoriser la rotation",
+    "browse": "Faites glisser et déposez un fichier ici ou {parcourir} pour l'ajouter à la feuille de gang.",
+    "makereadySheetCount": "Nombre de feuilles de préparation",
+    "options": "Possibilités",
+    "overage": "excédent",
+    "perfecting": "perfection",
+    "quantity": "Quantité",
+    "runningSpoilage": "Détérioration courante",
+    "sheets": "feuilles",
+    "sheetwise": "par feuille",
+    "workAndTumble": "travailler et dégringoler",
+    "workAndTurn": "travailler et tourner",
+    "workStyle": "Style de travail"
   }
 }

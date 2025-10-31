@@ -649,5 +649,21 @@
     "on": "激活",
     "off": "停用",
     "noLayers": "在 {0} 中未找到图层。"
+  },
+  "gang": {
+    "addMoreFiles": "添加更多文件",
+    "allowRotation": "允许旋转",
+    "browse": "将文件拖放到此处或{浏览}以将其添加到组表中。",
+    "makereadySheetCount": "排版页数",
+    "options": "选项",
+    "overage": "超龄",
+    "perfecting": "完善",
+    "quantity": "数量",
+    "runningSpoilage": "运行腐败",
+    "sheets": "床单",
+    "sheetwise": "逐张地",
+    "workAndTumble": "工作和跌倒",
+    "workAndTurn": "工作和转弯",
+    "workStyle": "工作作风"
   }
 }
