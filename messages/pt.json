@@ -29,7 +29,8 @@
     "copy": "Copiar para a área de transferência",
     "supportEmail": "Ao relatar um problema, copie e cole as informações abaixo em seu e-mail:",
     "refundPolicy": "Política de Reembolso",
-    "usingAgree": "Usar este site significa que você concorda com nossos"
+    "usingAgree": "Usar este site significa que você concorda com nossos",
+    "intro": "Para uma introdução ao PDF Snake com tutoriais, visite {link}."
   },
   "choose": {
     "whatNext": "E agora?",

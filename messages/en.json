@@ -29,7 +29,8 @@
     "copied": "Copied to Clipboard!",
     "supportEmail": "When reporting an issue, please copy and paste the below information into your email:",
     "refundPolicy": "Refund Policy",
-    "usingAgree": "Using this website means that you agree with our"
+    "usingAgree": "Using this website means that you agree with our",
+    "intro": "For an introduction to PDF Snake with tutorials, visit {link}."
   },
   "choose": {
     "whatNext": "What next?",

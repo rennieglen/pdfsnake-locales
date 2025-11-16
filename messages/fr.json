@@ -29,7 +29,8 @@
     "copy": "Copier dans le Presse-papiers",
     "supportEmail": "Lorsque vous signalez un problème, veuillez copier et coller les informations ci-dessous dans votre e-mail :",
     "refundPolicy": "Politique de remboursement",
-    "usingAgree": "L'utilisation de ce site Web signifie que vous acceptez nos"
+    "usingAgree": "L'utilisation de ce site Web signifie que vous acceptez nos",
+    "intro": "Pour une introduction à PDF Snake avec des didacticiels, visitez {link}."
   },
   "choose": {
     "whatNext": "Et ensuite?",

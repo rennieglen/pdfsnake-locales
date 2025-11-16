@@ -29,7 +29,8 @@
     "copy": "Copiar al portapapeles",
     "supportEmail": "Cuando informe un problema, copie y pegue la siguiente información en su correo electrónico:",
     "refundPolicy": "Política de reembolso",
-    "usingAgree": "El uso de este sitio web significa que usted está de acuerdo con nuestra"
+    "usingAgree": "El uso de este sitio web significa que usted está de acuerdo con nuestra",
+    "intro": "Para obtener una introducción a PDF Snake con tutoriales, visite {link}."
   },
   "choose": {
     "whatNext": "¿Qué sigue?",

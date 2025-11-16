@@ -29,7 +29,8 @@
     "copy": "复制到剪贴板",
     "supportEmail": "报告问题时，请将以下信息复制并粘贴到您的电子邮件中：",
     "refundPolicy": "退款政策",
-    "usingAgree": "使用本网站即表示您同意我们的"
+    "usingAgree": "使用本网站即表示您同意我们的",
+    "intro": "有关 PDF Snake 的介绍和教程，请访问 {link}。"
   },
   "choose": {
     "whatNext": "下一步是什么？",

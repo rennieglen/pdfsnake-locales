@@ -29,7 +29,8 @@
     "copy": "Salin ke Papan Klip",
     "supportEmail": "Saat melaporkan masalah, salin dan tempel informasi di bawah ini ke email Anda:",
     "refundPolicy": "Kebijakan Pengembalian Dana",
-    "usingAgree": "Menggunakan situs web ini berarti Anda setuju dengan kami"
+    "usingAgree": "Menggunakan situs web ini berarti Anda setuju dengan kami",
+    "intro": "Untuk pengenalan PDF Snake beserta tutorialnya, kunjungi {link}."
   },
   "choose": {
     "whatNext": "Apa selanjutnya?",
