@@ -18,8 +18,6 @@
     "help": "Ajuda"
   },
   "about": {
-    "privacy": "Leia nossa {link}.",
-    "terms": "Usar este site significa que você concorda com nossos {link}.",
     "plugIn": "PDF Snake 6 é uma nova versão online do plug-in Adobe Acrobat mais vendido {link}.",
     "questions": "Nós adoramos ouvir suas perguntas e comentários.",
     "copyright": "Direitos autorais 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "Preços",
     "copied": "Copiado para a área de transferência!",
     "copy": "Copiar para a área de transferência",
-    "supportEmail": "Ao relatar um problema, copie e cole as informações abaixo em seu e-mail:"
+    "supportEmail": "Ao relatar um problema, copie e cole as informações abaixo em seu e-mail:",
+    "refundPolicy": "Política de Reembolso",
+    "usingAgree": "Usar este site significa que você concorda com nossos"
   },
   "choose": {
     "whatNext": "E agora?",
@@ -382,7 +382,6 @@
     "creatingFreeTrial": "Criando teste gratuito...",
     "noDisposableEmail": "Endereços de e-mail descartáveis ​​não são elegíveis para testes gratuitos.",
     "imReadyToSubscribe": "Estou pronto para me inscrever agora.",
-    "subscriptionsRenewAutomatically": "Entendo que meu cartão de crédito será cobrado imediatamente, as assinaturas serão renovadas automaticamente e posso cancelar minha assinatura a qualquer momento visitando {cancelLink}.",
     "addressListPlaceholder": "Insira endereços de e-mail, um por linha.",
     "editAddressList": "Editar",
     "receiptsWillBeSent": "Os recibos serão enviados para os seguintes endereços de e-mail:",
@@ -396,7 +395,13 @@
     "emailUpdating": "Atualizando...",
     "enterEmailAddress": "Digite seu novo endereço de e-mail:",
     "errorInvalidEmail": "Insira um endereço de e-mail válido.",
-    "verifyEmailSent": "Um e-mail foi enviado para seu novo endereço de e-mail para verificar se você é o proprietário dele. \nVerifique sua caixa de entrada para concluir o processo."
+    "verifyEmailSent": "Um e-mail foi enviado para seu novo endereço de e-mail para verificar se você é o proprietário dele. \nVerifique sua caixa de entrada para concluir o processo.",
+    "pleaseRead": "Por favor, leia e concorde com o seguinte:",
+    "chargedImmediately": "Meu cartão de crédito será cobrado imediatamente.",
+    "subscriptionsRenew": "As assinaturas são renovadas automaticamente.",
+    "canCancel": "Posso cancelar minha assinatura a qualquer momento visitando {0}.",
+    "readRefund": "Eu li e entendi o {refundLink} do PDF Snake.",
+    "yesAgree": "Sim, eu concordo."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."

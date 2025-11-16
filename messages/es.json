@@ -18,8 +18,6 @@
     "help": "Ayuda"
   },
   "about": {
-    "privacy": "Lea nuestro {link}.",
-    "terms": "Usar esta página web significa que está de acuerdo con nuestros {link}.",
     "plugIn": "PDF Snake 6 es una nueva versión online del exitoso Plug-In de Adobe Acrobat {link}.",
     "questions": "Nos encanta escuchar sus preguntas y comentarios.",
     "copyright": "Derechos de autor 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "Precios",
     "copied": "¡Copiado al portapapeles!",
     "copy": "Copiar al portapapeles",
-    "supportEmail": "Cuando informe un problema, copie y pegue la siguiente información en su correo electrónico:"
+    "supportEmail": "Cuando informe un problema, copie y pegue la siguiente información en su correo electrónico:",
+    "refundPolicy": "Política de reembolso",
+    "usingAgree": "El uso de este sitio web significa que usted está de acuerdo con nuestra"
   },
   "choose": {
     "whatNext": "¿Qué sigue?",
@@ -382,7 +382,6 @@
     "creatingFreeTrial": "Creando prueba gratuita...",
     "noDisposableEmail": "Las direcciones de correo electrónico desechables no son elegibles para pruebas gratuitas.",
     "imReadyToSubscribe": "Estoy listo para suscribirme ahora.",
-    "subscriptionsRenewAutomatically": "Entiendo que se cargará a mi tarjeta de crédito inmediatamente, las suscripciones se renovarán automáticamente y puedo cancelar mi suscripción en cualquier momento visitando {cancelLink}.",
     "addressListPlaceholder": "Ingrese direcciones de correo electrónico, una por línea.",
     "editAddressList": "Editar",
     "receiptsWillBeSent": "Los recibos se enviarán a las siguientes direcciones de correo electrónico:",
@@ -396,7 +395,13 @@
     "emailUpdating": "Actualizando...",
     "enterEmailAddress": "Ingrese su nueva dirección de correo electrónico:",
     "errorInvalidEmail": "Por favor, introduce una dirección de correo electrónico válida.",
-    "verifyEmailSent": "Se ha enviado un correo electrónico a su nueva dirección de correo electrónico para verificar que es el propietario. \nPor favor revisa tu bandeja de entrada para completar el proceso."
+    "verifyEmailSent": "Se ha enviado un correo electrónico a su nueva dirección de correo electrónico para verificar que es el propietario. \nPor favor revisa tu bandeja de entrada para completar el proceso.",
+    "pleaseRead": "Por favor lea y acepte lo siguiente:",
+    "chargedImmediately": "Mi tarjeta de crédito será cargada inmediatamente.",
+    "subscriptionsRenew": "Las suscripciones se renuevan automáticamente.",
+    "canCancel": "Puedo cancelar mi suscripción en cualquier momento visitando {0}.",
+    "readRefund": "He leído y entiendo el {refundLink} de PDF Snake.",
+    "yesAgree": "Sí, estoy de acuerdo."
   },
   "helpFor": {
     "noHelp": "No hay ningún tema de ayuda llamado {topic}."

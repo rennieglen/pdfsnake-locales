@@ -18,8 +18,6 @@
     "help": "Bantuan"
   },
   "about": {
-    "privacy": "Baca {link} kami.",
-    "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
     "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
     "questions": "Kami senang menerima pertanyaan dan komentar Anda.",
     "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "Harga",
     "copied": "Disalin ke Papan Klip!",
     "copy": "Salin ke Papan Klip",
-    "supportEmail": "Saat melaporkan masalah, salin dan tempel informasi di bawah ini ke email Anda:"
+    "supportEmail": "Saat melaporkan masalah, salin dan tempel informasi di bawah ini ke email Anda:",
+    "refundPolicy": "Kebijakan Pengembalian Dana",
+    "usingAgree": "Menggunakan situs web ini berarti Anda setuju dengan kami"
   },
   "choose": {
     "whatNext": "Apa selanjutnya?",
@@ -382,7 +382,6 @@
     "creatingFreeTrial": "Membuat uji coba gratis...",
     "noDisposableEmail": "Alamat email sekali pakai tidak memenuhi syarat untuk uji coba gratis.",
     "imReadyToSubscribe": "Saya siap berlangganan sekarang.",
-    "subscriptionsRenewAutomatically": "Saya memahami bahwa kartu kredit saya akan segera ditagih, langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan kapan saja dengan mengunjungi {cancelLink}.",
     "addressListPlaceholder": "Masukkan alamat email, satu per baris.",
     "editAddressList": "Sunting",
     "receiptsWillBeSent": "Tanda terima akan dikirim ke alamat email berikut:",
@@ -396,7 +395,13 @@
     "emailUpdating": "Memperbarui...",
     "enterEmailAddress": "Masukkan alamat email baru Anda:",
     "errorInvalidEmail": "Silakan masukkan alamat email yang valid.",
-    "verifyEmailSent": "Sebuah email telah dikirim ke alamat email baru Anda untuk memverifikasi bahwa Anda pemiliknya. \nSilakan periksa kotak masuk Anda untuk menyelesaikan prosesnya."
+    "verifyEmailSent": "Sebuah email telah dikirim ke alamat email baru Anda untuk memverifikasi bahwa Anda pemiliknya. \nSilakan periksa kotak masuk Anda untuk menyelesaikan prosesnya.",
+    "pleaseRead": "Harap membaca dan menyetujui hal-hal berikut:",
+    "chargedImmediately": "Kartu kredit saya akan segera ditagih.",
+    "subscriptionsRenew": "Langganan diperbarui secara otomatis.",
+    "canCancel": "Saya dapat membatalkan langganan kapan saja dengan mengunjungi {0}.",
+    "readRefund": "Saya telah membaca dan memahami {refundLink} PDF Snake.",
+    "yesAgree": "Ya saya setuju."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

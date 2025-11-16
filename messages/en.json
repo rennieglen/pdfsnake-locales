@@ -18,8 +18,6 @@
     "help": "Help"
   },
   "about": {
-    "privacy": "Read our {link}.",
-    "terms": "Using this website means that you agree with our {link}.",
     "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
     "questions": "We love to hear your questions and comments.",
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "Pricing",
     "copy": "Copy to Clipboard",
     "copied": "Copied to Clipboard!",
-    "supportEmail": "When reporting an issue, please copy and paste the below information into your email:"
+    "supportEmail": "When reporting an issue, please copy and paste the below information into your email:",
+    "refundPolicy": "Refund Policy",
+    "usingAgree": "Using this website means that you agree with our"
   },
   "choose": {
     "whatNext": "What next?",
@@ -382,7 +382,6 @@
     "subscribeNow": "Subscribe Now",
     "stripeError": "An error occurred: {msg}",
     "paymentsWillAppear": "Payments will appear on your bank/card statement as:",
-    "subscriptionsRenewAutomatically": "I understand that my credit card will be charged immediately, subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}.",
     "noDisposableEmail": "Disposable e-mail addresses are not eligible for free trials.",
     "creatingFreeTrial": "Creating free trial...",
     "imReadyToSubscribe": "I'm ready to subscribe now.",
@@ -392,14 +391,20 @@
     "perMonth": "{price} per month, renews automatically",
     "perYear": "{price} per year, renews automatically",
     "for48hours": "{price} for 48 hours",
-    "agreedToCharge": "I understand that my credit card will be charged immediately, my subscription will begin immediately, and the transaction is not refundable.",
+    "agreedToCharge": "I understand that my credit card will be charged immediately, my subscription will begin immediately, and the transaction is subject to our Refund Policy.",
     "for1week": "{price} for 1 week",
     "enterEmailAddress": "Enter your new email address:",
     "verifyEmailSent": "An email has been sent to your new email address to verify you own it. Please check your inbox to complete the process.",
     "errorInvalidEmail": "Please enter a valid email address.",
     "emailSignInAndOut": "Before changing your email address, you must sign out and sign in again.",
     "emailAlreadyInUse": "The email address you entered is already in use.  Please enter a new one.",
-    "emailUpdating": "Updating..."
+    "emailUpdating": "Updating...",
+    "pleaseRead": "Please read and agree to the following:",
+    "chargedImmediately": "My credit card will be charged immediately.",
+    "subscriptionsRenew": "Subscriptions renew automatically.",
+    "canCancel": "I can cancel my subscription anytime by visiting {0}.",
+    "readRefund": "I have read and understand PDF Snake's {refundLink}.",
+    "yesAgree": "Yes, I agree."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."

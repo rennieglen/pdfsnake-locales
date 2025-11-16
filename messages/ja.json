@@ -18,8 +18,6 @@
     "help": "ヘルプ"
   },
   "about": {
-    "privacy": "当社について {link}",
-    "terms": "本ウェブサイトのご利用を開始された時点で、当社の規約に同意したものと見なされます。 {link}",
     "plugIn": "PDF Snake 6 は、ベストセラーとなったAdobe Acrobatプラグインの新しいオンラインバージョンです。 {link}",
     "questions": "皆様からのご質問、ご意見をお待ちしております。",
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "価格設定",
     "copied": "クリップボードにコピーされました!",
     "copy": "クリップボードにコピー",
-    "supportEmail": "問題を報告する場合は、以下の情報をコピーしてメールに貼り付けてください。"
+    "supportEmail": "問題を報告する場合は、以下の情報をコピーしてメールに貼り付けてください。",
+    "refundPolicy": "返金ポリシー",
+    "usingAgree": "このウェブサイトを使用すると、次のことに同意したことになります。"
   },
   "choose": {
     "whatNext": "次の操作は？",
@@ -382,7 +382,6 @@
     "creatingFreeTrial": "無料トライアルを作成しています...",
     "noDisposableEmail": "使い捨て電子メール アドレスは無料トライアルの対象外です。",
     "imReadyToSubscribe": "今すぐ購読する準備ができています。",
-    "subscriptionsRenewAutomatically": "クレジット カードにすぐに請求され、サブスクリプションは自動的に更新され、{cancelLink} にアクセスしていつでもサブスクリプションをキャンセルできることを理解しました。",
     "addressListPlaceholder": "電子メール アドレスを 1 行に 1 つずつ入力します。",
     "editAddressList": "編集",
     "receiptsWillBeSent": "領収書は次の電子メール アドレスに送信されます。",
@@ -396,7 +395,13 @@
     "emailUpdating": "更新中...",
     "enterEmailAddress": "新しい電子メール アドレスを入力してください:",
     "errorInvalidEmail": "有効なメールアドレスを入力してください。",
-    "verifyEmailSent": "新しいメール アドレスに、所有者であることを確認するためのメールが送信されました。\n受信箱を確認してプロセスを完了してください。"
+    "verifyEmailSent": "新しいメール アドレスに、所有者であることを確認するためのメールが送信されました。\n受信箱を確認してプロセスを完了してください。",
+    "pleaseRead": "以下を読んで同意してください。",
+    "chargedImmediately": "私のクレジットカードにはすぐに請求されます。",
+    "subscriptionsRenew": "サブスクリプションは自動的に更新されます。",
+    "canCancel": "{0} にアクセスすれば、いつでもサブスクリプションをキャンセルできます。",
+    "readRefund": "PDF Snake の {refundLink} を読んで理解しました。",
+    "yesAgree": "はい、同意します。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

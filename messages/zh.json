@@ -18,8 +18,6 @@
     "help": "帮助"
   },
   "about": {
-    "privacy": "请阅读我们的{link}。",
-    "terms": "使用此网站即表示您同意遵守我们的{link}。",
     "plugIn": "PDF Snake 6 是畅销 Adobe Acrobat 插件 {link} 的新在线版本。",
     "questions": "我们非常愿意听取您的问题和意见。",
     "copyright": "版权所有 2002-{year} Rennie Glen Software LLC",
@@ -29,7 +27,9 @@
     "pricing": "价钱",
     "copied": "已复制到剪贴板！",
     "copy": "复制到剪贴板",
-    "supportEmail": "报告问题时，请将以下信息复制并粘贴到您的电子邮件中："
+    "supportEmail": "报告问题时，请将以下信息复制并粘贴到您的电子邮件中：",
+    "refundPolicy": "退款政策",
+    "usingAgree": "使用本网站即表示您同意我们的"
   },
   "choose": {
     "whatNext": "下一步是什么？",
@@ -383,7 +383,6 @@
     "creatingFreeTrial": "正在创建免费试用...",
     "noDisposableEmail": "一次性电子邮件地址不符合免费试用资格。",
     "imReadyToSubscribe": "我现在准备订阅了。",
-    "subscriptionsRenewAutomatically": "我了解我的信用卡将立即扣款，订阅会自动续订，并且我可以随时访问 {cancelLink} 取消订阅。",
     "addressListPlaceholder": "输入电子邮件地址，每行一个。",
     "editAddressList": "编辑",
     "receiptsWillBeSent": "收据将发送至以下电子邮件地址：",
@@ -397,7 +396,13 @@
     "emailUpdating": "更新中...",
     "enterEmailAddress": "输入您的新电子邮件地址：",
     "errorInvalidEmail": "请输入有效的电子邮件地址。",
-    "verifyEmailSent": "一封电子邮件已发送到您的新电子邮件地址，以验证您是否拥有该地址。\n请检查您的收件箱以完成该过程。"
+    "verifyEmailSent": "一封电子邮件已发送到您的新电子邮件地址，以验证您是否拥有该地址。\n请检查您的收件箱以完成该过程。",
+    "pleaseRead": "请阅读并同意以下内容：",
+    "chargedImmediately": "我的信用卡将立即扣款。",
+    "subscriptionsRenew": "订阅自动续订。",
+    "canCancel": "我可以随时访问 {0} 取消订阅。",
+    "readRefund": "我已阅读并理解 PDF Snake 的 {refundLink}。",
+    "yesAgree": "是的，我同意。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"
