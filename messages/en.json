@@ -391,7 +391,6 @@
     "perMonth": "{price} per month, renews automatically",
     "perYear": "{price} per year, renews automatically",
     "for48hours": "{price} for 48 hours",
-    "agreedToCharge": "I understand that my credit card will be charged immediately, my subscription will begin immediately, and the transaction is subject to our Refund Policy.",
     "for1week": "{price} for 1 week",
     "enterEmailAddress": "Enter your new email address:",
     "verifyEmailSent": "An email has been sent to your new email address to verify you own it. Please check your inbox to complete the process.",
@@ -404,7 +403,8 @@
     "subscriptionsRenew": "Subscriptions renew automatically.",
     "canCancel": "I can cancel my subscription anytime by visiting {0}.",
     "readRefund": "I have read and understand PDF Snake's {refundLink}.",
-    "yesAgree": "Yes, I agree."
+    "yesAgree": "Yes, I agree.",
+    "subscriptionBegins": "My subscription will begin immediately."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."

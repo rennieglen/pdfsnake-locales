@@ -388,7 +388,6 @@
     "for48hours": "{price} selama 48 jam",
     "perMonth": "{price} per bulan, memperbarui secara otomatis",
     "perYear": "{price} per tahun, memperbarui secara otomatis",
-    "agreedToCharge": "Saya mengerti bahwa kartu kredit saya akan segera dibebankan, langganan saya akan segera dimulai, dan transaksi tidak dapat dikembalikan.",
     "for1week": "{price} selama 1 minggu",
     "emailAlreadyInUse": "Alamat email yang Anda masukkan sudah digunakan.  \nSilakan masukkan yang baru.",
     "emailSignInAndOut": "Sebelum mengubah alamat email Anda, Anda harus keluar dan masuk lagi.",
@@ -401,7 +400,8 @@
     "subscriptionsRenew": "Langganan diperbarui secara otomatis.",
     "canCancel": "Saya dapat membatalkan langganan kapan saja dengan mengunjungi {0}.",
     "readRefund": "Saya telah membaca dan memahami {refundLink} PDF Snake.",
-    "yesAgree": "Ya saya setuju."
+    "yesAgree": "Ya saya setuju.",
+    "subscriptionBegins": "Langganan saya akan segera dimulai."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

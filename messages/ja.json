@@ -388,7 +388,6 @@
     "for48hours": "{price} 48時間",
     "perMonth": "{price}月額、自動的に更新します",
     "perYear": "{price}年間、自動的に更新します",
-    "agreedToCharge": "クレジットカードがすぐに請求され、サブスクリプションがすぐに開始され、トランザクションが返金されないことを理解しています。",
     "for1week": "{price} 1週間",
     "emailAlreadyInUse": "入力したメールアドレスはすでに使用されています。  \n新しいものを入力してください。",
     "emailSignInAndOut": "メール アドレスを変更する前に、サインアウトして再度サインインする必要があります。",
@@ -401,7 +400,8 @@
     "subscriptionsRenew": "サブスクリプションは自動的に更新されます。",
     "canCancel": "{0} にアクセスすれば、いつでもサブスクリプションをキャンセルできます。",
     "readRefund": "PDF Snake の {refundLink} を読んで理解しました。",
-    "yesAgree": "はい、同意します。"
+    "yesAgree": "はい、同意します。",
+    "subscriptionBegins": "私の購読はすぐに開始されます。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

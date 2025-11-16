@@ -389,7 +389,6 @@
     "for48hours": "{price}持续48小时",
     "perMonth": "{price}每月，自动续订",
     "perYear": "{price}每年，自动续订",
-    "agreedToCharge": "我了解我的信用卡将立即收取，我的订阅将立即开始，交易不可退还。",
     "for1week": "{price}持续1周",
     "emailAlreadyInUse": "您输入的电子邮件地址已被使用。  \n请输入一个新的。",
     "emailSignInAndOut": "更改电子邮件地址之前，您必须退出并重新登录。",
@@ -402,7 +401,8 @@
     "subscriptionsRenew": "订阅自动续订。",
     "canCancel": "我可以随时访问 {0} 取消订阅。",
     "readRefund": "我已阅读并理解 PDF Snake 的 {refundLink}。",
-    "yesAgree": "是的，我同意。"
+    "yesAgree": "是的，我同意。",
+    "subscriptionBegins": "我的订阅将立即开始。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"

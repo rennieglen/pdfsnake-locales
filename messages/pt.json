@@ -388,7 +388,6 @@
     "for48hours": "{price} por 48 horas",
     "perMonth": "{price} por mês, renova automaticamente",
     "perYear": "{price} por ano, renova automaticamente",
-    "agreedToCharge": "Entendo que meu cartão de crédito será cobrado imediatamente, minha assinatura começará imediatamente e a transação não será reembolsável.",
     "for1week": "{price} por 1 semana",
     "emailAlreadyInUse": "O endereço de e-mail que você digitou já está em uso.  \nPor favor insira um novo.",
     "emailSignInAndOut": "Antes de alterar seu endereço de e-mail, você deve sair e entrar novamente.",
@@ -401,7 +400,8 @@
     "subscriptionsRenew": "As assinaturas são renovadas automaticamente.",
     "canCancel": "Posso cancelar minha assinatura a qualquer momento visitando {0}.",
     "readRefund": "Eu li e entendi o {refundLink} do PDF Snake.",
-    "yesAgree": "Sim, eu concordo."
+    "yesAgree": "Sim, eu concordo.",
+    "subscriptionBegins": "Minha assinatura começará imediatamente."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."
