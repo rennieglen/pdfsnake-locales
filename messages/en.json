@@ -73,7 +73,8 @@
       "landscapeHtml": "When checked, swaps the values for the width and height when creating pages in the resulting document. For example, if <strong>Letter</strong> is selected and <strong>Landscape</strong> is not checked then the resulting pages will be 8.5 by 11 inches. If <strong>Landscape</strong> is checked then the resulting pages will be 11 by 8.5 inches."
     },
     "ratioLocked": "The aspect ratio is locked. Click to unlock.",
-    "ratioUnlocked": "The aspect ratio is unlocked. Click to lock."
+    "ratioUnlocked": "The aspect ratio is unlocked. Click to lock.",
+    "percentage": "Percentage"
   },
   "units": {
     "mms": "mms",

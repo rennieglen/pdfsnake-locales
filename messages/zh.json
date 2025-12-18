@@ -72,7 +72,8 @@
       "landscapeHtml": "选中后，会在创建得出的文档中的页面时对调宽度和高度的值。例如，如果已选择 <strong>Letter</strong>，但未选中<strong>横向</strong>，则得出的页面的大小会是 8.5 英寸乘以 11 英寸。如果已选中<strong>横向</strong>，则得出的页面的大小会是 11 英寸乘以 8.5 英寸。"
     },
     "ratioLocked": "宽高比已锁定。\n点击解锁。",
-    "ratioUnlocked": "宽高比已解锁。\n单击以锁定。"
+    "ratioUnlocked": "宽高比已解锁。\n单击以锁定。",
+    "percentage": "百分比"
   },
   "units": {
     "mms": "毫米",

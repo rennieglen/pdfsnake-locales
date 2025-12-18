@@ -72,7 +72,8 @@
       "landscapeHtml": "Cuando está marcada, intercambia los valores de la anchura y largura al crear páginas en el documento resultante. Por ejemplo, si <strong>Carta</strong> está seleccionada y <strong>Paisaje</strong> no está marcada, entonces, las páginas resultantes serán de 216 x 279mm. Si <strong>Paisaje</strong> está marcada, entonces, las páginas resultantes serán de 279 x 216mm."
     },
     "ratioLocked": "La relación de aspecto está bloqueada. \nHaga clic para desbloquear.",
-    "ratioUnlocked": "La relación de aspecto está desbloqueada. \nHaga clic para bloquear."
+    "ratioUnlocked": "La relación de aspecto está desbloqueada. \nHaga clic para bloquear.",
+    "percentage": "Porcentaje"
   },
   "units": {
     "mms": "mms",

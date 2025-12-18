@@ -72,7 +72,8 @@
       "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentang maka hasil halamannya akan berukuran 11 x 8.5 inci."
     },
     "ratioLocked": "Rasio aspek terkunci. \nKlik untuk membuka kunci.",
-    "ratioUnlocked": "Rasio aspek tidak terkunci. \nKlik untuk mengunci."
+    "ratioUnlocked": "Rasio aspek tidak terkunci. \nKlik untuk mengunci.",
+    "percentage": "Persentase"
   },
   "units": {
     "mms": "mm",
