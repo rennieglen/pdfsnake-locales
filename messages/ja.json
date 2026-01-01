@@ -267,7 +267,10 @@
     "saveSteps": "ステップを保存",
     "saveButton": "保存",
     "batchLog": "バッチログ",
-    "safariNoStickers": "Safari には、ステッカー ツールの正常な動作を妨げる欠陥があります。\n代わりに Monkey ツールを使用するか、別のブラウザを使用してください。"
+    "safariNoStickers": "Safari には、ステッカー ツールの正常な動作を妨げる欠陥があります。\n代わりに Monkey ツールを使用するか、別のブラウザを使用してください。",
+    "dismiss": "却下する",
+    "undo": "元に戻す",
+    "restoredDefaults": "デフォルトを復元しました。"
   },
   "error": {
     "notEmpty": "入力必須です。",
@@ -691,5 +694,8 @@
       "workAndTurn": "スタックの片面を印刷します。\n次に、スタック全体を取り出し、ひっくり返す (タンブルする) かひっくり返し、もう一度印刷機に送り返し (同じ版を使用して)、反対側を印刷します。 \n(2パス)"
     },
     "browseButton": "ブラウズ"
+  },
+  "expert": {
+    "deletedSheet": "シート {index} を削除しました。"
   }
 }

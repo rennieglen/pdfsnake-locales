@@ -267,7 +267,10 @@
     "saveSteps": "保存步骤",
     "saveButton": "保存",
     "batchLog": "批处理日志",
-    "safariNoStickers": "Safari 存在一些缺陷，导致贴纸工具无法正常工作。\n请改用 Monkey 工具或其他浏览器。"
+    "safariNoStickers": "Safari 存在一些缺陷，导致贴纸工具无法正常工作。\n请改用 Monkey 工具或其他浏览器。",
+    "dismiss": "解雇",
+    "undo": "撤消",
+    "restoredDefaults": "恢复默认值。"
   },
   "error": {
     "notEmpty": "不得空着",
@@ -692,5 +695,8 @@
       "workAndTurn": "您打印纸叠的一侧。\n然后，您取出整叠纸，翻转（翻滚）或翻转，然后再次将其送回印刷机（使用相同的印版）以打印另一面。 \n（两遍）"
     },
     "browseButton": "浏览"
+  },
+  "expert": {
+    "deletedSheet": "已删除工作表 {index}。"
   }
 }

@@ -267,7 +267,10 @@
     "saveSteps": "Salvar etapas",
     "saveButton": "Salval",
     "batchLog": "Log de lote",
-    "safariNoStickers": "O Safari possui defeitos que impedem o funcionamento correto da ferramenta Stickers. \nEm vez disso, use a ferramenta Monkey ou outro navegador."
+    "safariNoStickers": "O Safari possui defeitos que impedem o funcionamento correto da ferramenta Stickers. \nEm vez disso, use a ferramenta Monkey ou outro navegador.",
+    "dismiss": "Liberar",
+    "undo": "Desfazer",
+    "restoredDefaults": "Padrões restaurados."
   },
   "error": {
     "notEmpty": "não deve estar vazio",
@@ -691,5 +694,8 @@
       "workAndTurn": "Você imprime um lado da pilha. \nEm seguida, você pega a pilha inteira, vira (vira) ou vira e passa de volta pela impressora uma segunda vez (usando as mesmas placas) para imprimir o outro lado. \n(Duas passagens)"
     },
     "browseButton": "navegar"
+  },
+  "expert": {
+    "deletedSheet": "Planilha excluída {index}."
   }
 }

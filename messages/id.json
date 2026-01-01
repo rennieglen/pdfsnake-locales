@@ -267,7 +267,10 @@
     "saveSteps": "Simpan Langkah-Langkah",
     "saveButton": "Simpan",
     "batchLog": "Log Batch",
-    "safariNoStickers": "Safari memiliki cacat yang membuat alat Stiker tidak berfungsi dengan benar. \nGunakan alat Monkey sebagai gantinya, atau browser lain."
+    "safariNoStickers": "Safari memiliki cacat yang membuat alat Stiker tidak berfungsi dengan benar. \nGunakan alat Monkey sebagai gantinya, atau browser lain.",
+    "dismiss": "Membubarkan",
+    "undo": "Membuka",
+    "restoredDefaults": "Default yang dipulihkan."
   },
   "error": {
     "notEmpty": "tidak boleh kosong",
@@ -692,5 +695,8 @@
       "workAndTurn": "Anda mencetak satu sisi tumpukan. \nKemudian, ambil seluruh tumpukan, balikkan (jatuhkan) atau balikkan, dan masukkan kembali melalui mesin press untuk kedua kalinya (menggunakan pelat yang sama) untuk mencetak sisi lainnya. \n(Dua operan)"
     },
     "browseButton": "jelajahi"
+  },
+  "expert": {
+    "deletedSheet": "Sheet {index} dihapus."
   }
 }

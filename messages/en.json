@@ -270,7 +270,10 @@
     "saveSteps": "Record Steps",
     "saveButton": "Save",
     "batchLog": "Batch Log",
-    "safariNoStickers": "Safari has defects that prevent the Stickers tool from working correctly. Use the Monkey tool instead, or another browser."
+    "safariNoStickers": "Safari has defects that prevent the Stickers tool from working correctly. Use the Monkey tool instead, or another browser.",
+    "restoredDefaults": "Restored defaults.",
+    "undo": "Undo",
+    "dismiss": "Dismiss"
   },
   "error": {
     "notEmpty": "must not be empty",
@@ -699,5 +702,8 @@
     },
     "browseButton": "browse"
   },
-  "gange": {}
+  "gange": {},
+  "expert": {
+    "deletedSheet": "Deleted sheet {index}."
+  }
 }

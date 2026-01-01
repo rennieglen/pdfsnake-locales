@@ -267,7 +267,10 @@
     "saveSteps": "Sauver les étapes",
     "saveButton": "Sauver",
     "batchLog": "Journal des lots",
-    "safariNoStickers": "Safari présente des défauts qui empêchent l'outil Autocollants de fonctionner correctement. \nUtilisez plutôt l'outil Monkey ou un autre navigateur."
+    "safariNoStickers": "Safari présente des défauts qui empêchent l'outil Autocollants de fonctionner correctement. \nUtilisez plutôt l'outil Monkey ou un autre navigateur.",
+    "dismiss": "Rejeter",
+    "undo": "Défaire",
+    "restoredDefaults": "Paramètres par défaut restaurés."
   },
   "error": {
     "notEmpty": "ne doit pas être vide",
@@ -691,5 +694,8 @@
       "workAndTurn": "Vous imprimez un côté de la pile. \nEnsuite, vous prenez la pile entière, la retournez (la retournez) et la faites passer une seconde fois dans la presse (en utilisant les mêmes plaques) pour imprimer l'autre face. \n(Deux passes)"
     },
     "browseButton": "parcourir"
+  },
+  "expert": {
+    "deletedSheet": "Feuille supprimée {index}."
   }
 }

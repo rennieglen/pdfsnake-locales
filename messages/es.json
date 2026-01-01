@@ -267,7 +267,10 @@
     "saveSteps": "Recordar etapas",
     "saveButton": "Guardar",
     "batchLog": "Log de lotes",
-    "safariNoStickers": "Safari tiene defectos que impiden que la herramienta Stickers funcione correctamente. \nEn su lugar, utilice la herramienta Monkey u otro navegador."
+    "safariNoStickers": "Safari tiene defectos que impiden que la herramienta Stickers funcione correctamente. \nEn su lugar, utilice la herramienta Monkey u otro navegador.",
+    "dismiss": "Despedir",
+    "undo": "Deshacer",
+    "restoredDefaults": "Valores predeterminados restaurados."
   },
   "error": {
     "notEmpty": "no debe estar vacío ",
@@ -691,5 +694,8 @@
       "workAndTurn": "Imprimes un lado de la pila. \nLuego, toma toda la pila, la voltea (la voltea) y la vuelve a pasar por la prensa una segunda vez (usando las mismas placas) para imprimir el otro lado. \n(Dos pases)"
     },
     "browseButton": "navegar"
+  },
+  "expert": {
+    "deletedSheet": "Hoja eliminada {index}."
   }
 }
