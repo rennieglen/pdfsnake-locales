@@ -56,7 +56,8 @@
     "calendar": "日历",
     "insertPages": "插入页面",
     "cutterMarks": "切割器标记",
-    "layers": "图层"
+    "layers": "图层",
+    "expert": "专家网格"
   },
   "pageSize": {
     "paperSize": "纸张大小",

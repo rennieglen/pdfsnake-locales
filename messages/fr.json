@@ -56,7 +56,8 @@
     "calendar": "Calendrier",
     "insertPages": "Insérer des pages",
     "cutterMarks": "Marques de coupe",
-    "layers": "Couches"
+    "layers": "Couches",
+    "expert": "Grille d'experts"
   },
   "pageSize": {
     "paperSize": "Taille du papier",

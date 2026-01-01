@@ -56,7 +56,8 @@
     "calendar": "カレンダー",
     "insertPages": "ページの挿入",
     "cutterMarks": "カッターマーク",
-    "layers": "レイヤー"
+    "layers": "レイヤー",
+    "expert": "エキスパートグリッド"
   },
   "pageSize": {
     "paperSize": "用紙サイズ",

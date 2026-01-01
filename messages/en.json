@@ -57,7 +57,8 @@
     "insertPages": "Insert Pages",
     "cutterMarks": "Cutter Marks",
     "layers": "Layers",
-    "gang": "Gang Sheet"
+    "gang": "Gang Sheet",
+    "expert": "Expert Grid"
   },
   "pageSize": {
     "paperSize": "Paper Size",
