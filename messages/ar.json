@@ -697,6 +697,9 @@
     "browseButton": "تصفح"
   },
   "expert": {
-    "deletedSheet": "الورقة المحذوفة {index}."
+    "deletedSheet": "الورقة المحذوفة {index}.",
+    "help": {
+      "introHtml": "يمنحك <b>{0}</b> تحكمًا مباشرًا في المواضع والمزاريب والتدوير والزحف."
+    }
   }
 }

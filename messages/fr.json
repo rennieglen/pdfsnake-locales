@@ -697,6 +697,9 @@
     "browseButton": "parcourir"
   },
   "expert": {
-    "deletedSheet": "Feuille supprimée {index}."
+    "deletedSheet": "Feuille supprimée {index}.",
+    "help": {
+      "introHtml": "<b>{0}</b> vous permet de contrôler directement les positions, les gouttières, la rotation et le fluage."
+    }
   }
 }

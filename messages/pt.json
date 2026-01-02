@@ -697,6 +697,9 @@
     "browseButton": "navegar"
   },
   "expert": {
-    "deletedSheet": "Planilha excluída {index}."
+    "deletedSheet": "Planilha excluída {index}.",
+    "help": {
+      "introHtml": "<b>{0}</b> oferece controle direto sobre posições, medianizes, rotação e deslocamento."
+    }
   }
 }
