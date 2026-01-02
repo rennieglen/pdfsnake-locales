@@ -708,6 +708,7 @@
     "deletedSheet": "Deleted sheet {index}.",
     "help": {
       "introHtml": "<b>{0}</b> gives you direct control over positions, gutters, rotation, and creep."
-    }
+    },
+    "creep": "Creep"
   }
 }

@@ -701,6 +701,7 @@
     "deletedSheet": "已删除工作表 {index}。",
     "help": {
       "introHtml": "<b>{0}</b> 使您可以直接控制位置、间距、旋转和爬行。"
-    }
+    },
+    "creep": "蠕变"
   }
 }

@@ -701,6 +701,7 @@
     "deletedSheet": "Sheet {index} dihapus.",
     "help": {
       "introHtml": "<b>{0}</b> memberi Anda kontrol langsung atas posisi, talang, rotasi, dan mulur."
-    }
+    },
+    "creep": "Orang aneh"
   }
 }

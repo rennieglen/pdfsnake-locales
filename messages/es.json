@@ -700,6 +700,7 @@
     "deletedSheet": "Hoja eliminada {index}.",
     "help": {
       "introHtml": "<b>{0}</b> te brinda control directo sobre posiciones, medianiles, rotación y fluencia."
-    }
+    },
+    "creep": "Arrastrarse"
   }
 }
