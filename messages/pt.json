@@ -57,7 +57,8 @@
     "insertPages": "Inserir páginas",
     "cutterMarks": "Marcas de cortador",
     "layers": "Camadas",
-    "expert": "Grade de especialistas"
+    "expert": "Grade de especialistas",
+    "gang": "Folha de gangue"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -158,7 +159,9 @@
       "saddleSizeHelp": "O número de folhas a serem colocadas em cada pilha e dobra. Quando deixadas vazias, todas as folhas são colocadas em uma única pilha.",
       "fillLastSaddleHtml": "Frequentemente, haverá um número ímpar de páginas no documento de origem e a última dobra terá algumas páginas vazias. Quando a opção <strong>Preencher a última sela</strong> estiver marcada, páginas em branco serão adicionadas para que todas as dobras tenham o mesmo número de folhas. Quando a opção não estiver marcada, pode ser que a última dobra tenha menos folhas do que o resto.",
       "pageCreepHtml": "Na Etapa 5 do processo de encadernação de livro listada acima, as páginas são cortadas para nivelar as bordas livres. Mais papel será cortado da folha no centro da dobra do que da folha do lado de fora da dobra, porque a dobra sobressai mais neste caso. Isso é chamado de <i>deslocamento de página</i>. Para compensar isso e fazer com que todas as páginas apareçam na mesma posição depois que o livro for encadernado e cortado, as páginas devem ser ligeiramente ajustadas, dependendo de fatores como a espessura do papel. Cada página é ligeiramente ajustada pelo valor definido em <strong>Deslocamento de página</strong>. Para entender exatamente o que essa ferramenta faz, tente definir o <strong>Deslocamento de página</strong> para meia polegada ou cerca de dez milímetros, e veja os resultados.",
-      "rotatePages": "Gire as páginas impressas na orientação retrato, para que seja fácil imprimir na maioria das impressoras de escritório."
+      "rotatePages": "Gire as páginas impressas na orientação retrato, para que seja fácil imprimir na maioria das impressoras de escritório.",
+      "inward": "A largura da margem define a margem da folha mais externa do livreto; a partir daí, as páginas avançam para dentro, em direção à encadernação.",
+      "outward": "A largura da margem define a margem para a dobra central do livreto, e então as páginas se expandem para fora em direção às bordas."
     },
     "output": "Saída",
     "rotatePages": "Girar páginas"
@@ -605,7 +608,8 @@
     "rules": "Regras",
     "spaceBetween": "Espaço entre",
     "addCustomNames": "Adicione texto personalizado aos nomes dos arquivos.",
-    "displayCutBlocks": "Exibir JDF CutBlocks em"
+    "displayCutBlocks": "Exibir JDF CutBlocks em",
+    "appendCustomNames": "Adicione texto personalizado aos nomes dos arquivos."
   },
   "insertPages": {
     "insertBefore": "Inserir antes da página",
@@ -654,7 +658,8 @@
   "layers": {
     "help": {
       "summaryHtml": "<b>Camadas</b> ativa e desativa camadas.",
-      "selectHtml": "Selecione a opção <b>Ativar</b> ou <b>Desativar</b> para ativar ou desativar uma camada, ou selecione a opção do meio para deixar a camada inalterada."
+      "selectHtml": "Selecione a opção <b>Ativar</b> ou <b>Desativar</b> para ativar ou desativar uma camada, ou selecione a opção do meio para deixar a camada inalterada.",
+      "ocgs": "O Adobe Illustrator chama-os de Camadas, mas em documentos PDF são chamados de Grupos de Conteúdo Opcional."
     },
     "on": "Ativar",
     "off": "Desativar",
@@ -699,7 +704,11 @@
   "expert": {
     "deletedSheet": "Planilha excluída {index}.",
     "help": {
-      "introHtml": "<b>{0}</b> oferece controle direto sobre posições, medianizes, rotação e deslocamento."
+      "introHtml": "<b>{0}</b> oferece controle direto sobre posições, medianizes, rotação e deslocamento.",
+      "editingP1": "Clique em {0} para editar os valores de espaçamento, margens, rotação e deslocamento lateral.",
+      "editingP2": "Use a tecla Tab e as setas do teclado para acessar rapidamente todas as opções desta ferramenta. Apontar e clicar em cada botão seria tedioso e demorado.",
+      "editingTitle": "Editando o layout",
+      "p1": "Esta ferramenta foi projetada para layouts mais complexos que não podem ser facilmente implementados com as outras ferramentas do PDF Snake."
     },
     "creep": "Rastejar"
   }

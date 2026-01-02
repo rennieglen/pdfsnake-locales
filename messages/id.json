@@ -57,7 +57,8 @@
     "insertPages": "Sisipkan Halaman",
     "cutterMarks": "Tanda Pemotong",
     "layers": "Lapisan",
-    "expert": "Kotak Pakar"
+    "expert": "Kotak Pakar",
+    "gang": "Lembar Gang"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -158,7 +159,9 @@
       "saddleSizeHelp": "Jumlah lembaran yang ditumpukkan untuk dilipat. Jika dibiarkan kosong, semua lembaran dianggap ditaruh dalam satu tumpukan.",
       "fillLastSaddleHtml": "Terkadang, ada jumlah halaman ganjil di dokumen sumber, dan lipatan terakhir akan memiliki beberapa halaman kosong. Ketika <strong>Isi <i>saddle</i> terakhir</strong> dicentang, halaman-halaman kosong akan ditambahkan supaya semua lipatan memiliki jumlah lembaran yang sama. Jika tidak dicentang, lipatan terakhir mungkin memiliki lembaran yang lebih sedikit dari lipatan lainnya.",
       "pageCreepHtml": "Pada Langkah 5 proses penjilidan buku di atas, halaman-halamannya dipotong untuk meratakan kertasnya. Lembaran yang berada di tengah lipatan akan dipotong lebih banyak daripada lembaran yang berada di bagian luar, karena pinggirannya lebih muncul. Hal ini dinamakan \"<i>creep</i> halaman\". Supaya semua halaman terlihat berada dalam posisi yang sama setelah buku tersebut dijilid dan dipotong, halaman-halamannya harus diatur sedemikian rupa dengan memperhitungkan faktor-faktor seperti ketebalan kertas. Setiap halaman digeser sedikit berdasarkan nilai yang ditentukan dalam <strong><i>Creep</i> Halaman</strong>. Untuk lebih mengerti apa yang dilakukan oleh nilai ini, cobalah mengatur <strong><i>Creep</i> Halaman</strong> menjadi setengah inci atau sekitar sepuluh milimeter, dan lihat hasilnya.",
-      "rotatePages": "Putar halaman keluaran ke orientasi potret, sehingga mudah untuk mencetak dari sebagian besar printer kantor."
+      "rotatePages": "Putar halaman keluaran ke orientasi potret, sehingga mudah untuk mencetak dari sebagian besar printer kantor.",
+      "inward": "Lebar celah antar halaman menentukan jarak antara halaman pertama dan kedua untuk lembar terluar buku, kemudian halaman-halaman selanjutnya merambat ke dalam menuju jilid.",
+      "outward": "Lebar celah menentukan celah untuk lipatan tengah buklet, kemudian halaman-halaman bergeser ke arah tepi."
     },
     "output": "Keluaran",
     "rotatePages": "Putar halaman"
@@ -655,7 +658,8 @@
   "layers": {
     "help": {
       "summaryHtml": "<b>Lapisan</b> mengaktifkan dan menonaktifkan lapisan.",
-      "selectHtml": "Pilih opsi <b>Aktifkan</b> atau <b>Nonaktifkan</b> untuk menghidupkan atau mematikan lapisan, atau pilih opsi tengah untuk membiarkan lapisan tidak berubah."
+      "selectHtml": "Pilih opsi <b>Aktifkan</b> atau <b>Nonaktifkan</b> untuk menghidupkan atau mematikan lapisan, atau pilih opsi tengah untuk membiarkan lapisan tidak berubah.",
+      "ocgs": "Adobe Illustrator menyebutnya Layers, tetapi dalam dokumen PDF, namanya adalah Optional Content Groups."
     },
     "on": "Mengaktifkan",
     "off": "Menonaktifkan",
@@ -700,7 +704,11 @@
   "expert": {
     "deletedSheet": "Sheet {index} dihapus.",
     "help": {
-      "introHtml": "<b>{0}</b> memberi Anda kontrol langsung atas posisi, talang, rotasi, dan mulur."
+      "introHtml": "<b>{0}</b> memberi Anda kontrol langsung atas posisi, talang, rotasi, dan mulur.",
+      "editingP1": "Klik {0} untuk mengedit nilai untuk jarak antar panel, margin, rotasi, dan pergeseran.",
+      "editingP2": "Gunakan tombol Tab dan tombol panah pada keyboard Anda untuk memasukkan semua opsi untuk alat ini dengan cepat. Menunjuk dan mengklik setiap tombol kecil akan membosankan dan lambat.",
+      "editingTitle": "Mengedit Tata Letak",
+      "p1": "Alat ini dirancang untuk tata letak yang lebih rumit yang tidak dapat dengan mudah diatur dengan alat lain dari PDF Snake."
     },
     "creep": "Orang aneh"
   }

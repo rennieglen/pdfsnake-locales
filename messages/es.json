@@ -57,7 +57,8 @@
     "insertPages": "Insertar páginas",
     "cutterMarks": "Marcas de cortador",
     "layers": "Capas",
-    "expert": "Cuadrícula experta"
+    "expert": "Cuadrícula experta",
+    "gang": "Hoja de cuadrilla"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -158,7 +159,9 @@
       "saddleSizeHelp": "El número de hojas que se colocarán en cada pila y se doblarán. Si se deja vacía, todas las hojas serán colocadas en una sola pila.",
       "fillLastSaddleHtml": "Frecuentemente, va a haber un número impar de páginas en el documento de origen y el último pliego tendrá algunas páginas vacías. Cuando <strong>Completar último pliego</strong> está marcada,las páginas en blanco se añadirán para que todos los pliegues tengan el mismo número de hojas. Cuando no está marcada, el último pliegue puede que tenga menos hojas que el resto.",
       "pageCreepHtml": " En el paso 5 del proceso de encuadernación listado arriba, las páginas se recortan para hacer que los bordes libres queden alineados. Más papel es recortado de la hoja en el centro del pliegue que de la hoja afuera del pliegue, debido a que su borde sobresale más. Esto se llama <i>corrección de desplazamiento</i>. Con el fin de compensar esto, así como para lograr que todas las páginas aparezcan en la misma posición después de que el libro sea encuadernado y cortado,las páginas deben ser ajustadas ligeramente, dependiendo de factores como el grosor del papel. Cada página es ligeramente ajustada por el valor definido en <strong>Corrección de desplazamiento</strong>. Para entender exactamento lo que esto hace, intente definir <strong>Corrección de desplazamiento</strong> a media pulgada, o cerca de diez milímetros y observe los resultados.",
-      "rotatePages": "Gire las páginas de salida en orientación vertical, para que sea fácil imprimir desde la mayoría de las impresoras de oficina."
+      "rotatePages": "Gire las páginas de salida en orientación vertical, para que sea fácil imprimir desde la mayoría de las impresoras de oficina.",
+      "inward": "El ancho del margen establece el margen para la hoja más externa del folleto, luego las páginas se desplazan hacia adentro en dirección a la encuadernación.",
+      "outward": "El ancho del canal establece el margen para el pliegue central del folleto, luego las páginas se desplazan hacia afuera en dirección a los bordes."
     },
     "output": "Producción",
     "rotatePages": "Rotar páginas"
@@ -605,7 +608,8 @@
     "rules": "Normas",
     "spaceBetween": "Espacio entre",
     "appendCustomNames": "Adjuntar texto personalizado a los nombres de archivos.",
-    "displayCutBlocks": "Mostrar bloques JDF en"
+    "displayCutBlocks": "Mostrar bloques JDF en",
+    "addCustomNames": ""
   },
   "insertPages": {
     "insertBefore": "Insertar antes de la página",
@@ -654,7 +658,8 @@
   "layers": {
     "help": {
       "summaryHtml": "<b>Capas</b> activa y desactiva las capas.",
-      "selectHtml": "Seleccione la opción <b>Activar</b> o <b>Desactivar</b> para activar o desactivar una capa, o seleccione la opción del medio para dejar la capa sin cambios."
+      "selectHtml": "Seleccione la opción <b>Activar</b> o <b>Desactivar</b> para activar o desactivar una capa, o seleccione la opción del medio para dejar la capa sin cambios.",
+      "ocgs": "Adobe Illustrator los llama capas, pero en los documentos PDF se llaman grupos de contenido opcional."
     },
     "on": "Activar",
     "off": "Desactivar",
@@ -699,7 +704,11 @@
   "expert": {
     "deletedSheet": "Hoja eliminada {index}.",
     "help": {
-      "introHtml": "<b>{0}</b> te brinda control directo sobre posiciones, medianiles, rotación y fluencia."
+      "introHtml": "<b>{0}</b> te brinda control directo sobre posiciones, medianiles, rotación y fluencia.",
+      "editingP1": "Haga clic en {0} para editar los valores de los márgenes, las canaletas, la rotación y el desplazamiento.",
+      "editingP2": "Usa la tecla Tab y las flechas del teclado para acceder rápidamente a todas las opciones de esta herramienta. Apuntar y hacer clic en cada pequeño botón sería tedioso y lento.",
+      "editingTitle": "Edición del diseño",
+      "p1": "Esta herramienta está diseñada para diseños más complicados que no se pueden imponer fácilmente con otras herramientas de PDF Snake."
     },
     "creep": "Arrastrarse"
   }

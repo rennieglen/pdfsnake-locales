@@ -707,7 +707,11 @@
   "expert": {
     "deletedSheet": "Deleted sheet {index}.",
     "help": {
-      "introHtml": "<b>{0}</b> gives you direct control over positions, gutters, rotation, and creep."
+      "introHtml": "<b>{0}</b> gives you direct control over positions, gutters, rotation, and creep.",
+      "p1": "This tool is designed for more complicated layouts that cannot be easily imposed with PDF Snake's other tools.",
+      "editingTitle": "Editing the Layout",
+      "editingP1": "Click {0} to edit values for gutters, margins, rotation and creep.",
+      "editingP2": "Use the Tab key and the arrow keys on your keyboard to quickly enter all the options for this tool. Pointing and clicking every little button would be tedious and slow."
     },
     "creep": "Creep"
   }
