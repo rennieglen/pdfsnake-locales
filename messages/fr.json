@@ -708,7 +708,19 @@
       "editingP1": "Cliquez sur {0} pour modifier les valeurs des gouttières, des marges, de la rotation et du fluage.",
       "editingP2": "Utilisez la touche Tabulation et les flèches directionnelles de votre clavier pour accéder rapidement à toutes les options de cet outil. Cliquer sur chaque bouton serait fastidieux et lent.",
       "editingTitle": "Modification de la mise en page",
-      "p1": "Cet outil est conçu pour des mises en page plus complexes qui ne peuvent pas être facilement imposées avec les autres outils de PDF Snake."
+      "p1": "Cet outil est conçu pour des mises en page plus complexes qui ne peuvent pas être facilement imposées avec les autres outils de PDF Snake.",
+      "setCreepToZeroHtml": "Définissez <b>creep</b> sur 0 pour les travaux non cousus à cheval comme les cartes et les livres à reliure parfaite.",
+      "setCreepToThickness": "Pour les travaux de reliure à cheval, définissez <b>déplacement</b> sur l'épaisseur du papier. Utilisez ensuite les boutons de déplacement ci-dessous pour indiquer à PDF Snake le nombre de feuilles à ajouter à chaque page.",
+      "deletesSheet": "Supprime la feuille.",
+      "insertsSheet": "Insère une nouvelle feuille.",
+      "copiesSheet": "Copie la feuille.",
+      "movesSheetDown": "Déplace la feuille vers le bas dans l'ordre des feuilles.",
+      "creepButtonsVisible": "Les boutons et indicateurs de fluage ne seront visibles que lorsque le fluage sera supérieur à zéro.",
+      "marginsVisible": "Les paramètres de marge et de gouttière ne sont affichés que pour la première et la deuxième feuille des documents recto verso. Ces paramètres sont automatiquement appliqués à la troisième feuille et aux suivantes.",
+      "rotateButton": "bouton de rotation",
+      "creepButton": "bouton rampant",
+      "creepIndicator": "indicateur de fluage",
+      "movesSheetUp": "Déplace la feuille vers le haut dans l'ordre des feuilles."
     },
     "creep": "Ramper"
   }

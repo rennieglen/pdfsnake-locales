@@ -708,7 +708,19 @@
       "editingP1": "Klik {0} untuk mengedit nilai untuk jarak antar panel, margin, rotasi, dan pergeseran.",
       "editingP2": "Gunakan tombol Tab dan tombol panah pada keyboard Anda untuk memasukkan semua opsi untuk alat ini dengan cepat. Menunjuk dan mengklik setiap tombol kecil akan membosankan dan lambat.",
       "editingTitle": "Mengedit Tata Letak",
-      "p1": "Alat ini dirancang untuk tata letak yang lebih rumit yang tidak dapat dengan mudah diatur dengan alat lain dari PDF Snake."
+      "p1": "Alat ini dirancang untuk tata letak yang lebih rumit yang tidak dapat dengan mudah diatur dengan alat lain dari PDF Snake.",
+      "setCreepToZeroHtml": "Atur <b>creep</b> ke 0 untuk pekerjaan yang tidak menggunakan jahitan tengah seperti kartu, dan buku jilid sempurna.",
+      "setCreepToThickness": "Untuk pekerjaan jahit sadel, atur <b>creep</b> ke ketebalan kertas. Kemudian gunakan tombol creep yang ditunjukkan di bawah ini untuk memberi tahu PDF Snake berapa lembar yang harus dilewati setiap halaman.",
+      "deletesSheet": "Menghapus lembar kerja.",
+      "insertsSheet": "Menyisipkan lembar baru.",
+      "copiesSheet": "Menyalin lembar tersebut.",
+      "movesSheetDown": "Menggeser lembar ke bawah dalam urutan lembar.",
+      "creepButtonsVisible": "Tombol creep dan indikator creep hanya akan terlihat ketika nilai creep lebih besar dari nol.",
+      "marginsVisible": "Pengaturan margin dan jarak antar halaman hanya ditampilkan untuk lembar pertama dan kedua pada dokumen dua sisi. Pengaturan tersebut akan otomatis diulang untuk lembar ketiga dan seterusnya.",
+      "rotateButton": "tombol putar",
+      "creepButton": "tombol merayap",
+      "creepIndicator": "indikator merayap",
+      "movesSheetUp": "Menggeser lembar kerja ke atas dalam urutan lembar kerja."
     },
     "creep": "Orang aneh"
   }

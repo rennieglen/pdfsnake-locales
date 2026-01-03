@@ -709,7 +709,19 @@
       "editingP1": "点击 {0} 编辑间距、边距、旋转和蠕变的值。",
       "editingP2": "使用键盘上的 Tab 键和方向键可以快速输入此工具的所有选项。逐个点击小按钮既繁琐又缓慢。",
       "editingTitle": "编辑布局",
-      "p1": "此工具专为使用 PDF Snake 的其他工具难以轻松实现的更复杂的布局而设计。"
+      "p1": "此工具专为使用 PDF Snake 的其他工具难以轻松实现的更复杂的布局而设计。",
+      "setCreepToZeroHtml": "对于卡片和胶装书籍等非骑马钉装订的作业，将 <b>creep</b> 设置为 0。",
+      "setCreepToThickness": "对于骑马钉装订的作业，请将“伸缩”设置为纸张厚度。然后使用下方所示的伸缩按钮，告诉 PDF Snake 每页要伸缩多少张纸。",
+      "deletesSheet": "删除该工作表。",
+      "insertsSheet": "插入新工作表。",
+      "copiesSheet": "复印表格。",
+      "movesSheetDown": "将工作表在工作表顺序中向下移动。",
+      "creepButtonsVisible": "只有当蠕变值大于零时，蠕变按钮和蠕变指示器才会显示。",
+      "marginsVisible": "仅双面文档的第一页和第二页会显示页边距和装订线设置。这些设置会自动应用于第三页及以后的页面。",
+      "rotateButton": "旋转按钮",
+      "creepButton": "爬行按钮",
+      "creepIndicator": "蠕变指示器",
+      "movesSheetUp": "将工作表在工作表顺序中向上移动。"
     },
     "creep": "蠕变"
   }

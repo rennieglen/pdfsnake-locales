@@ -708,7 +708,19 @@
       "editingP1": "Haga clic en {0} para editar los valores de los márgenes, las canaletas, la rotación y el desplazamiento.",
       "editingP2": "Usa la tecla Tab y las flechas del teclado para acceder rápidamente a todas las opciones de esta herramienta. Apuntar y hacer clic en cada pequeño botón sería tedioso y lento.",
       "editingTitle": "Edición del diseño",
-      "p1": "Esta herramienta está diseñada para diseños más complicados que no se pueden imponer fácilmente con otras herramientas de PDF Snake."
+      "p1": "Esta herramienta está diseñada para diseños más complicados que no se pueden imponer fácilmente con otras herramientas de PDF Snake.",
+      "setCreepToZeroHtml": "Establezca <b>creep</b> en 0 para trabajos que no requieran costura a caballete, como tarjetas y libros encuadernados a la perfección.",
+      "setCreepToThickness": "Para trabajos grapados a caballete, configure el desplazamiento según el grosor del papel. Luego, use los botones de desplazamiento que se muestran a continuación para indicarle a PDF Snake cuántas hojas debe desplazar cada página.",
+      "deletesSheet": "Elimina la hoja.",
+      "insertsSheet": "Inserta una nueva hoja.",
+      "copiesSheet": "Copia la hoja.",
+      "movesSheetDown": "Mueve la hoja hacia abajo en el orden de hojas.",
+      "creepButtonsVisible": "Los botones de deslizamiento y los indicadores de deslizamiento solo serán visibles cuando el deslizamiento sea mayor que cero.",
+      "marginsVisible": "Los ajustes de márgenes y márgenes solo se muestran para la primera y la segunda hoja en documentos a doble cara. Los ajustes se repiten automáticamente a partir de la tercera hoja.",
+      "rotateButton": "botón de rotación",
+      "creepButton": "botón de arrastre",
+      "creepIndicator": "indicador de deslizamiento",
+      "movesSheetUp": "Mueve la hoja hacia arriba en el orden de hojas."
     },
     "creep": "Arrastrarse"
   }

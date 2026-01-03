@@ -708,7 +708,19 @@
       "editingP1": "Clique em {0} para editar os valores de espaçamento, margens, rotação e deslocamento lateral.",
       "editingP2": "Use a tecla Tab e as setas do teclado para acessar rapidamente todas as opções desta ferramenta. Apontar e clicar em cada botão seria tedioso e demorado.",
       "editingTitle": "Editando o layout",
-      "p1": "Esta ferramenta foi projetada para layouts mais complexos que não podem ser facilmente implementados com as outras ferramentas do PDF Snake."
+      "p1": "Esta ferramenta foi projetada para layouts mais complexos que não podem ser facilmente implementados com as outras ferramentas do PDF Snake.",
+      "setCreepToZeroHtml": "Defina <b>creep</b> como 0 para trabalhos que não sejam grampeados, como cartões e livros com encadernação perfeita.",
+      "setCreepToThickness": "Para trabalhos com grampo, defina <b>creep</b> para a espessura do papel. Em seguida, use os botões de creep mostrados abaixo para informar ao PDF Snake quantas folhas devem ser deslocadas em cada página.",
+      "deletesSheet": "Apaga a folha.",
+      "insertsSheet": "Insere uma nova folha.",
+      "copiesSheet": "Copia a folha.",
+      "movesSheetDown": "Move a folha para baixo na ordem das folhas.",
+      "creepButtonsVisible": "Os botões e indicadores de \"creep\" só ficarão visíveis quando o \"creep\" for maior que zero.",
+      "marginsVisible": "As configurações de margem e espaçamento são exibidas apenas para a primeira e a segunda página em documentos frente e verso. As configurações se repetem automaticamente para a terceira página e seguintes.",
+      "rotateButton": "botão giratório",
+      "creepButton": "botão assustador",
+      "creepIndicator": "indicador de rastejamento",
+      "movesSheetUp": "Move a folha para cima na ordem das folhas."
     },
     "creep": "Rastejar"
   }
