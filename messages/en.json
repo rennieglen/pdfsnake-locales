@@ -711,7 +711,19 @@
       "p1": "This tool is designed for more complicated layouts that cannot be easily imposed with PDF Snake's other tools.",
       "editingTitle": "Editing the Layout",
       "editingP1": "Click {0} to edit values for gutters, margins, rotation and creep.",
-      "editingP2": "Use the Tab key and the arrow keys on your keyboard to quickly enter all the options for this tool. Pointing and clicking every little button would be tedious and slow."
+      "editingP2": "Use the Tab key and the arrow keys on your keyboard to quickly enter all the options for this tool. Pointing and clicking every little button would be tedious and slow.",
+      "setCreepToZeroHtml": "Set <b>creep</b> to 0 for non-saddle-stitched jobs like cards, and perfect-bound books.",
+      "setCreepToThickness": "For saddle-stitched jobs, set <b>creep</b> to thickness of the paper. Then use the creep buttons shown below to tell PDF Snake how many sheets to creep each page.",
+      "deletesSheet": "Deletes the sheet.",
+      "insertsSheet": "Inserts a new sheet.",
+      "copiesSheet": "Copies the sheet.",
+      "movesSheetUp": "Moves the sheet up in the sheet order.",
+      "movesSheetDown": "Moves the sheet down in the sheet order.",
+      "creepButtonsVisible": "Creep buttons and creep indicators will only be visible when creep is greater than zero.",
+      "marginsVisible": "Margin and gutter settings are only shown for the first sheet and the second sheet for double-sided documents.  The settings automatically repeat for the third sheet and beyond.",
+      "creepButton": "creep button",
+      "rotateButton": "rotate button",
+      "creepIndicator": "creep indicator"
     },
     "creep": "Creep"
   }
