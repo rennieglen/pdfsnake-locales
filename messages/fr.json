@@ -637,7 +637,9 @@
       "summary": "Les marques d'enregistrement des coupeurs sont des indicateurs imprimés utilisés pour aligner l'équipement de coupe précisément avec la feuille imprimée pendant les opérations de finition. \nContrairement à des marques de coupe simples, qui indiquent où couper, les marques d'enregistrement de coupe sont lues par des capteurs sur des machines de coupe, de tranche ou de finition automatisées pour s'assurer que chaque coupe est positionnée avec précision par rapport au contenu imprimé. \nCes marques aident à compenser de légers changements en position de feuille, en étirement ou en asymétrie pendant l'impression ou l'alimentation. \nIls sont essentiels dans les flux de travail automatisés à grande vitesse, en particulier dans les systèmes de finition numérique - pour maintenir une qualité de sortie cohérente et prévenir les erreurs de coupe.",
       "keyMark": "Une marque d'enregistrement supplémentaire près d'un coin que le coupeur utilise pour déterminer l'orientation de la feuille.",
       "spacing": "La distance entre les marques d'enregistrement des coupeurs tirées le long des bords de la feuille.  \nLe serpent PDF espace toujours les marques uniformément, de sorte que la distance précise entre les marques peut être différente de cette valeur.",
-      "dielines": "Ajoutez des diélines à votre document pour permettre à votre coupeur numérique de réduire automatiquement l'œuvre d'art. \nLes diélines apparaissent à l'écran mais sont ignorées par les imprimantes et les presses. \nAssurez-vous que la couche de diéline est nommée exactement comme prévu par votre coupeur numérique."
+      "dielines": "Ajoutez des diélines à votre document pour permettre à votre coupeur numérique de réduire automatiquement l'œuvre d'art. \nLes diélines apparaissent à l'écran mais sont ignorées par les imprimantes et les presses. \nAssurez-vous que la couche de diéline est nommée exactement comme prévu par votre coupeur numérique.",
+      "commonCuts": "La combinaison des lignes de coupe communes permet de réduire le nombre de lignes de coupe en fusionnant celles qui sont partagées entre plusieurs pages. Cela contribue à simplifier le processus de découpe et à réduire la quantité de découpe nécessaire.",
+      "overshoot": "Le paramètre de dépassement détermine la distance sur laquelle les marques de coupe s'étendent au-delà du bord de la page."
     },
     "cornersAndEdges": "Coins",
     "cornersOnly": "Coins seulement",
@@ -653,7 +655,9 @@
     "removeArtwork": "Supprimer les illustrations (créer un fichier de marques de coupe uniquement)",
     "inside": "À l'intérieur",
     "outside": "Dehors",
-    "thickness": "Épaisseur"
+    "thickness": "Épaisseur",
+    "commonCuts": "Combiner les coupes courantes",
+    "overshoot": "Dépasser"
   },
   "layers": {
     "help": {

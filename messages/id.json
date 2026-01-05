@@ -637,7 +637,9 @@
       "summary": "Tanda pendaftaran pemotong adalah indikator cetak yang digunakan untuk menyelaraskan peralatan pemotongan justru dengan lembar cetak selama operasi finishing. \nTidak seperti tanda pemotong sederhana, yang menunjukkan di mana harus memotong, tanda pendaftaran pemotong dibaca oleh sensor pada pemotongan otomatis, celah, atau mesin finishing untuk memastikan setiap potongan diposisikan secara akurat relatif terhadap konten yang dicetak. \nTanda ini membantu mengimbangi sedikit pergeseran dalam posisi lembaran, peregangan, atau condong selama pencetakan atau pemberian makan. \nMereka penting dalam alur kerja berkecepatan tinggi dan otomatis-terutama dalam sistem finishing digital-untuk mempertahankan kualitas output yang konsisten dan mencegah kesalahan pemotongan.",
       "keyMark": "Tanda pendaftaran tambahan di dekat satu sudut yang digunakan pemotong untuk menentukan orientasi lembar.",
       "spacing": "Jarak antara tanda pendaftaran pemotong yang ditarik di sepanjang tepi lembaran.  \nUlar PDF selalu memberi spasi tanda secara merata, sehingga jarak yang tepat antara tanda mungkin berbeda dari nilai ini.",
-      "dielines": "Tambahkan dielin ke dokumen Anda untuk memungkinkan pemotong digital Anda untuk secara otomatis memangkas karya seni. \nDielines muncul di layar tetapi diabaikan oleh printer dan penekan. \nPastikan lapisan dieline dinamai persis seperti yang diharapkan oleh pemotong digital Anda."
+      "dielines": "Tambahkan dielin ke dokumen Anda untuk memungkinkan pemotong digital Anda untuk secara otomatis memangkas karya seni. \nDielines muncul di layar tetapi diabaikan oleh printer dan penekan. \nPastikan lapisan dieline dinamai persis seperti yang diharapkan oleh pemotong digital Anda.",
+      "commonCuts:": "Menggabungkan garis potong yang umum digunakan akan mengurangi jumlah garis potong dengan menggabungkan garis-garis yang digunakan bersama oleh beberapa halaman. Hal ini dapat membantu menyederhanakan proses pemotongan dan mengurangi jumlah pemotongan yang diperlukan.",
+      "overshoot": "Pengaturan \"overshoot\" menentukan seberapa jauh tanda potong melampaui tepi halaman."
     },
     "cornersAndEdges": "Sudut",
     "cornersOnly": "Hanya sudut saja",
@@ -653,7 +655,9 @@
     "removeArtwork": "Hapus karya seni (buat file cut-mark saja)",
     "inside": "Di dalam",
     "outside": "Di luar",
-    "thickness": "Ketebalan"
+    "thickness": "Ketebalan",
+    "commonCuts": "Gabungkan potongan-potongan umum",
+    "overshoot": "Tanda potong overshoot"
   },
   "layers": {
     "help": {

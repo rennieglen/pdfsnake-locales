@@ -636,7 +636,9 @@
       "layer": "Marks will be drawn in this Optional Content Group.  Leave blank to draw the marks outside all content groups.",
       "spacing": "The distance between cutter registration marks drawn along the edges of the sheet.  PDF Snake always spaces the marks evenly, so the precise distance between the marks may be different from this value.",
       "keyMark": "An additional registration mark near one corner that the cutter uses to determine the orientation of the sheet.",
-      "dielines": "Add dielines to your document to enable your digital cutter to automatically trim the artwork. Dielines appear on screen but are ignored by printers and presses. Make sure the dieline layer is named exactly as expected by your digital cutter."
+      "dielines": "Add dielines to your document to enable your digital cutter to automatically trim the artwork. Dielines appear on screen but are ignored by printers and presses. Make sure the dieline layer is named exactly as expected by your digital cutter.",
+      "commonCuts": "Combining common cuts reduces the number of cut lines by merging lines that are shared between multiple pages. This can help to simplify the cutting process and reduce the amount of cutting required.",
+      "overshoot": "The overshoot setting determines how far the cut marks extend beyond the edge of the page."
     },
     "cornersOnly": "Corners Only",
     "cornersAndEdges": "Corners & Edges",
@@ -652,7 +654,9 @@
     "removeArtwork": "Remove artwork (create a cut-marks only file)",
     "inside": "Inside",
     "outside": "Outside",
-    "thickness": "Thickness"
+    "thickness": "Thickness",
+    "commonCuts": "Combine common cuts",
+    "overshoot": "Overshoot"
   },
   "layers": {
     "noLayers": "No layers found in {0}.",

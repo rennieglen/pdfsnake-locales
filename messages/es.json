@@ -637,7 +637,9 @@
       "summary": "Las marcas de registro de cortador son indicadores impresos utilizados para alinear los equipos de corte con precisión con la hoja impresa durante las operaciones de acabado. \nA diferencia de las marcas de cortador simples, que indican dónde cortar, los sensores leen las marcas de registro de cortador en los cortes automatizados, la reducción o las máquinas de acabado para garantizar que cada corte se coloque con precisión en relación con el contenido impreso. \nEstas marcas ayudan a compensar los ligeros cambios en la posición de la hoja, estirarse o sesgarse durante la impresión o la alimentación. \nSon esenciales en flujos de trabajo automatizados de alta velocidad, especialmente en los sistemas de acabado digital, para mantener una calidad de salida constante y evitar errores de corte.",
       "keyMark": "Una marca de registro adicional cerca de una esquina que usa el cortador para determinar la orientación de la hoja.",
       "spacing": "La distancia entre las marcas de registro de cortador dibujadas a lo largo de los bordes de la hoja.  \nLa serpiente PDF siempre espacia las marcas de manera uniforme, por lo que la distancia precisa entre las marcas puede ser diferente de este valor.",
-      "dielines": "Agregue dielinas a su documento para habilitar su cortador digital para recortar automáticamente la obra de arte. \nLas dielinas aparecen en la pantalla, pero son ignoradas por impresoras y prensas. \nAsegúrese de que la capa Dieline sea nombrada exactamente como se esperaba por su cortador digital."
+      "dielines": "Agregue dielinas a su documento para habilitar su cortador digital para recortar automáticamente la obra de arte. \nLas dielinas aparecen en la pantalla, pero son ignoradas por impresoras y prensas. \nAsegúrese de que la capa Dieline sea nombrada exactamente como se esperaba por su cortador digital.",
+      "commonCuts": "Combinar los cortes comunes reduce el número de líneas de corte al fusionar las líneas que comparten varias páginas. Esto puede ayudar a simplificar el proceso de corte y reducir la cantidad de cortes necesarios.",
+      "overshoot": "La configuración de sobrecorte determina cuánto se extienden las marcas de corte más allá del borde de la página."
     },
     "cornersAndEdges": "Rincones",
     "cornersOnly": "Solo esquinas",
@@ -653,7 +655,9 @@
     "removeArtwork": "Eliminar obras de arte (cree un archivo solo de marcas de corte)",
     "inside": "Adentro",
     "outside": "Afuera",
-    "thickness": "Espesor"
+    "thickness": "Espesor",
+    "commonCuts": "Combina cortes comunes",
+    "overshoot": "Excederse"
   },
   "layers": {
     "help": {
