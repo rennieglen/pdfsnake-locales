@@ -724,7 +724,8 @@
       "rotateButton": "botón de rotación",
       "creepButton": "botón de arrastre",
       "creepIndicator": "indicador de deslizamiento",
-      "movesSheetUp": "Mueve la hoja hacia arriba en el orden de hojas."
+      "movesSheetUp": "Mueve la hoja hacia arriba en el orden de hojas.",
+      "watchVideo": "Ver vídeo"
     },
     "creep": "Arrastrarse"
   }

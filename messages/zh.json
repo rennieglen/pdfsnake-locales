@@ -725,7 +725,8 @@
       "rotateButton": "旋转按钮",
       "creepButton": "爬行按钮",
       "creepIndicator": "蠕变指示器",
-      "movesSheetUp": "将工作表在工作表顺序中向上移动。"
+      "movesSheetUp": "将工作表在工作表顺序中向上移动。",
+      "watchVideo": "观看视频"
     },
     "creep": "蠕变"
   }

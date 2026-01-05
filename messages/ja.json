@@ -724,7 +724,8 @@
       "rotateButton": "回転ボタン",
       "creepButton": "クリープボタン",
       "creepIndicator": "クリープインジケーター",
-      "movesSheetUp": "シートの順序を上に移動します。"
+      "movesSheetUp": "シートの順序を上に移動します。",
+      "watchVideo": "ビデオを見る"
     },
     "creep": "クリープ"
   }

@@ -724,7 +724,8 @@
       "rotateButton": "bouton de rotation",
       "creepButton": "bouton rampant",
       "creepIndicator": "indicateur de fluage",
-      "movesSheetUp": "Déplace la feuille vers le haut dans l'ordre des feuilles."
+      "movesSheetUp": "Déplace la feuille vers le haut dans l'ordre des feuilles.",
+      "watchVideo": "Regarder la vidéo"
     },
     "creep": "Ramper"
   }

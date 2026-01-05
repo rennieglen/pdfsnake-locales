@@ -724,7 +724,8 @@
       "rotateButton": "botão giratório",
       "creepButton": "botão assustador",
       "creepIndicator": "indicador de rastejamento",
-      "movesSheetUp": "Move a folha para cima na ordem das folhas."
+      "movesSheetUp": "Move a folha para cima na ordem das folhas.",
+      "watchVideo": "Assistir ao vídeo"
     },
     "creep": "Rastejar"
   }

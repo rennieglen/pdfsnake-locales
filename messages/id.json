@@ -724,7 +724,8 @@
       "rotateButton": "tombol putar",
       "creepButton": "tombol merayap",
       "creepIndicator": "indikator merayap",
-      "movesSheetUp": "Menggeser lembar kerja ke atas dalam urutan lembar kerja."
+      "movesSheetUp": "Menggeser lembar kerja ke atas dalam urutan lembar kerja.",
+      "watchVideo": "Tonton Video"
     },
     "creep": "Orang aneh"
   }

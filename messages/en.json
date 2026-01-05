@@ -727,7 +727,8 @@
       "marginsVisible": "Margin and gutter settings are only shown for the first sheet and the second sheet for double-sided documents.  The settings automatically repeat for the third sheet and beyond.",
       "creepButton": "creep button",
       "rotateButton": "rotate button",
-      "creepIndicator": "creep indicator"
+      "creepIndicator": "creep indicator",
+      "watchVideo": "Watch Video"
     },
     "creep": "Creep"
   }

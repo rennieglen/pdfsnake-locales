@@ -724,7 +724,8 @@
       "rotateButton": "زر التدوير",
       "creepButton": "زر الزحف",
       "creepIndicator": "مؤشر الزحف",
-      "movesSheetUp": "ينقل الورقة إلى أعلى في ترتيب الأوراق."
+      "movesSheetUp": "ينقل الورقة إلى أعلى في ترتيب الأوراق.",
+      "watchVideo": "شاهد الفيديو"
     },
     "creep": "زحف"
   }
