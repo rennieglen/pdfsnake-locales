@@ -15,7 +15,9 @@
     "dropHere": "اسحب ملف الـ PDF أو JPEG أو PNG وأفلته هنا أو",
     "browse": "تصفح لتبدأ",
     "docsStayPrivate": "تحتفظ مستنداتك بخصوصيتها الكاملة لأنها لا تغادر جهازك مطلقًا.",
-    "help": "مساعدة"
+    "help": "مساعدة",
+    "howToImprove": "كيف ينبغي علينا تحسين PDF Snake؟",
+    "votingEnds": "ينتهي التصويت في 30 يناير 2026."
   },
   "about": {
     "plugIn": "PDF Snake 6 هو الإصدار الجديد من إضافة Adobe Acrobat للمتصفح الأكثر مبيعًا {link}.",
@@ -728,5 +730,20 @@
       "watchVideo": "شاهد الفيديو"
     },
     "creep": "زحف"
+  },
+  "survey2026": {
+    "whatFeatures": "ما هي الميزات التي يجب أن نضيفها إلى PDF Snake في عام 2026؟",
+    "iNeedIt": "أنا في حاجة إليه",
+    "iWantIt": "أريدها",
+    "iWontLikelyUseIt": "لن أستخدمه على الأرجح",
+    "illNeverUseIt": "لن أستخدمه أبدًا",
+    "qrCode": "ختم رمز QR في أداة Header Footer",
+    "moreSignInProviders": "المزيد من موفري خدمات تسجيل الدخول مثل Microsoft وApple",
+    "gangNesting": "تداخل الشكل الحقيقي في أداة Gang Sheet",
+    "namedFolders": "المجلدات المسماة في مربع الأدوات",
+    "n8n": "التكامل مع n8n",
+    "desktopVersion": "نسخة سطح المكتب من PDF Snake",
+    "somethingElse": "هل هناك أي رسالة لفريق PDF Snake؟",
+    "thankYou": "شكرا لك على التصويت."
   }
 }

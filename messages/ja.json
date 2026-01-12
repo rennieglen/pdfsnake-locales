@@ -15,7 +15,9 @@
     "dropHere": "PDF、JPEG、PNGファイルをこちらにドラッグ＆ドロップするか",
     "browse": "ファイルを参照",
     "docsStayPrivate": "文書ファイルは、非公開のままデバイス上に残ります。",
-    "help": "ヘルプ"
+    "help": "ヘルプ",
+    "howToImprove": "PDF Snakeをどのように改善すべきでしょうか?",
+    "votingEnds": "投票は 2026 年 1 月 30 日に終了します。"
   },
   "about": {
     "plugIn": "PDF Snake 6 は、ベストセラーとなったAdobe Acrobatプラグインの新しいオンラインバージョンです。 {link}",
@@ -728,5 +730,20 @@
       "watchVideo": "ビデオを見る"
     },
     "creep": "クリープ"
+  },
+  "survey2026": {
+    "whatFeatures": "2026 年には PDF Snake にどのような機能を追加する必要がありますか?",
+    "iNeedIt": "私はそれが必要です",
+    "iWantIt": "私はそれが欲しい",
+    "iWontLikelyUseIt": "たぶん使わないだろうな",
+    "illNeverUseIt": "絶対に使わないよ",
+    "qrCode": "ヘッダー フッター ツールでの QR コードのスタンプ",
+    "moreSignInProviders": "Microsoft や Apple などのサインイン プロバイダーの追加",
+    "gangNesting": "ギャング シート ツールでの実際の形状のネスト",
+    "namedFolders": "ツールボックス内の名前付きフォルダー",
+    "n8n": "n8nとの統合",
+    "desktopVersion": "PDF Snakeのデスクトップ版",
+    "somethingElse": "PDF Snake チームにメッセージはありますか?",
+    "thankYou": "投票していただきありがとうございます。"
   }
 }

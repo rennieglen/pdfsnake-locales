@@ -15,7 +15,9 @@
     "dropHere": "请将 PDF、JPEG 或 PNG 文件拖放到此处，或者",
     "browse": "通过浏览电脑中的文件开始使用",
     "docsStayPrivate": "您的文档会一直处于私密状态，因为您的文档一直都会在您的设备中。",
-    "help": "帮助"
+    "help": "帮助",
+    "howToImprove": "我们应该如何改进PDF Snake？",
+    "votingEnds": "投票将于 2026 年 1 月 30 日结束。"
   },
   "about": {
     "plugIn": "PDF Snake 6 是畅销 Adobe Acrobat 插件 {link} 的新在线版本。",
@@ -729,5 +731,20 @@
       "watchVideo": "观看视频"
     },
     "creep": "蠕变"
+  },
+  "survey2026": {
+    "whatFeatures": "2026 年我们应该为 PDF Snake 添加哪些功能？",
+    "iNeedIt": "我需要它",
+    "iWantIt": "我要它",
+    "iWontLikelyUseIt": "我不太可能使用它",
+    "illNeverUseIt": "我永远不会使用它",
+    "qrCode": "页眉页脚工具中的 QR 码标记",
+    "moreSignInProviders": "更多登录提供商（例如 Microsoft 和 Apple）",
+    "gangNesting": "排版工具中的真实形状嵌套",
+    "namedFolders": "工具箱中的命名文件夹",
+    "n8n": "与 n8n 集成",
+    "desktopVersion": "PDF Snake 的桌面版本",
+    "somethingElse": "有什么消息要给 PDF Snake 团队说吗？",
+    "thankYou": "感谢您的投票。"
   }
 }

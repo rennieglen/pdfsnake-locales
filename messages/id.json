@@ -15,7 +15,9 @@
     "dropHere": "Tarik sebuah file PDF, JPEG, atau PNG ke sini atau",
     "browse": "Pilih File untuk Memulai",
     "docsStayPrivate": "Dokumen-dokumen Anda tetap terjaga kerahasiaannya karena mereka tidak pernah meninggalkan perangkat Anda.",
-    "help": "Bantuan"
+    "help": "Bantuan",
+    "howToImprove": "Bagaimana cara meningkatkan PDF Snake?",
+    "votingEnds": "Voting berakhir 30 Januari 2026."
   },
   "about": {
     "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
@@ -728,5 +730,20 @@
       "watchVideo": "Tonton Video"
     },
     "creep": "Orang aneh"
+  },
+  "survey2026": {
+    "whatFeatures": "Fitur apa yang harus kami tambahkan ke PDF Snake pada tahun 2026?",
+    "iNeedIt": "Saya membutuhkannya",
+    "iWantIt": "Saya menginginkannya",
+    "iWontLikelyUseIt": "Saya mungkin tidak akan menggunakannya",
+    "illNeverUseIt": "Saya tidak akan pernah menggunakannya",
+    "qrCode": "Stempel kode QR di alat Header Footer",
+    "moreSignInProviders": "Lebih banyak penyedia masuk seperti Microsoft dan Apple",
+    "gangNesting": "Bentuk sebenarnya bersarang di alat Gang Sheet",
+    "namedFolders": "Folder bernama di kotak alat",
+    "n8n": "Mengintegrasikan dengan n8n",
+    "desktopVersion": "Versi desktop PDF Snake",
+    "somethingElse": "Ada pesan untuk tim PDF Snake?",
+    "thankYou": "Terima kasih telah memilih."
   }
 }

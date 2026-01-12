@@ -15,7 +15,9 @@
     "dropHere": "Arraste e solte um arquivo PDF, JPEG ou PNG aqui ou",
     "browse": "Procure para começar",
     "docsStayPrivate": "Seus documentos permanecem privados porque nunca saem do seu dispositivo.",
-    "help": "Ajuda"
+    "help": "Ajuda",
+    "howToImprove": "Como devemos melhorar o PDF Snake?",
+    "votingEnds": "A votação termina em 30 de janeiro de 2026."
   },
   "about": {
     "plugIn": "PDF Snake 6 é uma nova versão online do plug-in Adobe Acrobat mais vendido {link}.",
@@ -728,5 +730,20 @@
       "watchVideo": "Assistir ao vídeo"
     },
     "creep": "Rastejar"
+  },
+  "survey2026": {
+    "whatFeatures": "Quais recursos devemos adicionar ao PDF Snake em 2026?",
+    "iNeedIt": "eu preciso disso",
+    "iWantIt": "Quero isso",
+    "iWontLikelyUseIt": "Provavelmente não vou usá-lo",
+    "illNeverUseIt": "Eu nunca vou usar isso",
+    "qrCode": "Carimbo de código QR na ferramenta Cabeçalho Rodapé",
+    "moreSignInProviders": "Mais provedores de login como Microsoft e Apple",
+    "gangNesting": "Aninhamento de forma verdadeira na ferramenta Gang Sheet",
+    "namedFolders": "Pastas nomeadas na caixa de ferramentas",
+    "n8n": "Integrando com n8n",
+    "desktopVersion": "Uma versão desktop do PDF Snake",
+    "somethingElse": "Alguma mensagem para a equipe do PDF Snake?",
+    "thankYou": "Obrigado por votar."
   }
 }
