@@ -15,7 +15,9 @@
     "dropHere": "Drag and drop a PDF, JPEG, or PNG file here or",
     "browse": "Browse to Begin",
     "docsStayPrivate": "Your documents stay private because they never leave your device.",
-    "help": "Help"
+    "help": "Help",
+    "howToImprove": "How should we improve PDF Snake?",
+    "votingEnds": "Voting ends January 30, 2026."
   },
   "about": {
     "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
@@ -731,5 +733,21 @@
       "watchVideo": "Watch Video"
     },
     "creep": "Creep"
+  },
+  "survey2026": {
+    "whatFeatures": "What features should we add to PDF Snake in 2026?",
+    "iNeedIt": "I need it",
+    "iWantIt": "I want it",
+    "iWontLikelyUseIt": "I won't likely use it",
+    "illNeverUseIt": "I'll never use it",
+    "qrCode": "QR code stamping in the Header Footer tool",
+    "moreSignInProviders": "More sign in providers like Microsoft and Apple",
+    "gangNesting": "True shape nesting in the Gang Sheet tool",
+    "namedFolders": "Named folders in the toolbox",
+    "n8n": "Integrating with n8n",
+    "desktopVersion": "A desktop version of PDF Snake",
+    "expertMagic": "A magic button in the Expert Grid tool that examines the layout in the first two sheets, and then adds more sheets following the same pattern.",
+    "somethingElse": "Any message for the PDF Snake team?",
+    "thankYou": "Thank you for voting."
   }
 }
