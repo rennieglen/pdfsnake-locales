@@ -748,6 +748,7 @@
     "desktopVersion": "A desktop version of PDF Snake",
     "expertMagic": "A magic button in the {0} tool that examines the layout in the first two sheets, and then adds more sheets following the same pattern.",
     "somethingElse": "Any message for the PDF Snake team?",
-    "thankYou": "Thank you for voting."
+    "thankYou": "Thank you for voting.",
+    "pleaseSignIn": "Please sign in."
   }
 }

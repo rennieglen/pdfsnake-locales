@@ -744,6 +744,7 @@
     "n8n": "n8nとの統合",
     "desktopVersion": "PDF Snakeのデスクトップ版",
     "somethingElse": "PDF Snake チームにメッセージはありますか?",
-    "thankYou": "投票していただきありがとうございます。"
+    "thankYou": "投票していただきありがとうございます。",
+    "pleaseSignIn": "サインインしてください。"
   }
 }

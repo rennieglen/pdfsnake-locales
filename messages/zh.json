@@ -745,6 +745,7 @@
     "n8n": "与 n8n 集成",
     "desktopVersion": "PDF Snake 的桌面版本",
     "somethingElse": "有什么消息要给 PDF Snake 团队说吗？",
-    "thankYou": "感谢您的投票。"
+    "thankYou": "感谢您的投票。",
+    "pleaseSignIn": "请登录。"
   }
 }

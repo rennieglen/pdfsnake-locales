@@ -744,6 +744,7 @@
     "n8n": "Integrando con n8n",
     "desktopVersion": "Una versión de escritorio de PDF Snake",
     "somethingElse": "¿Algún mensaje para el equipo de PDF Snake?",
-    "thankYou": "Gracias por votar."
+    "thankYou": "Gracias por votar.",
+    "pleaseSignIn": "Por favor inicia sesión."
   }
 }

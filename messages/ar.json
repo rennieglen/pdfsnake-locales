@@ -744,6 +744,7 @@
     "n8n": "التكامل مع n8n",
     "desktopVersion": "نسخة سطح المكتب من PDF Snake",
     "somethingElse": "هل هناك أي رسالة لفريق PDF Snake؟",
-    "thankYou": "شكرا لك على التصويت."
+    "thankYou": "شكرا لك على التصويت.",
+    "pleaseSignIn": "الرجاء تسجيل الدخول."
   }
 }
