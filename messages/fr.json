@@ -745,6 +745,7 @@
     "desktopVersion": "Une version de bureau de PDF Snake",
     "somethingElse": "Un message pour l’équipe PDF Snake ?",
     "thankYou": "Merci d'avoir voté.",
-    "pleaseSignIn": "Veuillez vous connecter."
+    "pleaseSignIn": "Veuillez vous connecter.",
+    "vdp": "Impression de données variables"
   }
 }
