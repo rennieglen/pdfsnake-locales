@@ -751,5 +751,9 @@
     "thankYou": "Thank you for voting.",
     "pleaseSignIn": "Please sign in.",
     "vdp": "Variable Data Printing"
+  },
+  "tryExpert": {
+    "tryIt": "Try {0}!",
+    "needPreciseTool": "Need a more precise layout tool?"
   }
 }

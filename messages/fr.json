@@ -747,5 +747,9 @@
     "thankYou": "Merci d'avoir voté.",
     "pleaseSignIn": "Veuillez vous connecter.",
     "vdp": "Impression de données variables"
+  },
+  "tryExpert": {
+    "needPreciseTool": "Besoin d'un outil de mise en page plus précis ?",
+    "tryIt": "Essayez {0} !"
   }
 }

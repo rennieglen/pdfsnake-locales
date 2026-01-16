@@ -748,5 +748,9 @@
     "thankYou": "感谢您的投票。",
     "pleaseSignIn": "请登录。",
     "vdp": "可变数据打印"
+  },
+  "tryExpert": {
+    "needPreciseTool": "需要更精确的布局工具吗？",
+    "tryIt": "尝试{0}！"
   }
 }

@@ -747,5 +747,9 @@
     "thankYou": "Gracias por votar.",
     "pleaseSignIn": "Por favor inicia sesión.",
     "vdp": "Impresión de datos variables"
+  },
+  "tryExpert": {
+    "needPreciseTool": "¿Necesita una herramienta de diseño más precisa?",
+    "tryIt": "¡Pruebe {0}!"
   }
 }

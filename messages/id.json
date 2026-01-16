@@ -747,5 +747,9 @@
     "thankYou": "Terima kasih telah memilih.",
     "pleaseSignIn": "Silakan masuk.",
     "vdp": "Pencetakan Data Variabel"
+  },
+  "tryExpert": {
+    "needPreciseTool": "Butuh alat tata letak yang lebih presisi?",
+    "tryIt": "Coba {0}!"
   }
 }
