@@ -261,7 +261,8 @@
     "settings": "Ajustes",
     "showCheckerboard": "Rellenar fondo",
     "showRules": "reglas del sorteo",
-    "downloadJdf": "Descargar JDF con Cutblocks"
+    "downloadJdf": "Descargar JDF con Cutblocks",
+    "print": "Imprimir"
   },
   "home": {
     "step": "Etapa {number}: {name}",

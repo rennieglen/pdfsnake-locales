@@ -261,7 +261,8 @@
     "settings": "Paramètres",
     "showCheckerboard": "Remplir l'arrière-plan",
     "showRules": "Dessiner des règles",
-    "downloadJdf": "Télécharger JDF avec CutBlocks"
+    "downloadJdf": "Télécharger JDF avec CutBlocks",
+    "print": "Imprimer"
   },
   "home": {
     "step": "Étape {number}: {name}",

@@ -261,7 +261,8 @@
     "settings": "設定",
     "showCheckerboard": "背景を塗りつぶす",
     "showRules": "描画ルール",
-    "downloadJdf": "JDFをダウンロード"
+    "downloadJdf": "JDFをダウンロード",
+    "print": "印刷する"
   },
   "home": {
     "step": "ステップ {number}: {name}",

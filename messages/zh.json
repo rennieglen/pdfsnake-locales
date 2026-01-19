@@ -261,7 +261,8 @@
     "settings": "设置",
     "showCheckerboard": "填充背景",
     "showRules": "抽奖规则",
-    "downloadJdf": "使用Cutblocks下载JDF"
+    "downloadJdf": "使用Cutblocks下载JDF",
+    "print": "打印"
   },
   "home": {
     "step": "第 {number} 步：{name}",

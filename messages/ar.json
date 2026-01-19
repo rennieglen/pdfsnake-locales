@@ -261,7 +261,8 @@
     "settings": "إعدادات",
     "showCheckerboard": "ملء الخلفية",
     "showRules": "ارسم القواعد",
-    "downloadJdf": "قم بتنزيل JDF مع CutBlocks"
+    "downloadJdf": "قم بتنزيل JDF مع CutBlocks",
+    "print": "مطبعة"
   },
   "home": {
     "step": "خطوة {number} {name}",

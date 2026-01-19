@@ -261,7 +261,8 @@
     "showRules": "Draw rules",
     "showCheckerboard": "Fill background",
     "settings": "Settings",
-    "downloadJdf": "Download JDF with CutBlocks"
+    "downloadJdf": "Download JDF with CutBlocks",
+    "print": "Print"
   },
   "home": {
     "step": "Step {number}: {name}",

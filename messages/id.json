@@ -261,7 +261,8 @@
     "settings": "Pengaturan",
     "showCheckerboard": "Isi latar belakang",
     "showRules": "Menggambar aturan",
-    "downloadJdf": "Unduh JDF dengan cutblocks"
+    "downloadJdf": "Unduh JDF dengan cutblocks",
+    "print": "Mencetak"
   },
   "home": {
     "step": "Langkah {number}: {name}",
