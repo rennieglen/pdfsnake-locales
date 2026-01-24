@@ -756,5 +756,8 @@
   "tryExpert": {
     "tryIt": "Try {0}!",
     "needPreciseTool": "Need a more precise layout tool?"
+  },
+  "support": {
+    "showEmail": "Show email address"
   }
 }

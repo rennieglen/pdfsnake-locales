@@ -752,5 +752,8 @@
   "tryExpert": {
     "needPreciseTool": "Besoin d'un outil de mise en page plus précis ?",
     "tryIt": "Essayez {0} !"
+  },
+  "support": {
+    "showEmail": "Afficher l'adresse e-mail"
   }
 }

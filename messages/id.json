@@ -752,5 +752,8 @@
   "tryExpert": {
     "needPreciseTool": "Butuh alat tata letak yang lebih presisi?",
     "tryIt": "Coba {0}!"
+  },
+  "support": {
+    "showEmail": "Tampilkan alamat email"
   }
 }

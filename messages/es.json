@@ -752,5 +752,8 @@
   "tryExpert": {
     "needPreciseTool": "¿Necesita una herramienta de diseño más precisa?",
     "tryIt": "¡Pruebe {0}!"
+  },
+  "support": {
+    "showEmail": "Mostrar dirección de correo electrónico"
   }
 }

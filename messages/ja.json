@@ -752,5 +752,8 @@
   "tryExpert": {
     "needPreciseTool": "より正確なレイアウト ツールが必要ですか?",
     "tryIt": "{0} を試してください!"
+  },
+  "support": {
+    "showEmail": "メールアドレスを表示"
   }
 }

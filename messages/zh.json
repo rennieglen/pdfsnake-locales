@@ -753,5 +753,8 @@
   "tryExpert": {
     "needPreciseTool": "需要更精确的布局工具吗？",
     "tryIt": "尝试{0}！"
+  },
+  "support": {
+    "showEmail": "显示电子邮件地址"
   }
 }
